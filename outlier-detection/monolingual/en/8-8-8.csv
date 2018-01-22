@@ -1,0 +1,9 @@
+,category,outliers,words
+0,Information_Technology_companies,"['Opel', 'Boeing', 'Nestlé', 'Adidas', 'computer', 'software', 'chair', 'plant', '']","['Apple', 'Foxconn', 'Amazon', 'HP', 'Microsoft', 'IBM', 'Google', 'Sony']"
+1,German_car_manufacturers,"['Michelin', 'Bridgestone', 'Boeing', 'Samsung', 'Michael_Schumacher', 'Angela_Merkel', 'Capri', 'pineapple', '']","['Mercedes_Benz', 'BMW', 'Audi', 'Opel', 'Volkswagen', 'Porsche', 'Alpina', 'Smart']"
+2,Big_cats,"['dog', 'mouse', 'dolphin', 'shark', 'savanna', 'jungle', 'day', 'car', '']","['tiger', 'lion', 'cougar', 'jaguar', 'leopard', 'cheetah', 'wildcat', 'lynx']"
+3,SouthAmerica,"['Bogotá', 'Rio_de_Janeiro', 'New_York', 'Madrid', 'town', 'government', 'bottle', 'telephone', '']","['Brazil', 'Colombia', 'Argentina', 'Peru', 'Venezuela', 'Chile', 'Ecuador', 'Bolivia']"
+4,European_football_teams,"['Miami_Dolphins', 'McLaren', 'Los_Angeles_Lakers', 'Bundesliga', 'football', 'goal', 'couch', 'fridge', '']","['FC_Barcelona', 'Bayern_Munich', 'Real_Madrid', 'AC_Milan', 'Juventus', 'Atletico_Madrid', 'Chelsea', 'Borussia_Dortmund']"
+5,Months,"['Wednesday', 'winter', 'date', 'year', 'astrology', 'birthday', 'ball', 'paper', '']","['January', 'March', 'May', 'July', 'September', 'November', 'February', 'June']"
+6,Solar_System_planets,"['Sun', 'Moon', 'Triton', 'Comet_Halley', 'eclipse', 'astronaut', 'lunch', 'window', '']","['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']"
+7,Apostles_of_Jesus_Christ,"['Noah', 'Mary', 'Pope_Benedict_XVI', 'Ambrose', 'crucifixion', 'church', 'airplane', 'Microsoft', '']","['Peter', 'Andrew', 'James', 'John', 'Thaddaeus', 'Bartholomew', 'Thomas', 'Matthew']"

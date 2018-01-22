@@ -1,0 +1,501 @@
+,word1,word2,similarity
+0,Joule,spacecraft,0.58
+1,Promised Land,Baku,0.42
+2,car,bicycle,2.83
+3,polyhedron,actor,0.0
+4,multiple sclerosis,MS,3.92
+5,fault,system,0.58
+6,weapon,helmet,1.83
+7,screenwriter,television,1.67
+8,United Nations,Ban Ki-moon,2.5
+9,Si-o-seh pol,Mathematical Bridge,3.0
+10,basilica,mosaic,1.5
+11,watercolor painting,brush,2.0
+12,democracy,monarchy,2.67
+13,Gauss,scientist,3.0
+14,tuberculosis,LED,0.0
+15,self-driving car,autonomous car,4.0
+16,apocalypse,fire,1.25
+17,speed,post,0.25
+18,PlayStation,Wii,3.25
+19,laptop,notebook,4.0
+20,Harry Potter,wizard,3.0
+21,snowboard,skiing,3.17
+22,pointer,slide,1.33
+23,sensor,radiator,1.25
+24,hit,frame,0.42
+25,theory,hypothesis,3.83
+26,Wall Street,financial market,2.92
+27,Darwin,evolution,2.58
+28,actor,actress,3.42
+29,film,theatre,2.25
+30,national anthem,patriotism,2.42
+31,screen,monitor,3.92
+32,dairy,honey,0.83
+33,Mount Everest,Chomolungma,3.92
+34,tug of war,Snakes and Ladders,2.33
+35,pesticide,pest,1.83
+36,policeman,politician,2.17
+37,neuropsychology,parapsychology,3.17
+38,battery,energy,2.83
+39,Legion of Honour,stationery,0.0
+40,Spider-Man,street,0.5
+41,peninsula,island,3.0
+42,equator,Ecuador,1.17
+43,chart,graph,3.83
+44,simulation,robotics,1.42
+45,Nike,Adidas,3.17
+46,society,culture,2.67
+47,strategy game,strategy,2.0
+48,church,cathedral,3.58
+49,translator,foreigner,1.42
+50,biotope,biology,1.92
+51,magma,volcano,2.25
+52,brainstorming,telescope,0.0
+53,level,score,2.67
+54,penny,bargain,1.42
+55,political party,association,2.08
+56,tsunami,sea,2.0
+57,ostrich,orchard,0.42
+58,cinnamon,candy,1.75
+59,broom,dust,1.83
+60,galaxy,astronomer,1.42
+61,juice,milkshake,3.17
+62,window blind,curtain,3.25
+63,criminal,offender,3.5
+64,pancreatic cancer,chemotherapy,1.83
+65,past,antecedent,2.75
+66,United Nations,European Parliament,2.75
+67,song,performer,1.83
+68,gun,notebook,0.0
+69,acetylcholine,iris,0.58
+70,alphabet,pen,0.58
+71,chorus,singer,2.67
+72,wood,blanket,0.5
+73,soldier,peace,1.25
+74,English,American,3.33
+75,lizard,crocodile,3.25
+76,money,cash,3.42
+77,Paul the Octopus,octopus,3.5
+78,calendar,holiday,2.08
+79,base,chemical substance,3.0
+80,government,lizard,0.0
+81,JPY,money laundering,1.58
+82,DeepMind,Google DeepMind,3.92
+83,chess,check,1.67
+84,sonnet,beauty,1.33
+85,worker,office,1.75
+86,currency,exchange,1.67
+87,polyester,cotton,3.08
+88,tribunal,justice,2.5
+89,tail,rear,3.25
+90,accident,book,0.0
+91,squall,wind,2.75
+92,piano,harmony,1.58
+93,sultan,ministry,1.5
+94,desert,dune,2.42
+95,multiplication,division,2.67
+96,virus,blood,1.58
+97,ice age,statute,0.0
+98,sword,environment,0.0
+99,elementary school,pen,1.5
+100,cricket,supporter,1.67
+101,sculpture,statue,3.83
+102,web browser,Mozilla Firefox,3.58
+103,Fox Terrier,Canon,0.0
+104,HSBC,Britain,1.67
+105,Bible,Gospel,3.08
+106,dress,dance,1.0
+107,array,list,3.92
+108,cell,lock-up,3.5
+109,essay,homework,2.5
+110,computer,machine,3.33
+111,panda,polar bear,3.25
+112,neurosis,mind,1.75
+113,campaign,monkey,0.0
+114,Faraday constant,rucksack,0.0
+115,palace,skyscraper,2.33
+116,helicopter,plane,3.0
+117,University of Cambridge,Oxford University,3.25
+118,flag,pole,1.42
+119,window,roof,2.33
+120,card game,frisbee,2.5
+121,malware,worm,3.42
+122,planet,star,2.58
+123,runner,athlete,3.42
+124,caliber,umbrella,0.0
+125,WiFi,WikiLeaks,0.5
+126,drought,water,2.0
+127,airport,piece,0.08
+128,orchestra,band,3.42
+129,mojito,mohito,4.0
+130,syllabus,exam,2.42
+131,theorem,theory,2.42
+132,yo-yo,toy,3.0
+133,blizzard,rain,2.58
+134,historian,historiographer,3.58
+135,Siemens,electric train,1.75
+136,century,year,2.83
+137,alloy,steel,3.5
+138,magistrate,judge,3.58
+139,chaos,class,0.17
+140,distance education,internet,1.75
+141,sand,foot,0.42
+142,IMF,Deutsche Bank,2.83
+143,Guardian,Times,3.17
+144,silkworm,Silk Road,0.58
+145,freedom,oasis,0.58
+146,cytoplasm,digit,0.67
+147,protestant,christian,3.5
+148,Leonardo da Vinci,The Last Supper,2.33
+149,map,square,1.0
+150,parliament,congress,3.5
+151,fundraising,development,1.17
+152,pathology,hematology,3.08
+153,valley,depression,2.0
+154,telescope,chair,0.25
+155,heavy metal,stage,1.42
+156,globalism,visa,1.5
+157,bat,vampire,2.33
+158,deputy,officer,2.83
+159,electricity,case,0.42
+160,alien,outlander,3.67
+161,button,sewing machine,1.42
+162,wizard,cable,0.0
+163,philosopher,racing,0.0
+164,popcorn,cinema,1.5
+165,agriculture,plant,2.25
+166,poet,journalist,2.33
+167,weather,wave,0.83
+168,civilization,lifestyle,1.5
+169,snow,ice,2.75
+170,World War II,Beethoven,0.08
+171,motherboard,mainboard,4.0
+172,club,mark,0.33
+173,Alexander the Great,conqueror,2.92
+174,app,galaxy,0.42
+175,cloud computing,rain,0.0
+176,television,actor,1.58
+177,delta,sea,2.42
+178,yarn,thread,3.92
+179,pedestrian crossing,person,1.42
+180,protein,handle,0.0
+181,U2,Ronaldo,0.42
+182,Apple,iPhone,2.58
+183,peppermint,gum,1.83
+184,poster,paper,2.83
+185,UNICEF,root,0.0
+186,xenophobia,racism,3.42
+187,Woody Allen,lens,0.33
+188,lamp,genie,2.08
+189,navy,island,0.92
+190,wall,castle,2.0
+191,dinosaur,elephant,2.33
+192,clock tower,stone,0.67
+193,Middle East,Euphrates,1.5
+194,meadow,grassland,3.58
+195,guitar,violin,3.17
+196,diplomacy,negotiation,2.67
+197,gravity,meteor,0.75
+198,IQ,Mensa,1.83
+199,Union Jack,flag,3.17
+200,earthquake,tremor,3.92
+201,asset,stock,2.75
+202,Hebrew,Jerusalem,1.75
+203,overcast,forecast,1.92
+204,dictionary,encyclopedia,2.83
+205,mint,museum,1.0
+206,chair,stool,3.08
+207,Spanish,moisture,0.0
+208,can,bottle,3.5
+209,fly,ant,2.92
+210,myth,satire,1.92
+211,city center,bus,0.75
+212,tail,Boeing 747-200,1.92
+213,artwork,artist,2.33
+214,NATO,alliance,3.0
+215,king,ruler,3.67
+216,rhythm,cadence,3.58
+217,Alexander Fleming,Penicillin,2.5
+218,flute,music,2.08
+219,gray heron,lake,1.33
+220,viscosity,splash,1.92
+221,hardware,case,1.67
+222,ring,engagement,1.25
+223,Latin,German,2.92
+224,working class,plant,1.75
+225,Shakespeare,Dickens,3.0
+226,paper money,priest,0.0
+227,tool,job,1.08
+228,pygmy hog,suidae,3.42
+229,suffrage,exit,0.08
+230,star,brightness,1.58
+231,trout,guitar,0.0
+232,dollar,millionaire,1.75
+233,digit,number,3.92
+234,gale,blanket,0.42
+235,Obama,Clinton,3.08
+236,supporting character,movie,1.67
+237,Juventus,Bayern Munich,3.0
+238,climate change,precipitation,1.58
+239,AI,battery,0.42
+240,masterpiece,Mona Lisa,2.67
+241,crime,attack,2.75
+242,coronation,water,0.0
+243,vocalist,staff,1.75
+244,playoff,basketball,1.67
+245,armed forces,defence,2.33
+246,lake,cloud,0.83
+247,monastery,shower,0.08
+248,mother tongue,language,3.17
+249,harbor,wrapper,0.08
+250,demon,angel,2.67
+251,cryptogram,symbol,2.33
+252,campus,university,2.92
+253,freedom,liberty,4.0
+254,typhoon,cyclone,3.83
+255,handbook,guidebook,3.92
+256,Ebola,Ebola virus,4.0
+257,princess,biscuit,0.08
+258,train,tram,3.5
+259,ecosystem,economy,0.92
+260,queen regnant,chess queen,0.92
+261,gold,zinc,3.0
+262,cursor,chips,0.25
+263,Amazon,forest,3.08
+264,tennis,statistics,0.58
+265,Bolzano,theorem,2.25
+266,altitude,conversion,0.08
+267,boat,tree,0.25
+268,throne,sword,1.0
+269,cotton,sweater,1.83
+270,cherry,strawberry,3.0
+271,Islam,Quran,2.5
+272,Neanderthal,sport,0.0
+273,nepotism,king,1.42
+274,character,person,2.67
+275,tank,car,2.33
+276,Mercury,Jupiter,3.17
+277,bronchitis,acetaminophen,1.67
+278,blood,body,2.0
+279,islamophobia,ISIS,1.92
+280,crochet,uniform,1.17
+281,Hadoop,touchscreen,0.67
+282,fossil fuel,fossil,2.08
+283,mutant,sociobiology,0.75
+284,sister,brother,2.67
+285,pencil,story,1.08
+286,eczema,dermatitis,4.0
+287,emperor,governor,3.67
+288,crown,key,0.25
+289,algebra,operation,1.67
+290,piston,engine,2.33
+291,scholarship,tuition,2.42
+292,book,manuscript,3.17
+293,lantana,snapdragon,3.0
+294,black hole,vacuum,2.33
+295,Persian Empire,Cyrus,1.83
+296,editorial,news,2.42
+297,decoration,envelope,0.08
+298,whale shark,lobster,2.25
+299,corn,maize,4.0
+300,bipolar disorder,problem,2.25
+301,acid,base,2.67
+302,absolute zero,vapor,1.42
+303,Green Revolution,paint,0.0
+304,operating system,deep learning,1.5
+305,International Mathematical Olympiad,theory,1.0
+306,El Niño,equator,0.83
+307,badge,glass,0.0
+308,mansion,sculptor,1.0
+309,atmosphere,ozone,2.58
+310,shield,buckler,3.67
+311,coin,payment,1.75
+312,oat,field,1.17
+313,monk,cross,0.33
+314,gunboat,coast,1.42
+315,rock,mine,1.75
+316,legend,moral,1.0
+317,champion,winner,3.75
+318,dice,cube,3.0
+319,topology,structure,1.83
+320,chapel,cable,0.25
+321,cash flow,river,0.0
+322,serial killer,murderer,3.5
+323,matrix,molecule,0.0
+324,fashion,style,3.17
+325,vexillology,flag,2.33
+326,Maastricht Treaty,Europe,2.17
+327,geyser,spring,3.25
+328,sucrose,carbohydrate,3.58
+329,beach,coast,3.83
+330,stock market,stock exchange,3.25
+331,tradition,handicraft,1.58
+332,novel,writer,1.92
+333,sandwich,Subway,1.75
+334,acoustics,sound,2.67
+335,fencing,gymnastics,2.33
+336,writer,gift,0.0
+337,woodland,Tiger Woods,0.08
+338,cloud,window,0.67
+339,JPEG,PDF,3.08
+340,director,boss,3.33
+341,tax,Brexit,1.17
+342,pollination,stamen,2.42
+343,videogame,pc game,3.33
+344,treatment,surgical operation,2.33
+345,paddy,potato,2.67
+346,note-taking,assignment,1.83
+347,fox,blood cell,0.33
+348,sodium chloride,salt,3.92
+349,income,quality of life,2.17
+350,will,intention,3.5
+351,compass,elephant,0.17
+352,sequel,camera,1.0
+353,movie,film,3.92
+354,sergeant,gun,1.75
+355,mill,seed,0.75
+356,ice cream,breakfast,1.17
+357,key,lock,2.33
+358,cellphone,telephone,3.92
+359,kindergarten,preschool,3.75
+360,Western world,Western Union,0.42
+361,seedling,leaf,2.25
+362,rain,hail,3.08
+363,happiness,sadness,2.33
+364,silkworm,caterpillar,3.33
+365,surfing,water sport,3.0
+366,car,truck,3.17
+367,food,program,0.25
+368,graphic novel,comic book,3.42
+369,snake,lizard,3.08
+370,pineapple,smartphone,0.0
+371,wallpaper,background,3.42
+372,Celsius,Microsoft,0.08
+373,combine,sugarcane,0.75
+374,jeans,woman,0.75
+375,matrix,vector,2.83
+376,carbon dioxide,CO2,4.0
+377,coach,player,2.5
+378,stone,wood,2.33
+379,charger,disk,1.08
+380,manuscript,article,3.5
+381,Gmail,Yahoo,2.42
+382,capacitor,diode,3.17
+383,corruption,fraud,3.17
+384,Coca-Cola,Coke,3.92
+385,Plato,Aristotle,3.17
+386,Cold War,Soviet Union,2.58
+387,nozzle,fluid,2.0
+388,phonology,screen,0.0
+389,Zara,leggings,1.67
+390,football,soccer,4.0
+391,germ,pathogen,3.92
+392,republic,duke,1.17
+393,ball,sphere,3.0
+394,Mozart,Star Wars,0.0
+395,mask,party,1.33
+396,Grand Theft Auto,GTA,4.0
+397,highway,road,3.42
+398,chain reaction,thermodynamics,2.0
+399,illustration,blister,0.0
+400,anthropology,archaeology,2.92
+401,Dell,Dingle,0.0
+402,juice,spoon,0.25
+403,Pfizer,drug,2.5
+404,truck,parcel,0.67
+405,receptor,protein molecule,2.75
+406,Google Drive,driver,0.0
+407,billionaire,homeless,1.67
+408,episode,chapter,2.83
+409,infinity,zero,2.33
+410,servant,slave,3.42
+411,suffix,affix,3.33
+412,global warming,heat,2.42
+413,growth hormone,somatotropin,3.92
+414,sky,dream,0.83
+415,bid price,London,0.42
+416,fertilizer,growth,1.67
+417,hashtag,topic,2.5
+418,Orion,constellation,3.17
+419,Nietzsche,Chelsea,0.17
+420,mutual respect,competition,1.5
+421,branch,arm,3.0
+422,victim,phone,0.08
+423,standard deviation,accumulation,0.5
+424,avalanche,snow,2.08
+425,teacher,student,2.0
+426,cattle,yogurt,1.5
+427,sexism,gender discrimination,3.92
+428,South Pole,dance,0.0
+429,prosecutor,lawyer,3.33
+430,racket,ball,2.5
+431,bank loan,debt,3.25
+432,perspective,distance,1.58
+433,Federer,Dylan,0.5
+434,lawyer,gallery,0.33
+435,life expectancy,statistical measure,2.67
+436,cell membrane,provirus,1.83
+437,European Union,Moscow,2.0
+438,world,Asia,2.17
+439,Paint,Photoshop,3.17
+440,senate,constitution,1.83
+441,parsley,muffin,1.0
+442,mind,brain,3.83
+443,Mercedes,Opel,3.17
+444,hammer,teeth,0.0
+445,Renaissance,Renascence,4.0
+446,skirt,watch,1.0
+447,opera,cinema,2.75
+448,teacher,instructor,3.83
+449,Sun,cable,0.08
+450,recession,GDP,2.0
+451,Caesar,Julius Caesar,3.92
+452,patient,session,0.67
+453,behaviourism,therapy,2.17
+454,emperor,constitution,1.25
+455,mathematician,show,0.08
+456,entropy,information,1.75
+457,rosewater,rose oil,3.17
+458,citrus fruit,grapefruit,3.5
+459,Queen Victoria,England,1.75
+460,Olympic Games,spirit,0.83
+461,bishop,muslim,1.67
+462,man,suspect,1.0
+463,meteorite,Earth,1.83
+464,symbol,sign,3.42
+465,anthropology,New York,0.08
+466,sunset,table,0.0
+467,town,city,3.75
+468,jacket,mineral water,0.0
+469,nature,flora,3.0
+470,subroutine,compiler,2.67
+471,Hamadan,Rome,2.58
+472,umbrella,heater,0.17
+473,honor,esteem,3.25
+474,insignia,dignity,0.58
+475,KFC,McDonald's,3.17
+476,joystick,radar,0.67
+477,basmati,jasmine rice,3.58
+478,medal,trainers,0.42
+479,law,swimming pool,0.08
+480,source,box,0.0
+481,theatre,battery,0.0
+482,flora,web browser,0.0
+483,shirt,cardigan,3.25
+484,poem,rhythm,1.42
+485,prophet,priest,2.58
+486,Oscars,stadium,0.08
+487,backgammon,Go,3.25
+488,butterfly,rose,1.25
+489,fence,jumping,1.58
+490,nihilism,film,0.17
+491,asteroid,star,2.25
+492,riot,drawing,0.08
+493,underwear,body,1.25
+494,Boeing,plane,2.83
+495,cameo,performance,2.42
+496,semester,term,3.83
+497,orange,citrus,3.0
+498,glacier,global warming,1.58
+499,tunnel,path,2.0

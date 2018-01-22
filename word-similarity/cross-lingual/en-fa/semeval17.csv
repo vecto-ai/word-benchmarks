@@ -1,0 +1,953 @@
+,word1,word2,similarity
+0,Obama,کلینتون,3.21
+1,dignity,نشان افتخار,0.92
+2,polyester,پنبه,3.08
+3,Spider-Man,خیابان,0.34
+4,Earth,شهاب‌سنگ,2.29
+5,Euphrates,خاورمیانه,1.75
+6,orange,مرکبات,3.04
+7,caterpillar,کرم ابریشم,3.46
+8,meteor,گرانش,1.13
+9,basilica,موزائیک,1.42
+10,character,آدم,2.58
+11,Alexander the Great,فاتح,2.63
+12,matrix,ملکول,0.25
+13,surgical operation,درمان,2.5
+14,opera,سینما,2.79
+15,bishop,مسلمان,1.92
+16,Grand Theft Auto,جی‌تی‌ای,3.83
+17,growth,کود,1.75
+18,Soviet Union,جنگ سرد,2.08
+19,Mercedes,اوپل,3.17
+20,jasmine rice,باسماتی,3.42
+21,post,سرعت,0.41
+22,television,بازیگر,1.92
+23,culture,جامعه,2.38
+24,Gmail,یاهو,2.71
+25,fashion,سبک,3.13
+26,harbor,لفاف,0.04
+27,ostrich,باغ سیب,0.21
+28,apocalypse,آتش,0.92
+29,civilization,سبک زندگی,1.58
+30,film,فیلم سینمایی,3.71
+31,atmosphere,ازن,2.46
+32,masterpiece,مونالیزا,2.46
+33,crochet,لباس فرم,0.88
+34,window,سقف,2.38
+35,movie,فیلم,3.71
+36,key,تاج‌,0.33
+37,chapel,سیم,0.13
+38,problem,اختلال دوقطبی,2.21
+39,serial killer,قاتل,3.42
+40,jacket,آب‌ معدنی,0.0
+41,MS,اسکلروز چندگانه,3.96
+42,growth hormone,سوماتوتروپین,3.96
+43,sequel,دوربین,0.67
+44,sport,نئاندرتال,0.0
+45,Yahoo,جیمیل,2.71
+46,rain,تگرگ,3.13
+47,Coke,کوکاکولا,3.95
+48,blizzard,باران,2.75
+49,director,رئيس,3.63
+50,sultan,وزارت,1.58
+51,leggings,زارا,1.92
+52,cadence,نواخت,3.38
+53,fertilizer,رشد,1.75
+54,jeans,زن,0.79
+55,precipitation,تغییر اقلیم,1.63
+56,wall,قلعه,2.0
+57,surfing,ورزش آبی,3.08
+58,somatotropin,هورمون رشد,3.96
+59,suidae,گراز کوتوله,3.42
+60,christian,پروتستان,3.17
+61,Western world,وسترن یونیون,0.38
+62,fox,سلول خون,0.33
+63,Dickens,شکسپیر,3.08
+64,Aristotle,افلاطون,3.29
+65,grassland,علف‌زار,3.5
+66,Bible,انجیل,3.33
+67,Mozart,جنگ ستارگان,0.0
+68,comic book,داستان مصور,3.17
+69,whale shark,شاه‌میگو,2.38
+70,volcano,ماگما,2.29
+71,battery,تئاتر,0.04
+72,murderer,قاتل زنجیره‌ای,3.42
+73,Times,گاردین,3.08
+74,criminal,خلافکار,3.71
+75,anthropology,باستان‌شناسی,2.88
+76,corruption,کلاه‌برداری,3.13
+77,evolution,داروین,2.21
+78,illustration,تاول,0.0
+79,band,ارکستر,3.54
+80,actor,چندوجهی,0.0
+81,splash,گرانروی,2.13
+82,mineral water,ژاکت,0.0
+83,Hadoop,صفحه لمسی,0.75
+84,food,برنامه,0.33
+85,nihilism,فیلم,0.25
+86,sweater,پنبه,2.0
+87,sadness,خوشحالی,2.5
+88,society,فرهنگ,2.38
+89,association,حزب سیاسی,2.29
+90,blood,بدن,1.79
+91,Renascence,رنسانس,4.0
+92,Woody Allen,لنز,0.58
+93,mosaic,قصر سلطنتی,1.42
+94,bargain,پنی,1.38
+95,job,ابزار,1.21
+96,liberty,رهایی,3.92
+97,mill,دانه,0.79
+98,cable,خورشید,0.04
+99,Jupiter,عطارد,3.25
+100,charger,دیسک,1.29
+101,Zara,ساق‌پوش,1.92
+102,London,قیمت پیشنهادی خرید,0.25
+103,chair,چهارپایه,3.17
+104,orchard,شترمرغ,0.21
+105,viscosity,شتک,2.13
+106,England,ملکه ویکتوریا,1.96
+107,flora,طبیعت,2.63
+108,Dingle,دل,0.04
+109,film,پوچ‌گرایی,0.25
+110,cloud,پنجره,0.63
+111,base,ماده شیمیایی,2.96
+112,Bayern Munich,یوونتوس,3.13
+113,bottle,قوطی,3.08
+114,robotics,شبیه‌سازی,1.58
+115,diode,خازن,3.33
+116,avalanche,برف,2.21
+117,acetylcholine,عنبیه,0.79
+118,chemical substance,باز,2.96
+119,patient,جلسه,0.46
+120,city center,اتوبوس,0.71
+121,maize,ذرت,3.96
+122,sign,سمبل,3.13
+123,penny,معامله,1.38
+124,electric train,زیمنس,1.79
+125,parcel,کامیون,0.5
+126,pen,الفبا,0.79
+127,acetaminophen,برونشیت,1.5
+128,U2,رونالدو,0.33
+129,fluid,سرشلنگ,1.67
+130,fire,آخرالزمان,0.92
+131,global warming,گرما,2.38
+132,Dell,دینگل,0.04
+133,umbrella,کالیبر,0.0
+134,ministry,سلطان,1.58
+135,pollination,پرچم,2.5
+136,case,الکتریسیته,0.38
+137,JPY,پولشویی,1.5
+138,chair,تلسکوپ,0.29
+139,European Union,مسکو,2.21
+140,cytoplasm,انگشت,0.75
+141,wrapper,بندرگاه,0.04
+142,tremor,زمین‌لرزه,3.96
+143,receptor,ملکول پروتئین,3.21
+144,helmet,سلاح,2.08
+145,highway,جاده,3.38
+146,phonology,صفحه نمایش,0.04
+147,dance,قطب جنوب,0.0
+148,zero,بینهایت,2.58
+149,tree,قایق,0.38
+150,McDonald's,کی‌اف‌سی,3.17
+151,iPhone,اپل,2.5
+152,crown,کلید,0.33
+153,national anthem,میهن‌دوستی,2.25
+154,smartphone,سیب,0.25
+155,museum,ضرابخانه,1.21
+156,bipolar disorder,مشکل,2.21
+157,brain,ذهن,3.54
+158,theatre,باتری,0.04
+159,instructor,معلم,3.92
+160,citrus,پرتقال,3.04
+161,fossil fuel,سنگواره,2.08
+162,poem,وزن,1.92
+163,key,قفل,2.46
+164,blister,تصویرسازی,0.0
+165,yo-yo,اسباب‌بازی,2.92
+166,galaxy,منجم,1.71
+167,cash,پول,3.52
+168,Neanderthal,ورزش,0.0
+169,king,فرمانروا,3.71
+170,fly,مورچه,3.0
+171,constellation,شکارچی,3.04
+172,spacecraft,ژول,0.45
+173,tool,شغل,1.21
+174,screen,صداشناسی,0.04
+175,campus,دانشگاه,2.96
+176,camera,دنباله,0.67
+177,Spanish,رطوبت,0.0
+178,magistrate,قاضی,3.58
+179,anthropology,نیویورک,0.13
+180,check,شطرنج,1.96
+181,gift,نویسنده,0.17
+182,statistics,تنیس,0.45
+183,fossil,سوخت فسیلی,2.08
+184,river,جریان نقدی,0.13
+185,acoustics,صدا,2.33
+186,operation,جبر,1.83
+187,base,اسید,2.75
+188,suffrage,خروج,0.25
+189,Pfizer,دارو,2.46
+190,deep learning,سیستم‌عامل,1.79
+191,sandwich,ساب‌وی,2.04
+192,orchestra,گروه‌موسیقی,3.54
+193,university,پردیس دانشگاهی,2.96
+194,silkworm,کرم پیله ساز,3.46
+195,Plato,ارسطو,3.29
+196,caliber,چتر,0.0
+197,Juventus,بایرن‌مونیخ,3.13
+198,cricket,حامی,1.54
+199,cinnamon,آب‌نبات,1.67
+200,Maastricht Treaty,اروپا,1.96
+201,theory,قضیه,2.67
+202,Orion,صورت فلکی,3.04
+203,sensor,رادیاتور,0.79
+204,vampire,خفاش,2.33
+205,theory,المپیاد جهانی ریاضی,1.0
+206,heater,چتر,0.25
+207,teeth,چکش,0.17
+208,gun,دفتریادداشت,0.17
+209,water,خشکسالی,2.17
+210,depression,دره,2.38
+211,club,علامت,0.5
+212,supporting character,فیلم,1.88
+213,drought,آب‌,2.17
+214,butterfly,رز,1.21
+215,skirt,ساعت,1.38
+216,wizard,هری پاتر,2.83
+217,policeman,سیاستمدار,2.04
+218,Mona Lisa,شاهکار,2.46
+219,entropy,اطلاعات,1.67
+220,pancreatic cancer,شیمی‌درمانی,1.83
+221,coach,بازیکن,2.79
+222,constitution,امپراتور,1.21
+223,backgammon,گو,3.25
+224,pc game,بازی ویدئویی,3.25
+225,silkworm,راه ابریشم,0.54
+226,subroutine,کامپایلر,2.75
+227,monarchy,دموکراسی,2.75
+228,buckler,محافظ,3.29
+229,watercolor painting,قلمو,2.08
+230,billionaire,بی‌خانمان,1.58
+231,tribunal,عدالت,2.33
+232,champion,برنده,3.46
+233,flag,میله,1.42
+234,sphere,توپ,2.92
+235,recession,تولید ناخالص داخلی,1.96
+236,insignia,کرامت,0.92
+237,worker,دفتر,1.75
+238,water,تاج‌گذاری,0.09
+239,philosopher,مسابقه,0.0
+240,branch,بازو,2.67
+241,airport,قطعه,0.04
+242,division,ضرب,2.92
+243,coast,ناوچه توپدار,1.46
+244,moisture,اسپانیایی,0.0
+245,cattle,ماست,1.67
+246,popcorn,سینما,1.13
+247,campaign,میمون,0.0
+248,decoration,پاکت نامه,0.17
+249,symbol,نوشته رمزی,2.04
+250,Si-o-seh pol,پل ریاضی,2.92
+251,background,والپیپر,3.71
+252,distance education,اینترنت,1.67
+253,lizard,دولت,0.09
+254,cash flow,رودخانه,0.13
+255,dance,لباس,1.08
+256,spoon,آبمیوه,0.41
+257,water sport,موج‌سواری,3.08
+258,woman,شلوار جین,0.79
+259,list,آرایه,3.96
+260,Darwin,تکامل,2.21
+261,Boeing,هواپیما,2.58
+262,spirit,بازی‌های المپیک,0.45
+263,Queen Victoria,انگلیس,1.96
+264,mainboard,مادربورد,4.0
+265,gum,نعناع فلفلی,1.75
+266,compiler,رویه,2.75
+267,Apple,آیفون,2.5
+268,sodium chloride,نمک,3.88
+269,typhoon,طوفان موسمی,3.46
+270,University of Cambridge,دانشگاه آکسفورد,3.29
+271,juice,قاشق,0.41
+272,protestant,مسیحی,3.17
+273,star,سیاره,2.88
+274,citrus fruit,گریپ‌فروت,3.29
+275,car,تانک,2.46
+276,foot,ماسه,0.38
+277,machine,رایانه,3.04
+278,Boeing 747-200,دم,1.67
+279,cell,زندان,3.5
+280,politician,پليس,2.04
+281,toy,یویو,2.92
+282,Mount Everest,کومولانگما,3.96
+283,throne,شمشیر,1.08
+284,Rome,همدان,2.71
+285,wood,پتو,0.38
+286,ISIS,اسلام‌هراسی,1.96
+287,plant,کشاورزی,2.33
+288,novel,نویسنده,2.04
+289,teacher,دانش‌آموز,2.33
+290,Moscow,اتحادیه اروپا,2.21
+291,autonomous car,خودروی خودگردان,4.0
+292,flute,موسیقی,2.17
+293,zinc,طلا,2.96
+294,dictionary,دایرةالمعارف,3.17
+295,pygmy hog,گراز,3.42
+296,Jerusalem,عبری,1.67
+297,web browser,گیا,0.0
+298,oat,مزرعه,1.67
+299,asteroid,ستاره,2.75
+300,International Mathematical Olympiad,نظریه,1.0
+301,ball,کره,2.92
+302,delta,دریا,2.46
+303,neuropsychology,فراروانشناسی,3.13
+304,stamen,گرده‌افشانی,2.5
+305,angel,اهریمن,2.63
+306,Opel,مرسدس,3.17
+307,lifestyle,تمدن,1.58
+308,Amazon,جنگل,3.04
+309,driver,گوگل‌درایو,0.04
+310,magma,آتش‌فشان,2.29
+311,watch,دامن,1.38
+312,affix,پسوند,3.33
+313,dinosaur,فیل,2.5
+314,blood,ویروس,1.46
+315,cathedral,کلیسا,3.46
+316,CO2,دی‌اکسید کربن,3.83
+317,sword,تخت‌ پادشاهی,1.08
+318,economy,اکوسیستم,1.04
+319,cloud computing,باران,0.17
+320,tunnel,مسیر,2.33
+321,congress,پارلمان,3.42
+322,gunboat,ساحل,1.46
+323,sculpture,تندیس,3.75
+324,tuberculosis,ال‌ای‌دی,0.34
+325,chemotherapy,سرطان لوزالمعده,1.83
+326,yogurt,گاو,1.67
+327,island,نیروی دریایی,0.92
+328,emperor,فرماندار,3.5
+329,cable,جادوگر,0.0
+330,happiness,ناراحتی,2.5
+331,republic,دوک,1.29
+332,Faraday constant,کوله‌پشتی,0.0
+333,cryptogram,نماد,2.04
+334,fault,سامانه,0.5
+335,Paint,فتوشاپ,3.08
+336,Nietzsche,چلسی,0.09
+337,germ,پاتوژن,3.96
+338,coast,کنار دریا,3.83
+339,political party,انجمن,2.29
+340,ant,مگس,3.0
+341,cinema,اپرا,2.79
+342,steel,آلیاژ,3.33
+343,navy,جزیره,0.92
+344,fencing,ژیمناستیک,2.67
+345,treatment,عمل جراحی,2.5
+346,gallery,وکیل,0.21
+347,shower,صومعه,0.04
+348,Ban Ki-moon,سازمان ملل متحد,2.33
+349,mutual respect,رقابت,1.38
+350,telescope,صندلی,0.29
+351,operating system,یادگیری عمیق,1.79
+352,beach,ساحل,3.83
+353,news,سرمقاله,2.17
+354,The Last Supper,لئوناردو‌دا‌وینچی,2.21
+355,calendar,تعطیلات,2.21
+356,nepotism,پادشاه,1.5
+357,Joule,فضاپیما,0.45
+358,translator,خارجی,1.67
+359,handle,پروتئین,0.09
+360,sergeant,تفنگ,1.58
+361,plane,هلی‌کوپتر,3.17
+362,energy,باتری,2.67
+363,chart,گراف,3.63
+364,AI,باتری,0.42
+365,strategy game,استراتژی,1.92
+366,global warming,یخچال طبیعی,1.71
+367,income,کیفیت زندگی,2.08
+368,hashtag,موضوع,2.29
+369,tennis,آمار,0.45
+370,ice cream,صبحانه,1.29
+371,alien,بیگانه,3.63
+372,fraud,فساد,3.13
+373,earthquake,زلزله,3.96
+374,rosewater,روغن گل‌سرخ,3.25
+375,suffix,وند,3.33
+376,runner,ورزشکار,3.21
+377,monastery,دوش,0.04
+378,cell membrane,پروویروس,1.42
+379,internet,یادگیری از راه دور,1.67
+380,handicraft,سنت,1.54
+381,pathology,خون‌شناسی,3.0
+382,guidebook,راهنما,3.54
+383,computer,دستگاه,3.04
+384,hardware,جعبه رایانه,2.08
+385,coin,پرداخت,1.96
+386,source,جعبه,0.29
+387,bronchitis,استامینوفن,1.5
+388,sugarcane,کمباین,1.04
+389,slave,خدمتکار,3.46
+390,pedestrian crossing,شخص,1.71
+391,screen,مانیتور,3.88
+392,Cold War,شوروی,2.08
+393,cube,تاس,2.79
+394,prophet,کشیش,2.67
+395,money,پول نقد,3.52
+396,biology,بیوتوپ,1.67
+397,cotton,ژاکت,2.0
+398,card game,فریزبی,2.5
+399,candy,دارچین,1.67
+400,seed,کارخانه,0.79
+401,Alexander Fleming,پنی‌سیلین,2.25
+402,overcast,پيش‌‌بینی,1.63
+403,blanket,چوب,0.38
+404,actor,هنرپیشه‌,3.71
+405,quality of life,درآمد,2.08
+406,paper,پوستر,2.71
+407,dust,جارو,2.0
+408,frame,اصابت,0.25
+409,Silk Road,کرم ابریشم,0.54
+410,Deutsche Bank,صندوق بین‌المللی پول,2.71
+411,muslim,اسقف,1.92
+412,provirus,غشای سلول,1.42
+413,blood cell,روباه,0.33
+414,rain,کولاک,2.75
+415,hammer,دندان,0.17
+416,Asia,جهان,2.25
+417,hematology,آسیب‌شناسی,3.0
+418,truck,بسته,0.5
+419,table,غروب,0.0
+420,number,رقم,3.54
+421,poet,روزنامه‌نگار,2.75
+422,money laundering,ین,1.5
+423,drug,فایزر,2.46
+424,iris,استیل کولین,0.79
+425,currency,بورس,1.92
+426,pineapple,گوشی هوشمند,0.25
+427,breakfast,بستنی,1.29
+428,truck,ماشین,3.08
+429,cherry,توت‌فرنگی,2.92
+430,Subway,ساندویچ,2.04
+431,scholarship,شهریه,2.67
+432,blanket,طوفان,0.88
+433,molecule,ماتریس,0.25
+434,paper money,کشیش,0.04
+435,freedom,واحه,0.29
+436,sister,برادر,2.83
+437,cellphone,تلفن,3.66
+438,IQ,منسا,1.96
+439,map,مربع,0.83
+440,cable,نمازخانه,0.13
+441,globalism,روادید,1.5
+442,clock tower,سنگ,0.58
+443,century,سال,2.88
+444,neurosis,ذهن,1.92
+445,hit,قاب,0.25
+446,badge,شیشه,0.09
+447,geyser,چشمه,3.38
+448,lizard,تمساح,2.96
+449,guitar,قزل‌آلا,0.0
+450,body,لباس زیر,1.54
+451,speed,پست,0.41
+452,skiing,اسنوبرد,3.21
+453,town,شهر,3.54
+454,mask,مهمانی,0.88
+455,malware,کرم,3.38
+456,car,کامیون,3.08
+457,envelope,دکوراسیون,0.17
+458,engine,پیستون,2.25
+459,Hebrew,بیت‌المقدس,1.67
+460,climate change,بارش,1.63
+461,peppermint,آدامس,1.75
+462,Ronaldo,یوتو,0.33
+463,stock exchange,بازار بورس,3.08
+464,Mensa,آی‌کیو,1.96
+465,therapy,رفتارگرایی,2.29
+466,writer,رمان,2.04
+467,Adidas,نایک,3.25
+468,United Nations,پارلمان اروپا,2.63
+469,teacher,آموزگار,3.92
+470,offender,مجرم,3.71
+471,parsley,مافین,1.42
+472,story,مداد,1.08
+473,exam,سرفصل دروس,2.08
+474,body,خون,1.79
+475,jumping,حصار,1.25
+476,LED,سل,0.34
+477,lobster,کوسه نهنگ,2.38
+478,nozzle,مایع,1.67
+479,car,دوچرخه,2.88
+480,Guardian,تایمز,3.08
+481,party,نقاب,0.88
+482,Chomolungma,کوه اورست,3.96
+483,assignment,یادداشت‌برداری,1.96
+484,article,نسخه خطی,3.29
+485,forest,آمازون,3.04
+486,graphic novel,کتاب کامیک,3.17
+487,emperor,قانون اساسی,1.21
+488,brother,خواهر,2.83
+489,snapdragon,شاه‌پسند,3.04
+490,glass,نشان,0.09
+491,behaviourism,درمان,2.29
+492,vocalist,کارمند,1.63
+493,Caesar,قیصر,3.96
+494,bicycle,ماشین,2.88
+495,ice age,قانون,0.0
+496,sociobiology,جهش‌یافته,0.96
+497,island,شبه‌جزیره,3.21
+498,prosecutor,وکیل,3.29
+499,motherboard,برداصلی,4.0
+500,tram,قطار,3.5
+501,archaeology,انسان‌شناسی,2.88
+502,Sun,کابل,0.04
+503,demon,فرشته,2.63
+504,combine,نیشکر,1.04
+505,will,قصد,3.46
+506,GDP,بحران اقتصادی,1.96
+507,program,غذا,0.33
+508,king,خویشاوندسالاری,1.5
+509,wizard,کابل,0.0
+510,Harry Potter,جادوگر,2.83
+511,infinity,صفر,2.58
+512,visa,جهانی‌گرایی,1.5
+513,manuscript,مقاله,3.29
+514,man,مظنون,1.08
+515,Ebola,ویروس ابولا,4.0
+516,valley,فرورفتگی,2.38
+517,lock,کلید,2.46
+518,stone,چوب,2.42
+519,Google Drive,راننده,0.04
+520,weapon,کلاه‌ ایمنی,2.08
+521,player,مربی,2.79
+522,preschool,کودکستان,3.71
+523,suspect,مرد,1.08
+524,thermodynamics,واکنش زنجیره‌ای,1.71
+525,accident,کتاب,0.0
+526,harmony,پیانو,1.42
+527,guitar,ویولن,3.17
+528,trainers,مدال,0.88
+529,black hole,خلاء,2.33
+530,class,آشفتگی,0.29
+531,writer,هدیه,0.17
+532,foreigner,مترجم,1.67
+533,castle,ديوار,2.0
+534,Oxford University,دانشگاه کمبریج,3.29
+535,mint,موزه,1.21
+536,bid price,لندن,0.25
+537,stock,دارایی,2.54
+538,parapsychology,نوروسایکولوژی,3.13
+539,can,بطری,3.08
+540,sea,دلتا,2.46
+541,Brexit,مالیات,0.96
+542,leaf,جوانه,2.38
+543,vector,ماتریس,2.88
+544,bank loan,قرض,3.33
+545,sculptor,عمارت,1.13
+546,ecosystem,اقتصاد,1.04
+547,staff,سراینده,1.63
+548,Beethoven,جنگ جهانی دوم,0.04
+549,theorem,بولتسانو,2.13
+550,cloud,دریاچه,1.08
+551,snow,یخ,2.88
+552,wallpaper,دیواربرگ,3.71
+553,show,ریاضی‌دان,0.04
+554,performance,تک‌جلوه,2.21
+555,priest,اسکناس,0.04
+556,chaos,کلاس,0.29
+557,corn,جواری,3.96
+558,Coca-Cola,کوکا,3.95
+559,Shakespeare,دیکنز,3.08
+560,pest,آفت‌کش,2.08
+561,juice,میلک‌شیک,3.04
+562,compass,فیل,0.09
+563,root,یونیسف,0.04
+564,winner,قهرمان,3.46
+565,chess,کیش,1.96
+566,window blind,پرده,3.21
+567,broom,خاک,2.0
+568,pen,مدرسه ابتدایی,1.46
+569,capacitor,دیود,3.33
+570,chapter,بخش,3.13
+571,Nike,آدیداس,3.25
+572,mohito,موخیتو,4.0
+573,Hamadan,رم,2.71
+574,servant,غلام,3.46
+575,Latin,آلمانی,3.0
+576,lizard,مار,3.06
+577,laptop,رایانه کیفی,3.83
+578,athlete,دونده,3.21
+579,United Nations,بان‌کی‌مون,2.33
+580,brightness,ستاره,1.63
+581,conqueror,اسکندرکبیر,2.63
+582,racism,بیگانه‌هراسی,3.0
+583,statue,مجسمه,3.75
+584,wind,بوران,3.13
+585,development,جذب سرمایه,1.54
+586,IMF,دویچه بانک,2.71
+587,priest,پیامبر,2.67
+588,chain reaction,ترمودینامیک,1.71
+589,meadow,چمن‌زار,3.5
+590,Persian Empire,کورش,2.0
+591,phone,قربانی,0.04
+592,altitude,تبدیل,0.13
+593,peace,سرباز,1.46
+594,city,شهرک,3.54
+595,square,نقشه,0.83
+596,fence,پرش,1.25
+597,underwear,بدن,1.54
+598,conversion,ارتفاع,0.13
+599,chips,مکان‌نما,0.13
+600,sucrose,کربوهیدرات,3.54
+601,judge,دادرس,3.58
+602,semester,ترم‌تحصیلی,3.75
+603,singer,گروه کر,2.71
+604,mind,اختلال اعصاب,1.92
+605,alloy,فولاد,3.33
+606,star,روشنایی,1.63
+607,South Pole,رقص,0.0
+608,Go,تخته نرد,3.25
+609,senate,قانون اساسی,1.92
+610,handbook,کتاب راهنما,3.54
+611,Quran,اسلام,2.42
+612,PlayStation,وی,3.25
+613,telephone,تلفن همراه,3.66
+614,pathogen,بیمارگر,3.96
+615,ball,راکت,2.42
+616,nature,گیاه,2.63
+617,mind,مفز,3.54
+618,sound,صوت‌شناسی,2.33
+619,piece,فرودگاه,0.04
+620,actress,بازیگر,3.71
+621,theorem,نظریه,2.67
+622,meteorite,زمین,2.29
+623,cyclone,گردباد,3.46
+624,case,سخت‌افزار,2.08
+625,dress,رقص,1.08
+626,Renaissance,عصر نوزایی,4.0
+627,historiographer,مورخ,3.79
+628,stationery,لژیون دونور,0.0
+629,pointer,اسلاید,1.17
+630,radar,جوی‌استیک,0.46
+631,matrix,بردار,2.88
+632,democracy,سلطنت,2.75
+633,palace,آسمان‌خراش,2.5
+634,historian,تاریخ‌نگار,3.79
+635,biscuit,شاهزاده,0.04
+636,digit,سيتوپلاسم,0.75
+637,snake,مارمولک,3.06
+638,shirt,ژاکت,3.17
+639,holiday,تقویم,2.21
+640,dune,بیابان,2.38
+641,sword,محیط,0.0
+642,galaxy,اپ,0.21
+643,shield,سپر,3.29
+644,basketball,بازی حذفی,2.0
+645,GTA,اتومبیل‌دزدی بزرگ,3.83
+646,rain,رایانش ابری,0.17
+647,paint,انقلاب سبز,0.13
+648,Mercury,مشتری,3.25
+649,American,انگلیسی,3.25
+650,Mathematical Bridge,سی‌وسه‌پل,2.92
+651,Oscars,استادیوم,0.17
+652,stadium,اسکار,0.17
+653,student,معلم,2.33
+654,polar bear,پاندا,3.27
+655,session,بیمار,0.46
+656,dice,مکعب,2.79
+657,sand,پا,0.38
+658,New York,انسان‌شناسی,0.13
+659,Leonardo da Vinci,شام آخر,2.21
+660,app,کهکشان,0.21
+661,strategy,بازی استراتژیکی,1.92
+662,Western Union,جهان غرب,0.38
+663,mutant,زیست‌جامعه‌شناسی,0.96
+664,lantana,میمونی,3.04
+665,monkey,کمپین,0.0
+666,brainstorming,تلسکوپ,0.0
+667,star,سیارک,2.75
+668,tuition,بورس تحصیلی,2.67
+669,environment,شمشیر,0.0
+670,array,لیست,3.96
+671,diplomacy,مذاکره,2.83
+672,carbohydrate,ساکارز,3.54
+673,fundraising,توسعه,1.54
+674,encyclopedia,واژه‌نامه,3.17
+675,mansion,مجسمه ساز,1.13
+676,Google DeepMind,ديپ‌مایند,3.96
+677,cotton,پلی‌ستر,3.08
+678,information,آنتروپی,1.67
+679,alphabet,خودکار,0.79
+680,PDF,جی‌پگ,3.0
+681,dermatitis,اگزما,4.0
+682,elephant,دایناسور,2.5
+683,radiator,حسگر,0.79
+684,UNICEF,ریشه,0.04
+685,Tiger Woods,بیشه‌زار,0.21
+686,acid,باز,2.75
+687,polyhedron,بازیگر,0.0
+688,world,آسیا,2.25
+689,worm,بدافزار,3.38
+690,intention,خواست,3.46
+691,World War II,بتهوون,0.04
+692,wood,سنگ,2.42
+693,elephant,قطب‌نما,0.09
+694,drawing,شورش,0.08
+695,forecast,ابری,1.63
+696,syllabus,امتحان,2.08
+697,biotope,بیولوژی,1.67
+698,defence,نیروهای مسلح,2.13
+699,Baku,سرزمین موعود,0.71
+700,sunset,میز,0.0
+701,heat,گرمایش جهانی,2.38
+702,Clinton,اوباما,3.21
+703,note-taking,تکلیف,1.96
+704,cinema,ذرت‌ بو داده,1.13
+705,honor,عزت,3.38
+706,debt,وام,3.33
+707,violin,گیتار,3.17
+708,Star Wars,موتزارت,0.0
+709,statistical measure,امید به زندگی,2.83
+710,duke,جمهوری,1.29
+711,multiple sclerosis,ام‌اس,3.96
+712,heavy metal,صحنه,1.13
+713,dream,آسمان,0.54
+714,distance,پرسپکتیو,1.96
+715,pencil,داستان,1.08
+716,movie,نقش مکمل,1.88
+717,planet,ستاره,2.88
+718,Chelsea,نیچه,0.09
+719,homework,انشا,2.46
+720,topic,برچسب,2.29
+721,curtain,کرکره,3.21
+722,agriculture,گیاه,2.33
+723,button,چرخ‌خیاطی,1.54
+724,exchange,پول,1.92
+725,battery,انرژی,2.67
+726,music,فلوت,2.17
+727,grapefruit,مرکبات,3.29
+728,multiplication,تقسیم,2.92
+729,tsunami,دریا,2.08
+730,notebook,لپ‌تاپ,3.83
+731,graph,چارت,3.63
+732,life expectancy,شاخص آماری,2.83
+733,oasis,آزادی,0.29
+734,field,جو,1.67
+735,Bolzano,قضیه,2.13
+736,disk,شارژر,1.29
+737,film,تئاتر,2.67
+738,book,کتاب خطی,3.25
+739,payment,سکه,1.96
+740,gender discrimination,تبعیض جنسیتی,3.96
+741,Ebola virus,ابولا,4.0
+742,umbrella,بخاری,0.25
+743,basmati,برنج ژاسمین,3.42
+744,astronomer,کهکشان,1.71
+745,virus,خون‌,1.46
+746,window,ابر,0.63
+747,rhythm,شعر,1.92
+748,coronation,آب,0.09
+749,seedling,برگ,2.38
+750,soldier,صلح,1.46
+751,negotiation,دیپلماسی,2.83
+752,journalist,شاعر,2.75
+753,brush,آبرنگ,2.08
+754,Julius Caesar,سزار,3.96
+755,lake,حواصیل خاکستری,1.33
+756,potato,برنج,2.67
+757,protein,دستگیره,0.09
+758,digit,عدد,3.54
+759,plane,بوئینگ,2.58
+760,Middle East,فرات,1.75
+761,competition,احترام متقابل,1.38
+762,strawberry,گیلاس,2.92
+763,snowboard,اسکی,3.21
+764,Gospel,کتاب مقدس,3.33
+765,constitution,مجلس سنا,1.92
+766,rhythm,آهنگ,3.38
+767,mojito,موهیتو,4.0
+768,Penicillin,الکساندرفلمینگ,2.25
+769,actor,تلویزیون,1.92
+770,notebook,تفنگ,0.17
+771,language,زبان مادری,3.21
+772,legend,پند,0.79
+773,gray heron,دریاچه,1.33
+774,gun,گروهبان,1.58
+775,flag,پرچم انگلستان,3.13
+776,JPEG,پی‌دی‌اف,3.0
+777,flora,مرورگر وب,0.0
+778,Green Revolution,رنگ,0.13
+779,justice,محکمه,2.33
+780,English,آمریکایی,3.25
+781,kindergarten,پيش‌دبستان,3.71
+782,squall,باد,3.13
+783,theatre,فیلم,2.67
+784,tradition,صنایع دستی,1.54
+785,moral,افسانه,0.79
+786,government,مارمولک,0.09
+787,cardigan,لباس,3.17
+788,glacier,گرمایش جهانی,1.71
+789,lawyer,نمایشگاه,0.21
+790,peninsula,جزیره,3.21
+791,ruler,پادشاه,3.71
+792,exit,رای,0.25
+793,pole,پرچم,1.42
+794,freedom,آزادی,3.92
+795,governor,امپراطور,3.5
+796,uniform,قلاب‌دوزی,0.88
+797,patriotism,سرود ملی,2.25
+798,armed forces,دفاع,2.13
+799,xenophobia,نژادپرستی,3.0
+800,tax,برگزیت,0.96
+801,editorial,اخبار,2.17
+802,snow,بهمن,2.21
+803,lawyer,دادستان,3.29
+804,electricity,جعبه,0.38
+805,octopus,پاولِ هشت‌پا,3.46
+806,roof,پنجره,2.38
+807,artwork,هنرمند,2.13
+808,self-driving car,خودروی روباتیک,4.0
+809,manuscript,کتاب,3.25
+810,homeless,میلیاردر,1.58
+811,playoff,بسکتبال,2.0
+812,theory,فرضیه,3.42
+813,ring,عقد,1.29
+814,mathematician,نمایش,0.04
+815,hypothesis,نظریه,3.42
+816,engagement,انگشتر,1.29
+817,bat,خون‌آشام,2.33
+818,supporter,کریکت,1.54
+819,dollar,میلیونر,2.0
+820,skyscraper,کاخ,2.5
+821,Cyrus,امپراتوری ایران,2.0
+822,Union Jack,پرچم,3.13
+823,swimming pool,قانون,0.08
+824,working class,کارخانه,1.71
+825,Promised Land,باکو,0.71
+826,cameo,اجرا,2.21
+827,piano,هارمونی,1.42
+828,Legion of Honour,لوازم تحریر,0.0
+829,lake,ابر,1.08
+830,Photoshop,پینت,3.08
+831,milkshake,آبمیوه,3.04
+832,office,کارمند,1.75
+833,stone,برج‌ساعت,0.58
+834,television,نمایشنامه‌نویس,1.63
+835,person,شخصیت,2.58
+836,lock-up,سلول,3.5
+837,paddy,سیب‌زمینی,2.67
+838,monitor,نمایشگر,3.88
+839,protein molecule,گیرنده,3.21
+840,panda,خرس قطبی,3.27
+841,web browser,موزیلا فایرفاکس,3.42
+842,screenwriter,تلویزیون,1.63
+843,vexillology,پرچم,2.29
+844,church,کلیسای جامع,3.46
+845,frisbee,ورق‌بازی,2.5
+846,flag,پرچم‌شناسی,2.29
+847,parliament,کنگره,3.42
+848,videogame,بازی کامپيوتری,3.25
+849,Siemens,قطار برقی,1.79
+850,trout,گیتار,0.0
+851,carbon dioxide,گازکربنیک,3.83
+852,Wii,پلی‌استیشن,3.25
+853,piston,موتور,2.25
+854,tug of war,مار و پله,2.46
+855,millionaire,دلار,2.0
+856,symbol,نشانه,3.13
+857,esteem,افتخار,3.38
+858,poster,کاغذ,2.71
+859,mine,سنگ,1.88
+860,mark,باشگاه,0.5
+861,sky,خواب,0.54
+862,DeepMind,گوگل ديپ‌مایند,3.96
+863,term,نیم‌سال تحصیلی,3.75
+864,style,مد,3.13
+865,sexism,جنسیت‌زدگی,3.96
+866,gale,پتو,0.88
+867,scientist,گاوس,2.83
+868,road,بزرگراه,3.38
+869,gravity,شهاب,1.13
+870,sea,سونامی,2.08
+871,helicopter,هواپیما,3.17
+872,sonnet,زیبایی,1.5
+873,cursor,چیپس,0.13
+874,artist,اثر هنری,2.13
+875,mother tongue,زبان,3.21
+876,chorus,خواننده,2.71
+877,person,گذرگاه عابران پیاده,1.71
+878,essay,تکلیف,2.46
+879,princess,بیسکویت,0.04
+880,bus,مرکز شهر,0.71
+881,touchscreen,هدوپ,0.75
+882,boss,مدیر,3.63
+883,lens,وودی آلن,0.58
+884,ozone,جو,2.46
+885,elementary school,مداد,1.46
+886,stage,هوی متال,1.13
+887,box,منبع,0.29
+888,ice,برف,2.88
+889,episode,فصل,3.13
+890,outlander,خارجی,3.63
+891,stock market,بورس اوراق بهادار,3.08
+892,pesticide,آفت,2.08
+893,asset,موجودی کالا,2.54
+894,sewing machine,دکمه,1.54
+895,Paul the Octopus,هشت‌پا,3.46
+896,desert,تپه ماسه‌ای,2.38
+897,stool,صندلی,3.17
+898,Islam,قرآن,2.42
+899,Britain,اچ‌اس‌بی‌سی,1.5
+900,perspective,فاصله,1.96
+901,medal,کفش ورزشی,0.88
+902,beauty,غزل,1.5
+903,tank,خودرو,2.46
+904,rose,پروانه,1.21
+905,rucksack,ثابت فارادی,0.0
+906,plant,طبقه کارگر,1.71
+907,German,لاتین,3.0
+908,telescope,طوفان فکری,0.0
+909,spring,آب‌فشان,3.38
+910,train,تراموا,3.5
+911,rose oil,گلاب,3.25
+912,rock,معدن,1.88
+913,Celsius,مایکروسافت,0.08
+914,islamophobia,داعش,1.96
+915,muffin,جعفری,1.42
+916,HSBC,بریتانیا,1.5
+917,arm,شاخه,2.67
+918,Microsoft,سلسیوس,0.08
+919,gold,روی,2.96
+920,victim,تلفن,0.04
+921,Snakes and Ladders,طناب‌کشی,2.46
+922,racing,فیلسوف,0.0
+923,Olympic Games,روح,0.45
+924,hail,باران,3.13
+925,woodland,تایگر وودز,0.21
+926,KFC,مک‌دونالد,3.17
+927,path,تونل,2.33
+928,statute,عصر یخبندان,0.0
+929,system,گسل,0.5
+930,racket,توپ,2.42
+931,law,استخر,0.08
+932,Mozilla Firefox,مرورگر وب,3.42
+933,year,قرن,2.88
+934,simulation,رباتیک,1.58
+935,vacuum,سیاهچاله,2.33
+936,salt,سدیم کلرید,3.88
+937,algebra,عمل,1.83
+938,gymnastics,شمشیربازی,2.67
+939,book,تصادف,0.0
+940,riot,نقاشی,0.08
+941,crocodile,مارمولک,2.96
+942,slide,اشاره‌گر,1.17
+943,Europe,پیمان ماستریخت,1.96
+944,street,مرد عنکبوتی,0.34
+945,boat,درخت,0.38
+946,tail,بوئینگ ۷۴۷-۲۰۰,1.67
+947,eczema,درماتیت,4.0
+948,joystick,رادار,0.46
+949,Gauss,دانشمند,2.83
+950,European Parliament,سازمان ملل متحد,2.63
+951,battery,هوش مصنوعی,0.42

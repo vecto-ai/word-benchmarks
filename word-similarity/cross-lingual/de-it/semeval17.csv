@@ -1,0 +1,913 @@
+,word1,word2,similarity
+0,Gitarre,trota,0.0
+1,Kindergarten,asilo,3.58
+2,Islam,Corano,2.29
+3,Innenstadt,autobus,0.96
+4,Zink,oro,2.92
+5,Times,Guardian,3.04
+6,Friedensrichter,giudice,3.46
+7,Wetterprognose,nuvolosità,1.54
+8,Nummer,cifra,3.71
+9,Neuropsychologie,parapsicologia,2.67
+10,Sand,piede,0.46
+11,Lampe,genio,1.29
+12,Biologie,biotopo,1.67
+13,Lied,esecutore,1.08
+14,Seidenstrasse,baco da seta,0.71
+15,Graslandschaft,prato,3.08
+16,Gerechtigkeit,tribunale,1.79
+17,Punktezahl,livello,2.13
+18,Fahnenstange,bandiera,1.96
+19,Vorhang,tapparella,3.08
+20,Hülle,porto,0.0
+21,Betriebssystem,deep learning,0.75
+22,Asien,mondo,1.71
+23,Basmatireis,riso jasmine,3.25
+24,Universität,campus,2.63
+25,Robotik,simulazione,1.83
+26,Film,nichilismo,0.33
+27,Mona Lisa,capolavoro,2.5
+28,Prüfung,programma,2.29
+29,Kabel,cappella,0.0
+30,Farbe,rivoluzione verde,0.13
+31,Landwirtschaft,pianta,1.79
+32,Elephant,dinosauro,2.17
+33,Chomolungma,monte Everest,4.0
+34,Microsoft,Celsius,0.0
+35,Taifun,ciclone,3.46
+36,Schlüssel,corona,0.38
+37,Millionär,dollaro,1.79
+38,Strategiespiel,strategia,2.08
+39,Programm,cibo,0.17
+40,Illustration,vescica,0.0
+41,Renner,atleta,3.17
+42,Kirche,cattedrale,3.17
+43,Handwerk,tradizione,1.71
+44,Thermodynamik,reazione a catena,1.63
+45,McDonald's,KFC,3.04
+46,Wald,Rio delle Amazzoni,1.96
+47,Yahoo,Gmail,2.67
+48,Ausländer,traduttore,1.08
+49,Walhai,aragosta,2.38
+50,Ebola,virus Ebola,3.92
+51,Abzeichen,vetro,0.33
+52,Rom,Hamadan,2.92
+53,Börse,mercato azionario,3.96
+54,Kultur,società,2.21
+55,Schwimmbad,legge,0.0
+56,Tanz,vestito,1.0
+57,Clinton,Obama,2.96
+58,Prinzessin,biscotto,0.0
+59,Rosenöl,acqua di rose,2.67
+60,Kohlenhydrat,saccarosio,2.96
+61,Höhe,conversione,0.25
+62,Symbol,crittogramma,2.0
+63,Kanonboot,costa,0.63
+64,Zimt,caramella,0.92
+65,Zauberer,Harry Potter,3.0
+66,Fremdenfeindlichkeit,razzismo,3.75
+67,Kloster,doccia,0.0
+68,Bruder,sorella,3.21
+69,Sensor,radiatore,1.29
+70,Uhrturm,pietra,0.83
+71,Wachstumshormon,somatotropina,3.71
+72,Theorem,Bolzano,1.75
+73,Unterrichtsgebühr,borsa di studio,2.25
+74,Deutsch,latino,2.92
+75,Faden,filato,3.08
+76,System,faglia,0.04
+77,Halbinsel,isola,3.08
+78,Jerusalem,ebreo,1.83
+79,grüne Revolution,vernice,0.13
+80,Juventus,Bayern Monaco,3.0
+81,Dach,finestra,1.92
+82,Dickflüssigkeit,spruzzo,1.04
+83,Schnee,valanga,2.21
+84,Regen,grandine,2.88
+85,Kohlendioxid,CO2,4.0
+86,Aristoteles,Platone,3.08
+87,Vereinte Nationen,Ban Ki-moon,2.17
+88,Theorie,olimpiadi internazionali di matematica,1.08
+89,Charakter,persona,2.96
+90,Aufsatz,compito a casa,2.38
+91,NATO,alleanza,3.04
+92,Molekül,matrice,0.33
+93,Pflanze,agricoltura,1.79
+94,Kapelle,cavo,0.0
+95,Kabel,Sole,0.0
+96,Staatsanwalt,avvocato,3.13
+97,Hammer,dente,0.41
+98,Alphabet,penna,0.63
+99,Dekoration,busta,0.5
+100,Bayern München,Juventus,3.0
+101,Planet,stella,2.88
+102,Tennis,statistica,0.46
+103,Maus,patatine fritte,0.21
+104,Wurm,malware,2.71
+105,Nietzsche,Chelsea,0.0
+106,Coke,Coca Cola,3.79
+107,Senat,costituzione,0.96
+108,Rock,orologio,0.29
+109,Statue,era glaciale,0.0
+110,Steuerknüppel,radar,0.75
+111,Rosenwasser,olio di rosa,2.67
+112,Star Wars,Mozart,0.09
+113,Knopf,macchina da cucire,1.79
+114,Künstler,opera d'arte,2.13
+115,Hummer,squalo balena,2.38
+116,Verlobung,anello,1.92
+117,Panzer,vagone,2.29
+118,Bühne,heavy metal,1.04
+119,Batterie,teatro,0.25
+120,Erde,meteorite,2.21
+121,Kino,opera,2.33
+122,Währung,scambio,1.71
+123,Schnäppchen,centesimo,0.75
+124,UNICEF,radice,0.04
+125,Markierung,circolo,0.46
+126,Primarschule,penna,0.92
+127,Fabrik,classe operaia,1.75
+128,KFC,McDonald's,3.04
+129,Glass,distintivo,0.33
+130,Lastwagen,pacco,0.83
+131,Schloss,muro,1.79
+132,Zuckerrohr,mietitrebbia,0.58
+133,Gemütsart,Giochi Olimpici,0.46
+134,Roman,scrittore,2.08
+135,Tabelle,grafico,3.21
+136,El Niño,equatore,1.29
+137,Uhr,gonna,0.29
+138,Strategie,gioco di strategia,2.08
+139,Klimawandel,precipitazione,1.29
+140,Mathematiker-Brücke,Si-o-se Pol,3.17
+141,Angreifer,criminale,2.79
+142,Lehrer,studente,2.46
+143,Flagge,asta,1.96
+144,Regenschirm,stufa,0.21
+145,Hag,salto,1.17
+146,Legende,morale,0.75
+147,Sitzung,paziente,1.33
+148,Schüler,insegnante,2.46
+149,Mobiltelefon,telefono,3.54
+150,Moral,leggenda,0.75
+151,Republik,duca,0.55
+152,Zellmembran,provirus,1.54
+153,Blut,corpo,1.88
+154,Notebook,portatile,4.0
+155,gelobtes Land,Baku,0.45
+156,Imperator,governatore,2.79
+157,Stahl,lega,2.96
+158,Poster,carta,2.38
+159,Zelle,gattabuia,2.46
+160,Stift,alfabeto,0.63
+161,Vetternwirtschaft,re,0.75
+162,Julius Cäsar,Cesare,3.92
+163,Enzyklopädie,dizionario,3.33
+164,Schlüssel,serratura,2.13
+165,Meer,delta,1.88
+166,Buch,incidente,0.04
+167,Übersetzer,straniero,1.08
+168,Kompilierer,subroutine,1.75
+169,Harry Potter,mago,3.0
+170,Episode,capitolo,3.33
+171,Dusche,monastero,0.0
+172,Normalabweichung,accumulazione,1.17
+173,Koran,Islam,2.29
+174,Echte Schweine,cinghiale nano,3.08
+175,Kathedrale,chiesa,3.17
+176,Fernsehen,attore,2.08
+177,Geschwindigkeit,posto,0.25
+178,Natriumchlorid,sale,3.96
+179,Abwehr,forze armate,2.0
+180,Spritzer,viscosità,1.04
+181,Flugzeug,Boeing,3.25
+182,Wüste,duna,1.96
+183,Natur,flora,2.67
+184,Base,acido,2.92
+185,Ring,fidanzamento,1.92
+186,Insel,penisola,3.08
+187,Tal,depressione,2.83
+188,Somatropin,ormone della crescita,3.71
+189,Club,marchio,0.46
+190,Atmosphäre,ozono,1.92
+191,Geld,contante,3.67
+192,IMF,Deutsche Bank,2.54
+193,Boeing,aereo,3.25
+194,Wand,castello,1.79
+195,iPhone,Apple,2.58
+196,Film,film,3.79
+197,Operation,algebra,1.92
+198,Flughafen,pezzo,0.0
+199,Chemotherapie,cancro al pancreas,1.67
+200,Kirsche,fragola,3.04
+201,Gehölz,Tiger Woods,0.0
+202,Forelle,chitarra,0.0
+203,Traum,cielo,0.58
+204,Anziehungskraft,meteora,0.83
+205,Shakespeare,Dickens,2.96
+206,Muffin,prezzemolo,0.54
+207,Kleid,danza,1.0
+208,Western Union,mondo occidentale,0.75
+209,Snowboard,sci,3.0
+210,bedeckt,previsione,1.54
+211,Strafgericht,giustizia,1.79
+212,Zeichen,simbolo,3.58
+213,Schachtel,sorgente,0.0
+214,Strasse,autostrada,3.29
+215,Christ,protestante,3.04
+216,Multiple Sklerose,sclerosi a placche,4.0
+217,Suffix,affisso,2.96
+218,Pandabär,orso polare,3.13
+219,Ast,braccio,1.13
+220,Manuskript,articolo,3.17
+221,Stern,asteroide,3.0
+222,Meer,tsunami,1.67
+223,Simulation,robotica,1.83
+224,Richter,magistrato,3.46
+225,Umschlag,decorazione,0.5
+226,Geldfluss,fiume,0.42
+227,König,sovrano,3.67
+228,Villa,scultore,0.63
+229,Faraday-Konstante,zaino,0.0
+230,Biotop,biologia,1.67
+231,Nachrichten,editoriale,2.58
+232,Sphäre,palla,3.0
+233,Geist,lampada,1.29
+234,Lastwagen,macchina,3.13
+235,Flöte,musica,2.0
+236,Stichkampf,pallacanestro,1.25
+237,Theorem,teoria,2.67
+238,Schläger,palla,2.21
+239,Teleskop,brainstorming,0.0
+240,Array,lista,3.25
+241,University of Cambridge,Università di Oxford,3.04
+242,Meteorit,Terra,2.21
+243,Information,entropia,2.25
+244,Legierung,acciaio,2.96
+245,Verstand,cervello,3.42
+246,Papiergeld,prete,0.17
+247,Strand,costa,2.75
+248,Pampelmuse,agrume,3.04
+249,Schauspieler,televisione,2.08
+250,Parlament,congresso,3.25
+251,Hautentzündung,eczema,3.63
+252,Windbö,vento,3.08
+253,Regenschirm,calibro,0.04
+254,Vieh,yogurt,0.38
+255,Hemd,cardigan,2.67
+256,Entfernung,prospettiva,2.08
+257,Stück,aeroporto,0.0
+258,Petersilie,muffin,0.54
+259,Wachstum,fertilizzante,1.5
+260,Aktie,patrimonio,1.79
+261,Arm,ramo,1.13
+262,WikiLeaks,WiFi,0.17
+263,Salz,cloruro di sodio,3.96
+264,Fuss,sabbia,0.46
+265,Kabel,mago,0.0
+266,Eroberer,Alessandro Magno,2.79
+267,Pfennig,affare,0.75
+268,Ameise,mosca,2.88
+269,Flaggenkunde,bandiera,2.08
+270,Geldwäsche,JPY,1.17
+271,Athlet,corridore,3.17
+272,Kinofilm,pellicola,3.79
+273,Soviet Union,guerra fredda,1.58
+274,Chelsea,Nietzsche,0.0
+275,Spielzeug,yo-yo,2.79
+276,Wasser,siccità,2.13
+277,JPY,riciclaggio di denaro,1.17
+278,Sprache,lingua madre,3.25
+279,Stil,moda,2.5
+280,Eis,neve,2.96
+281,Dichter,giornalista,1.96
+282,Hadoop,touchscreen,0.34
+283,Rezeptor,molecola proteica,3.25
+284,Dingle,Dell,0.04
+285,Grossstadt,cittadina,3.33
+286,Dämon,angelo,2.67
+287,Neurose,mente,1.33
+288,Quelle,geyser,3.08
+289,Diplomatie,negoziato,2.58
+290,Unendlichkeit,zero,2.46
+291,Welt,Asia,1.71
+292,Helm,arma,2.08
+293,Blut,virus,1.21
+294,Dampf,zero assoluto,0.92
+295,Verfassung,senato,0.96
+296,Provirus,membrana cellulare,1.54
+297,Jacke,acqua minerale,0.0
+298,Wind,groppo,3.08
+299,Liste,array,3.25
+300,Astronom,galassia,1.33
+301,Brainstorming,telescopio,0.0
+302,Feld,avena,2.17
+303,Lebensstil,civiltà,1.67
+304,Erreger,germe,3.71
+305,Lebensqualitàt,reddito,2.04
+306,Tsunami,mare,1.67
+307,Kondensator,diodo,2.17
+308,Keks,principessa,0.0
+309,Hafer,campo,2.17
+310,Baumwolle,poliestere,2.92
+311,Geschichte,matita,0.09
+312,Post,velocità,0.25
+313,Cytoplasma,dito,0.29
+314,Plato,Aristotele,3.08
+315,Körper,sangue,1.88
+316,Mojito,mohito,4.0
+317,Krokodil,lucertola,3.13
+318,Schloss,chiave,2.13
+319,Wolke,lago,0.71
+320,Dell,Dingle,0.04
+321,Photoshop,Paint,3.08
+322,Webbrowser,Mozilla Firefox,3.25
+323,Stern,luminosità,1.21
+324,Roboterauto,auto senza conducente,4.0
+325,Strickgarn,filo,3.08
+326,Zwergwildschwein,suidi,3.08
+327,Schönheit,sonetto,1.08
+328,Campus,università,2.63
+329,Traurigkeit,felicità,2.54
+330,Gouverneur,imperatore,2.79
+331,Null,infinito,2.46
+332,Handy,ananas,0.0
+333,Film,teatro,1.75
+334,Wolkenkratzer,palazzo,2.79
+335,Strasse,Uomo Ragno,0.29
+336,Surfen,sport acquatico,3.08
+337,Raumschiff,Joule,0.21
+338,Pistole,taccuino,0.09
+339,Philosoph,corsa,0.17
+340,Film,personaggio secondario,1.79
+341,Basketball,spareggio,1.25
+342,Monarchie,democrazia,2.88
+343,Mineralwasser,giacca,0.0
+344,Actant,poliedro,0.21
+345,Wasser,incoronazione,0.17
+346,Nahrung,programma,0.17
+347,Bankkredit,debito,2.79
+348,Europäische Union,Mosca,1.54
+349,Gedicht,ritmo,1.63
+350,Keim,agente patogeno,3.71
+351,Anthropologie,archeologia,2.75
+352,Equator,Ecuador,1.33
+353,Kaiser,costituzione,0.8
+354,Protein,maniglia,0.0
+355,Alexander der Grosse,conquistatore,2.79
+356,Phonologie,schermo,0.29
+357,Polyeder,attore,0.21
+358,Kapitel,episodio,3.33
+359,Person,attraversamento pedonale,1.08
+360,persisches Reich,Ciro,2.17
+361,Insel,marina militare,0.7
+362,Vereinigung,partito politico,2.71
+363,Obama,Clinton,2.96
+364,Unterstützer,cricket,0.67
+365,Gehirn,mente,3.42
+366,Unterrichtsstoff,esame,2.29
+367,Obdachloser,miliardario,2.25
+368,Rassismus,xenofobia,3.75
+369,Arbeiterklasse,fabbrica,1.75
+370,Wall Street,mercato finanziario,2.63
+371,Milliardär,senzatetto,2.25
+372,Löwenmäuler,lantana,3.21
+373,Batterie,energia,2.08
+374,Wandelröschen,bocca di leone,3.21
+375,Eisbär,panda,3.13
+376,Fahrer,Google Drive,0.25
+377,Ausgang,suffragio,0.33
+378,Diode,condensatore,2.17
+379,Ananas,smartphone,0.0
+380,Zahn,martello,0.41
+381,Staub,scopa,1.63
+382,Kamera,seguito,0.17
+383,Eidechse,governo,0.0
+384,See,airone cenerino,1.25
+385,Stadt,città,3.33
+386,Tiger Woods,bosco,0.0
+387,Rangabzeichen,dignità,0.5
+388,Comicroman,fumetto,3.67
+389,Decke,legno,0.5
+390,Stimmrecht,uscita,0.33
+391,Gitarre,violino,3.04
+392,Adidas,Nike,3.13
+393,Freiheit,oasi,0.46
+394,England,Regina Vittoria,1.79
+395,Soziobiologie,mutante,0.88
+396,Wolke,finestra,0.5
+397,Thron,spada,1.67
+398,Sklave,servo,3.46
+399,Notizbuch,pistola,0.09
+400,Ziffer,citoplasma,0.29
+401,Chips,cursore,0.21
+402,33-Bogen-Brücke,ponte matematico,3.17
+403,Das Abendmahl,Leonardo da Vinci,2.29
+404,Wassersport,surf,3.08
+405,Saft,cucchiaio,0.63
+406,Tradition,artigianato,1.71
+407,Cricket,sostenitore,0.67
+408,Englisch,americano,3.33
+409,Hamedan,Roma,2.92
+410,Palast,grattacielo,2.79
+411,Schauspieler,attrice,3.67
+412,Level,punteggio,2.13
+413,Chor,cantante,2.63
+414,Pfizer,medicinale,2.0
+415,Fussball,gioco del calcio,3.83
+416,Parapsychologie,neuropsicologia,2.67
+417,Band,orchestra,3.17
+418,Westliche Welt,Western Union,0.75
+419,Bildschirm,monitor,3.96
+420,Strauss,frutteto,0.29
+421,Behandlung,operazione chirurgica,2.75
+422,Comic,romanzo a fumetti,3.67
+423,Demokratie,monarchia,2.88
+424,Schadprogramm,worm,2.71
+425,Finanzmittelbeschaffung,sviluppo,0.58
+426,Celsius,Microsoft,0.0
+427,Kreuz,monaco,1.67
+428,PlayStation,Wii,3.21
+429,Dürre,acqua,2.13
+430,Weltuntergang,fuoco,1.13
+431,Protestant,cristiano,3.04
+432,Kartoffel,risaia,0.67
+433,Regierung,lucertola,0.0
+434,Jahr,secolo,2.5
+435,Maschine,computer,2.46
+436,Stern,pianeta,2.88
+437,Erschütterung,terremoto,3.17
+438,Quelle,scatola,0.0
+439,Basilika,mosaico,1.38
+440,Meisterwerk,Gioconda,2.5
+441,Zeichnung,sommossa,0.0
+442,Touchscreen,Hadoop,0.34
+443,Therapie,comportamentismo,1.67
+444,Absicht,volontà,3.17
+445,Erdbeere,ciliegia,3.04
+446,Abgeordneter,dirigente,2.29
+447,Allianz,NATO,3.04
+448,Ehre,stima,2.92
+449,Affix,suffisso,2.96
+450,Meister,vincitore,3.08
+451,Holz,coperta,0.5
+452,Ebola Virus,Ebola,3.92
+453,Foxterrier,Canon,0.0
+454,Bolzano,teorema,1.75
+455,Dinosaurier,elefante,2.17
+456,Oxford University,Università di Cambridge,3.04
+457,Fenster,nuvola,0.5
+458,Jasminreis,basmati,3.25
+459,Hardware,case,2.71
+460,Ziffer,numero,3.71
+461,PC Spiel,videogioco,3.38
+462,Spider-Man,strada,0.29
+463,Mochito,mojito,4.0
+464,Löffel,succo,0.63
+465,Paint,Photoshop,3.08
+466,Paracetamol,bronchite,1.0
+467,Tram,treno,2.96
+468,Flora,natura,2.67
+469,Klavier,armonia,1.38
+470,Süssigkeiten,cannella,0.92
+471,Opel,Mercedes,3.13
+472,Vertrag von Maastricht,Europa,1.88
+473,Galerie,avvocato,0.13
+474,absoluter Nullpunkt,vapore,0.92
+475,Pistole,sergente,1.17
+476,Vector,matrice,2.96
+477,Theater,batteria,0.25
+478,Autobahn,strada,3.29
+479,Joule,astronave,0.21
+480,Bestäubung,stame,2.21
+481,Geschlechtsdiskriminierung,sessismo,3.92
+482,Wetter,onda,0.79
+483,Hypothese,teoria,3.38
+484,Hocker,sedia,3.25
+485,Autor,regalo,0.17
+486,Muttersprache,lingua,3.25
+487,Serienmörder,assassino,3.38
+488,Football,calcio,3.83
+489,Computer,macchina,2.46
+490,Schwester,fratello,3.21
+491,Symbol,segno,3.58
+492,Schulden,mutuo,2.79
+493,Seidenraupe,bruco,3.54
+494,Galaxie,astronomo,1.33
+495,Applikation,galassia,0.0
+496,Stein,torre dell'orologio,0.83
+497,Muslime,vescovo,0.83
+498,Medikament,Pfizer,2.0
+499,Beethoven,Seconda Guerra Mondiale,0.17
+500,GTA,Grand Theft Auto,4.0
+501,Monitor,schermo,3.96
+502,Verbrecher,colpevole,2.79
+503,Fluss,flusso di cassa,0.42
+504,Opfer,telefono,0.04
+505,Sessel,sgabello,3.25
+506,Mutant,sociobiologia,0.88
+507,Theorie,ipotesi,3.38
+508,London,prezzo di offerta,0.21
+509,Auto,bicicletta,2.5
+510,Orchester,banda,3.17
+511,Wissenschaftler,Gauss,2.83
+512,Wallpaper,sfondo,3.42
+513,Tauziehen,Scale e Serpenti,1.96
+514,Pathologie,ematologia,2.83
+515,fossiler Brennstoff,fossile,1.88
+516,Unterprogramm,compilatore,1.75
+517,Obstgarten,struzzo,0.29
+518,Coca-Cola,coca,3.79
+519,Harmonie,piano,1.38
+520,Wirtschaft,ecosistema,0.46
+521,Ampulle,illustrazione,0.0
+522,Flugzeug,elicottero,3.0
+523,Spanisch,umidità,0.0
+524,Hagel,pioggia,2.88
+525,Mathematiker,spettacolo,0.0
+526,Erderwärmung,ghiacciaio,1.5
+527,Stipendium,retta,2.25
+528,Cardigan,camicia,2.67
+529,Nihilismus,film,0.33
+530,Rennen,filosofo,0.17
+531,Nationalhymne,patriottismo,2.04
+532,Fechten,ginnastica,2.33
+533,Ozon,atmosfera,1.92
+534,Galaxie,app,0.0
+535,Neanderthaler,sport,0.0
+536,Papier,poster,2.38
+537,Moskau,Unione Europea,1.54
+538,Baku,Terra Promessa,0.45
+539,Islamophobie,ISIS,1.67
+540,Statistik,tennis,0.46
+541,Britannien,HSBC,1.08
+542,Aufführung,matematico,0.0
+543,Jo-Jo,giocattolo,2.79
+544,Auftritt,interpretazione,3.08
+545,Hafen,incarto,0.0
+546,Tisch,tramonto,0.0
+547,Seidenraupe,Via della Seta,0.71
+548,politische Partei,associazione,2.71
+549,Bus,centro della città,0.96
+550,Gesellschaft,cultura,2.21
+551,Klasse,caos,0.17
+552,Aufgabe,appunti,2.04
+553,Cyrus,Impero Persiano,2.17
+554,Flagge,vessillologia,2.08
+555,Entropie,informazione,2.25
+556,Präsentationsfolie,puntatore,1.5
+557,Eidechse,coccodrillo,3.13
+558,Düse,fluido,1.5
+559,Mörder,serial killer,3.38
+560,Woody Allen,lente,0.29
+561,Paul die Krake,polpo,3.42
+562,Saccharose,carboidrato,2.96
+563,Honig,caseificio,0.75
+564,Schmetterling,rosa,1.25
+565,Geige,chitarra,3.04
+566,Energie,batteria,2.08
+567,Erdbeben,scossa,3.17
+568,Kumulation,deviazione standard,1.17
+569,Krönung,acqua,0.17
+570,Freude,tristezza,2.54
+571,Gmail,Yahoo,2.67
+572,Problem,disturbo bipolare,2.13
+573,Sternbild,Orione,2.79
+574,Trainer,giocatore,2.54
+575,Zitrusfrucht,arancia,3.21
+576,Weide,prateria,3.08
+577,Prophet,prete,1.75
+578,Graureiher,lago,1.25
+579,Theorie,teorema,2.67
+580,Ban Ki-moon,Nazioni Unite,2.17
+581,Ball,racchetta,2.21
+582,Ministerium,sultano,0.71
+583,Popcorn,cinema,1.75
+584,Leitartikel,notizia,2.58
+585,Wurzel,UNICEF,0.04
+586,Wörterbuch,enciclopedia,3.33
+587,Büchse,bottiglia,2.88
+588,Helikopter,aereo,3.0
+589,Kaugummi,menta piperita,1.67
+590,Packet,camion,0.83
+591,Kompass,elefante,0.0
+592,Sänger,coro,2.63
+593,Bauchspeicheldrüsenkrebs,chemioterapia,1.67
+594,Schauspielerin,attore,3.67
+595,Ton,acustica,2.63
+596,Jeans,donna,0.21
+597,Fledermaus,vampiro,2.38
+598,Mosaik,basilica,1.38
+599,Meteor,gravità,0.83
+600,Deutsche Bank,IMF,2.54
+601,selbstfahrendes Auto,auto autonoma,4.0
+602,Krake,Polpo Paul,3.42
+603,Polyester,cotone,2.92
+604,Eiscreme,colazione,0.96
+605,Buch,manoscritto,2.96
+606,Betrug,corruzione,2.88
+607,Artikel,manoscritto,3.17
+608,Kugelschreiber,scuola elementare,0.92
+609,Regisseur,capo,2.67
+610,Gehäuse,hardware,2.71
+611,Drehbuchautor,televisione,1.25
+612,Jalousie,tenda,3.08
+613,Flora,web browser,0.0
+614,Bargeld,denaro,3.67
+615,Akustik,suono,2.63
+616,Hintergrund,sfondo del desktop,3.42
+617,Historiker,storiografo,3.63
+618,Mensa,QI,2.0
+619,Schuld,sistema,0.04
+620,Würfel,cubo,2.75
+621,Eidechse,serpente,2.88
+622,Ecosystem,economia,0.46
+623,Jupiter,Mercurio,3.25
+624,Sexismus,discriminazione di genere,3.92
+625,Kaliber,ombrello,0.04
+626,Skulptur,statua,3.83
+627,Amerikanisch,inglese,3.33
+628,Beamte,deputato,2.29
+629,Zitrusfrucht,pompelmo,3.04
+630,Zauberer,cavo,0.0
+631,New York,antropologia,0.13
+632,Leonardo da Vinci,L'Ultima Cena,2.29
+633,Vulkan,magma,2.21
+634,Schwert,ambiente,0.0
+635,LED,tubercolosi,0.13
+636,Fortsetzung,macchina fotografica,0.17
+637,Einkommen,qualità della vita,2.04
+638,Zeiger,diapositiva,1.5
+639,Pullover,cotone,1.92
+640,Journalist,poeta,1.96
+641,Sultan,ministero,0.71
+642,Visa,globalismo,0.7
+643,Umtausch,valuta,1.71
+644,Pfarrer,profeta,1.75
+645,Motherboard,scheda madre,3.92
+646,bewaffnete Streitkräfte,difesa,2.0
+647,Videospiel,gioco per PC,3.38
+648,Ausbilder,insegnante,3.75
+649,Personal,vocalista,1.25
+650,Münze,pagamento,2.08
+651,CO2,anidride carbonica,4.0
+652,chirurgischer Eingriff,cura,2.75
+653,Hitze,riscaldamento globale,2.38
+654,Teilung,moltiplicazione,3.04
+655,Algebra,operazione,1.92
+656,Merkur,Giove,3.25
+657,Engel,demonio,2.67
+658,Notizen,compito,2.04
+659,Verstand,nevrosi,1.33
+660,Oscars,stadio,0.13
+661,Leiterspiel,tiro alla fune,1.96
+662,Sonnett,bellezza,1.08
+663,Zug,tram,2.96
+664,Ronaldo,U2,0.17
+665,Person,personaggio,2.96
+666,Flüssigkeit,ugello,1.5
+667,Elephant,bussola,0.0
+668,Welle,tempo,0.79
+669,Staubblatt,impollinazione,2.21
+670,Säure,base,2.92
+671,Go,backgammon,2.96
+672,Waffe,elmetto,2.08
+673,Bezahlung,moneta,2.08
+674,Statue,scultura,3.83
+675,JPEG,PDF,2.63
+676,Schneesturm,pioggia,2.96
+677,Unteroffizier,pistola,1.17
+678,Perspektive,distanza,2.08
+679,Amazonas,foresta,1.96
+680,Gesetz,piscina,0.0
+681,Schlange,lucertola,2.88
+682,Küste,spiaggia,2.75
+683,Nebenfigur,film,1.79
+684,Fliege,formica,2.88
+685,Google Drive,driver,0.25
+686,Teleskop,sedia,0.25
+687,bipolare Störung,problema,2.13
+688,Asteroid,stella,3.0
+689,Niederschlag,cambiamento climatico,1.29
+690,Anwalt,galleria,0.13
+691,Affe,campagna,0.0
+692,Rhythmus,poema,1.63
+693,Schwert,trono,1.67
+694,Hautausschlag,dermatite,3.63
+695,Diagramm,diagramma,3.21
+696,Eiszeit,statuto,0.0
+697,Mönch,croce,1.67
+698,Pfefferminze,gomma,1.67
+699,Vereinte Nationen,Parlamento Europeo,1.83
+700,Klimaerwärmung,calore,2.38
+701,Königin Victoria,Inghilterra,1.79
+702,Reisfeld,patata,0.67
+703,Küste,cannoniera,0.63
+704,Webbrauser,flora,0.0
+705,MS,sclerosi multipla,4.0
+706,Schachdame,regina regnante,0.83
+707,Erfolg,cornice,0.0
+708,Attacke,crimine,2.13
+709,Springen,recinto,1.17
+710,Flagge,Union Jack,2.83
+711,Cäsar,Giulio Cesare,3.92
+712,Hausaufgaben,saggio,2.38
+713,Mozilla Firefox,browser,3.25
+714,Radar,joystick,0.75
+715,Radiator,sensore,1.29
+716,Zara,leggings,1.17
+717,Gefängnis,cella,2.46
+718,Magma,vulcano,2.21
+719,Frisbee,gioco di carte,2.04
+720,Vampir,pipistrello,2.38
+721,Frau,jeans,0.21
+722,Geschenk,scrittore,0.17
+723,Wiedergeburt,Rinascimento,3.83
+724,Deep Learning,sistema operativo,0.75
+725,AI,batteria,0.0
+726,Virus,sangue,1.21
+727,Renaissance,Rinascimento,3.83
+728,Aufstand,disegno,0.0
+729,Geldkurs,Londra,0.21
+730,See,nuvola,0.71
+731,Google DeepMind,DeepMind,3.88
+732,Telefon,cellulare,3.54
+733,Milchshake,succo,3.0
+734,Gymnastik,scherma,2.33
+735,Depression,valle,2.83
+736,Patriotismus,inno nazionale,2.04
+737,Orange,agrume,3.21
+738,Kubik,dado,2.75
+739,Steuer,Brexit,1.04
+740,Windhose,tifone,3.46
+741,Rucksack,costante di Faraday,0.0
+742,Fossil,combustibile fossile,1.88
+743,Fuchs,cellula del sangue,0.09
+744,Hämatologie,patologia,2.83
+745,Manuskript,libro,2.96
+746,Behaviorismus,terapia,1.67
+747,Bleistift,storia,0.09
+748,Tuberkulose,led,0.13
+749,Schnee,ghiaccio,2.96
+750,Bildschirm,fonologia,0.29
+751,Matrix,molecola,0.33
+752,Oase,libertà,0.46
+753,Multiplikation,divisione,3.04
+754,Europäisches Parlament,Nazioni Unite,1.83
+755,Wii,PlayStation,3.21
+756,Entwicklung,raccolta fondi,0.58
+757,Aufführung,cameo,3.08
+758,Regen,cloud computing,0.0
+759,Frieden,soldato,0.63
+760,Dünger,crescita,1.5
+761,Subway,panino,1.75
+762,Gold,zinco,2.92
+763,Regen,tormenta,2.96
+764,Lawine,neve,2.21
+765,Anwalt,pubblico ministero,3.13
+766,Zivilisation,stile di vita,1.67
+767,Feuchtigkeit,spagnolo,0.0
+768,Kunstwerk,artista,2.13
+769,Kolben,motore,2.13
+770,Auto,cisterna,2.29
+771,Dollar,milionario,1.79
+772,Finanzmarkt,Wall Street,2.63
+773,Blutkörperchen,volpe,0.09
+774,Elektrizität,cassa,0.55
+775,Düne,deserto,1.96
+776,Helligkeit,stella,1.21
+777,Archeologie,antropologia,2.75
+778,Mount Everest,Chomolungma,4.0
+779,verbinden,canna da zucchero,0.58
+780,HSBC,Gran Bretagna,1.08
+781,Kalter Krieg,Unione Sovietica,1.58
+782,Patient,sessione,1.33
+783,Heizer,ombrello,0.21
+784,Griff,proteina,0.0
+785,Fernseher,sceneggiatore,1.25
+786,Tanz,Polo Sud,0.0
+787,Musik,flauto,2.0
+788,Delta,mare,1.88
+789,Krone,chiave,0.38
+790,Laptop,computer portatile,4.0
+791,Grand Theft Auto,GTA,4.0
+792,Äquator,El Niño,1.29
+793,Globalisierung,visto,0.7
+794,Mercedes,Opel,3.13
+795,Sturm,coperta,0.75
+796,Raupe,baco da seta,3.54
+797,Orion,costellazione,2.79
+798,Kettenreaktion,termodinamica,1.63
+799,Sitz,telescopio,0.25
+800,Latein,tedesco,2.92
+801,Pfarrer,banconota,0.17
+802,Umwelt,spada,0.0
+803,Frühstück,gelato,0.96
+804,Himmel,sogno,0.58
+805,Hebräisch,Gerusalemme,1.83
+806,Umformung,altitudine,0.25
+807,Verhandlung,diplomazia,2.58
+808,Backgammon,Go,2.96
+809,Mainboard,scheda madre,3.92
+810,Verfassung,imperatore,0.8
+811,Union Jack,bandiera,2.83
+812,Würde,insegna,0.5
+813,Vorschule,scuola materna,3.58
+814,Milchprodukt,miele,0.75
+815,König,nepotismo,0.75
+816,Sänger,pentagramma,1.25
+817,Feuer,apocalisse,1.13
+818,Geschichtsschreiber,storico,3.63
+819,Rose,farfalla,1.25
+820,Skifahren,snowboard,3.0
+821,Sport,Neanderthal,0.0
+822,Mode,stile,2.5
+823,Südpol,danza,0.0
+824,Lehrer,istruttore,3.75
+825,Fenster,tetto,1.92
+826,Ecuador,equatore,1.33
+827,Congress,parlamento,3.25
+828,Spieler,allenatore,2.54
+829,internationale Mathematik Olympiade,teoria,1.08
+830,IQ,Mensa,2.0
+831,Telefon,vittima,0.04
+832,Besen,polvere,1.63
+833,Stadium,Oscar,0.13
+834,Gletscher,riscaldamento globale,1.5
+835,Joghurt,bestiame,0.38
+836,Diener,schiavo,3.46
+837,Cloudcomputing,pioggia,0.0
+838,Theater,film,1.75
+839,Butterbrot,Subway,1.75
+840,Sonnenuntergang,tavolo,0.0
+841,Gauss,scienziato,2.83
+842,Marine,isola,0.7
+843,Kalender,vacanza,1.33
+844,Matrix,vettore,2.96
+845,Ball,sfera,3.0
+846,Soldat,pace,0.63
+847,Olympische Spiele,spirito,0.46
+848,Fussgängerstreifen,persona,1.08
+849,Unfall,libro,0.04
+850,Baumwolle,maglione,1.92
+851,Decke,burrasca,0.75
+852,WiFi,WikiLeaks,0.17
+853,Bildhauer,dimora,0.63
+854,Turnschuhe,medaglia,0.38
+855,Kryptogramm,simbolo,2.0
+856,Heavy Metal,palco,1.04
+857,Medaille,scarpe da ginnastica,0.38
+858,Protein-Molekül,recettore,3.25
+859,Scheibe,caricabatteria,0.34
+860,Darwin,evoluzione,2.29
+861,Apple,iPhone,2.58
+862,Aktienmarkt,borsa,3.96
+863,Ferien,calendario,1.33
+864,Schriftsteller,romanzo,2.08
+865,Gewinner,campione,3.08
+866,Nähmaschine,bottone,1.79
+867,Bronchitis,acetaminofene,1.0
+868,Guardian,Times,3.04
+869,ISIS,islamofobia,1.67
+870,U2,Ronaldo,0.17
+871,Verbrechen,aggressione,2.13
+872,Anthropologie,New York,0.13
+873,Korruption,frode,2.88
+874,Ansehen,onore,2.92
+875,Chaos,classe,0.17
+876,Sonne,cavo,0.0
+877,Batterie,IA,0.0
+878,Kampagne,scimmia,0.0
+879,Jahrhundert,anno,2.5
+880,Auto,camion,3.13
+881,Leggings,Zara,1.17
+882,Geisir,sorgente,3.08
+883,Ladegerät,disco,0.34
+884,Bischof,musulmano,0.83
+885,Canon,Fox Terrier,0.0
+886,Brexit,tassa,1.04
+887,Herrscher,re,3.67
+888,Kartenspiel,frisbee,2.04
+889,Gehäuse,elettricità,0.55
+890,Dickens,Shakespeare,2.96
+891,Fahrrad,macchina,2.5
+892,herrschende Königin,regina degli scacchi,0.83
+893,Linse,Woody Allen,0.29
+894,Zweiter Weltkrieg,Beethoven,0.17
+895,Wille,intenzione,3.17
+896,Nike,Adidas,3.13
+897,Herzog,repubblica,0.55
+898,Europa,trattato di Maastricht,1.88
+899,Mozart,Guerre stellari,0.09
+900,PDF,JPEG,2.63
+901,Kino,popcorn,1.75
+902,DeepMind,Google DeepMind,3.88
+903,Vermögen,azione,1.79
+904,Chef,regista,2.67
+905,Motor,pistone,2.13
+906,Oper,cinema,2.33
+907,Darsteller,canzone,1.08
+908,Rahmen,colpo,0.0
+909,Saft,frappè,3.0
+910,Evolution,Darwin,2.29
+911,Flasche,lattina,2.88

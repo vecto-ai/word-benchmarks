@@ -1,0 +1,431 @@
+,type,word1,word2,word3,target
+0,0,solar system      , atom                          ,sun               , nucleus                       
+1,0,solar system      , atom                          ,planet            , electron                      
+2,0,solar system      , atom                          ,mass              , charge                        
+3,0,solar system      , atom                          ,attracts          , attracts                      
+4,0,solar system      , atom                          ,revolves          , revolves                      
+5,0,solar system      , atom                          ,gravity           , electromagnetism              
+6,0,sun               , nucleus                       ,planet            , electron                      
+7,0,sun               , nucleus                       ,mass              , charge                        
+8,0,sun               , nucleus                       ,attracts          , attracts                      
+9,0,sun               , nucleus                       ,revolves          , revolves                      
+10,0,sun               , nucleus                       ,gravity           , electromagnetism              
+11,0,planet            , electron                      ,mass              , charge                        
+12,0,planet            , electron                      ,attracts          , attracts                      
+13,0,planet            , electron                      ,revolves          , revolves                      
+14,0,planet            , electron                      ,gravity           , electromagnetism              
+15,0,mass              , charge                        ,attracts          , attracts                      
+16,0,mass              , charge                        ,revolves          , revolves                      
+17,0,mass              , charge                        ,gravity           , electromagnetism              
+18,0,attracts          , attracts                      ,revolves          , revolves                      
+19,0,attracts          , attracts                      ,gravity           , electromagnetism              
+20,0,revolves          , revolves                      ,gravity           , electromagnetism              
+21,1,heat              , water                         ,transfers         , flows                         
+22,1,heat              , water                         ,temperature       , pressure                      
+23,1,heat              , water                         ,burner            , water tower                   
+24,1,heat              , water                         ,kettle            , bucket                        
+25,1,heat              , water                         ,heating           , filling                       
+26,1,heat              , water                         ,cooling           , emptying                      
+27,1,heat              , water                         ,thermodynamics    , hydrodynamics                 
+28,1,transfers         , flows                         ,temperature       , pressure                      
+29,1,transfers         , flows                         ,burner            , water tower                   
+30,1,transfers         , flows                         ,kettle            , bucket                        
+31,1,transfers         , flows                         ,heating           , filling                       
+32,1,transfers         , flows                         ,cooling           , emptying                      
+33,1,transfers         , flows                         ,thermodynamics    , hydrodynamics                 
+34,1,temperature       , pressure                      ,burner            , water tower                   
+35,1,temperature       , pressure                      ,kettle            , bucket                        
+36,1,temperature       , pressure                      ,heating           , filling                       
+37,1,temperature       , pressure                      ,cooling           , emptying                      
+38,1,temperature       , pressure                      ,thermodynamics    , hydrodynamics                 
+39,1,burner            , water tower                   ,kettle            , bucket                        
+40,1,burner            , water tower                   ,heating           , filling                       
+41,1,burner            , water tower                   ,cooling           , emptying                      
+42,1,burner            , water tower                   ,thermodynamics    , hydrodynamics                 
+43,1,kettle            , bucket                        ,heating           , filling                       
+44,1,kettle            , bucket                        ,cooling           , emptying                      
+45,1,kettle            , bucket                        ,thermodynamics    , hydrodynamics                 
+46,1,heating           , filling                       ,cooling           , emptying                      
+47,1,heating           , filling                       ,thermodynamics    , hydrodynamics                 
+48,1,cooling           , emptying                      ,thermodynamics    , hydrodynamics                 
+49,2,sounds            , waves                         ,wall              , shore                         
+50,2,sounds            , waves                         ,echoes            , reflects                      
+51,2,sounds            , waves                         ,air               , water                         
+52,2,sounds            , waves                         ,insulation        , breakwater                    
+53,2,sounds            , waves                         ,loud              , rough                         
+54,2,sounds            , waves                         ,quiet             , calm                          
+55,2,sounds            , waves                         ,vibrating         , crashing                      
+56,2,wall              , shore                         ,echoes            , reflects                      
+57,2,wall              , shore                         ,air               , water                         
+58,2,wall              , shore                         ,insulation        , breakwater                    
+59,2,wall              , shore                         ,loud              , rough                         
+60,2,wall              , shore                         ,quiet             , calm                          
+61,2,wall              , shore                         ,vibrating         , crashing                      
+62,2,echoes            , reflects                      ,air               , water                         
+63,2,echoes            , reflects                      ,insulation        , breakwater                    
+64,2,echoes            , reflects                      ,loud              , rough                         
+65,2,echoes            , reflects                      ,quiet             , calm                          
+66,2,echoes            , reflects                      ,vibrating         , crashing                      
+67,2,air               , water                         ,insulation        , breakwater                    
+68,2,air               , water                         ,loud              , rough                         
+69,2,air               , water                         ,quiet             , calm                          
+70,2,air               , water                         ,vibrating         , crashing                      
+71,2,insulation        , breakwater                    ,loud              , rough                         
+72,2,insulation        , breakwater                    ,quiet             , calm                          
+73,2,insulation        , breakwater                    ,vibrating         , crashing                      
+74,2,loud              , rough                         ,quiet             , calm                          
+75,2,loud              , rough                         ,vibrating         , crashing                      
+76,2,quiet             , calm                          ,vibrating         , crashing                      
+77,3,respiration       , combustion                    ,animal            , fire                          
+78,3,respiration       , combustion                    ,food              , fuel                          
+79,3,respiration       , combustion                    ,breathing         , burning                       
+80,3,respiration       , combustion                    ,living            , hot                           
+81,3,respiration       , combustion                    ,vigorous          , intense                       
+82,3,respiration       , combustion                    ,oxygen            , oxygen                        
+83,3,respiration       , combustion                    ,carbon dioxide    , carbon dioxide                
+84,3,animal            , fire                          ,food              , fuel                          
+85,3,animal            , fire                          ,breathing         , burning                       
+86,3,animal            , fire                          ,living            , hot                           
+87,3,animal            , fire                          ,vigorous          , intense                       
+88,3,animal            , fire                          ,oxygen            , oxygen                        
+89,3,animal            , fire                          ,carbon dioxide    , carbon dioxide                
+90,3,food              , fuel                          ,breathing         , burning                       
+91,3,food              , fuel                          ,living            , hot                           
+92,3,food              , fuel                          ,vigorous          , intense                       
+93,3,food              , fuel                          ,oxygen            , oxygen                        
+94,3,food              , fuel                          ,carbon dioxide    , carbon dioxide                
+95,3,breathing         , burning                       ,living            , hot                           
+96,3,breathing         , burning                       ,vigorous          , intense                       
+97,3,breathing         , burning                       ,oxygen            , oxygen                        
+98,3,breathing         , burning                       ,carbon dioxide    , carbon dioxide                
+99,3,living            , hot                           ,vigorous          , intense                       
+100,3,living            , hot                           ,oxygen            , oxygen                        
+101,3,living            , hot                           ,carbon dioxide    , carbon dioxide                
+102,3,vigorous          , intense                       ,oxygen            , oxygen                        
+103,3,vigorous          , intense                       ,carbon dioxide    , carbon dioxide                
+104,3,oxygen            , oxygen                        ,carbon dioxide    , carbon dioxide                
+105,4,light             , sound                         ,red               , low                           
+106,4,light             , sound                         ,violet            , high                          
+107,4,light             , sound                         ,reflects          , echoes                        
+108,4,light             , sound                         ,bright            , loud                          
+109,4,light             , sound                         ,dim               , quiet                         
+110,4,light             , sound                         ,lens              , horn                          
+111,4,red               , low                           ,violet            , high                          
+112,4,red               , low                           ,reflects          , echoes                        
+113,4,red               , low                           ,bright            , loud                          
+114,4,red               , low                           ,dim               , quiet                         
+115,4,red               , low                           ,lens              , horn                          
+116,4,violet            , high                          ,reflects          , echoes                        
+117,4,violet            , high                          ,bright            , loud                          
+118,4,violet            , high                          ,dim               , quiet                         
+119,4,violet            , high                          ,lens              , horn                          
+120,4,reflects          , echoes                        ,bright            , loud                          
+121,4,reflects          , echoes                        ,dim               , quiet                         
+122,4,reflects          , echoes                        ,lens              , horn                          
+123,4,bright            , loud                          ,dim               , quiet                         
+124,4,bright            , loud                          ,lens              , horn                          
+125,4,dim               , quiet                         ,lens              , horn                          
+126,5,planet            , projectile                    ,orbit             , trajectory                    
+127,5,planet            , projectile                    ,sun               , earth                         
+128,5,planet            , projectile                    ,elliptical        , parabolic                     
+129,5,planet            , projectile                    ,space             , air                           
+130,5,planet            , projectile                    ,gravity           , gravity                       
+131,5,planet            , projectile                    ,attracts          , attracts                      
+132,5,orbit             , trajectory                    ,sun               , earth                         
+133,5,orbit             , trajectory                    ,elliptical        , parabolic                     
+134,5,orbit             , trajectory                    ,space             , air                           
+135,5,orbit             , trajectory                    ,gravity           , gravity                       
+136,5,orbit             , trajectory                    ,attracts          , attracts                      
+137,5,sun               , earth                         ,elliptical        , parabolic                     
+138,5,sun               , earth                         ,space             , air                           
+139,5,sun               , earth                         ,gravity           , gravity                       
+140,5,sun               , earth                         ,attracts          , attracts                      
+141,5,elliptical        , parabolic                     ,space             , air                           
+142,5,elliptical        , parabolic                     ,gravity           , gravity                       
+143,5,elliptical        , parabolic                     ,attracts          , attracts                      
+144,5,space             , air                           ,gravity           , gravity                       
+145,5,space             , air                           ,attracts          , attracts                      
+146,5,gravity           , gravity                       ,attracts          , attracts                      
+147,6,species           , breeds                        ,competition       , selection                     
+148,6,species           , breeds                        ,adaptation        , conformance                   
+149,6,species           , breeds                        ,natural           , artificial                    
+150,6,species           , breeds                        ,fitness           , popularity                    
+151,6,species           , breeds                        ,mating            , breeding                      
+152,6,species           , breeds                        ,wild              , domesticated                  
+153,6,competition       , selection                     ,adaptation        , conformance                   
+154,6,competition       , selection                     ,natural           , artificial                    
+155,6,competition       , selection                     ,fitness           , popularity                    
+156,6,competition       , selection                     ,mating            , breeding                      
+157,6,competition       , selection                     ,wild              , domesticated                  
+158,6,adaptation        , conformance                   ,natural           , artificial                    
+159,6,adaptation        , conformance                   ,fitness           , popularity                    
+160,6,adaptation        , conformance                   ,mating            , breeding                      
+161,6,adaptation        , conformance                   ,wild              , domesticated                  
+162,6,natural           , artificial                    ,fitness           , popularity                    
+163,6,natural           , artificial                    ,mating            , breeding                      
+164,6,natural           , artificial                    ,wild              , domesticated                  
+165,6,fitness           , popularity                    ,mating            , breeding                      
+166,6,fitness           , popularity                    ,wild              , domesticated                  
+167,6,mating            , breeding                      ,wild              , domesticated                  
+168,7,molecules         , balls                         ,gas               , billiards                     
+169,7,molecules         , balls                         ,temperature       , speed                         
+170,7,molecules         , balls                         ,container         , table                         
+171,7,molecules         , balls                         ,pressing          , bouncing                      
+172,7,molecules         , balls                         ,moving            , moving                        
+173,7,molecules         , balls                         ,cold              , slow                          
+174,7,molecules         , balls                         ,hot               , fast                          
+175,7,gas               , billiards                     ,temperature       , speed                         
+176,7,gas               , billiards                     ,container         , table                         
+177,7,gas               , billiards                     ,pressing          , bouncing                      
+178,7,gas               , billiards                     ,moving            , moving                        
+179,7,gas               , billiards                     ,cold              , slow                          
+180,7,gas               , billiards                     ,hot               , fast                          
+181,7,temperature       , speed                         ,container         , table                         
+182,7,temperature       , speed                         ,pressing          , bouncing                      
+183,7,temperature       , speed                         ,moving            , moving                        
+184,7,temperature       , speed                         ,cold              , slow                          
+185,7,temperature       , speed                         ,hot               , fast                          
+186,7,container         , table                         ,pressing          , bouncing                      
+187,7,container         , table                         ,moving            , moving                        
+188,7,container         , table                         ,cold              , slow                          
+189,7,container         , table                         ,hot               , fast                          
+190,7,pressing          , bouncing                      ,moving            , moving                        
+191,7,pressing          , bouncing                      ,cold              , slow                          
+192,7,pressing          , bouncing                      ,hot               , fast                          
+193,7,moving            , moving                        ,cold              , slow                          
+194,7,moving            , moving                        ,hot               , fast                          
+195,7,cold              , slow                          ,hot               , fast                          
+196,8,mind              , computer                      ,thinking          , processing                    
+197,8,mind              , computer                      ,forgetting        , erasing                       
+198,8,mind              , computer                      ,memorize          , write                         
+199,8,mind              , computer                      ,remember          , read                          
+200,8,mind              , computer                      ,memory            , memory                        
+201,8,mind              , computer                      ,muscles           , outputs                       
+202,8,mind              , computer                      ,senses            , inputs                        
+203,8,mind              , computer                      ,mistake           , bug                           
+204,8,thinking          , processing                    ,forgetting        , erasing                       
+205,8,thinking          , processing                    ,memorize          , write                         
+206,8,thinking          , processing                    ,remember          , read                          
+207,8,thinking          , processing                    ,memory            , memory                        
+208,8,thinking          , processing                    ,muscles           , outputs                       
+209,8,thinking          , processing                    ,senses            , inputs                        
+210,8,thinking          , processing                    ,mistake           , bug                           
+211,8,forgetting        , erasing                       ,memorize          , write                         
+212,8,forgetting        , erasing                       ,remember          , read                          
+213,8,forgetting        , erasing                       ,memory            , memory                        
+214,8,forgetting        , erasing                       ,muscles           , outputs                       
+215,8,forgetting        , erasing                       ,senses            , inputs                        
+216,8,forgetting        , erasing                       ,mistake           , bug                           
+217,8,memorize          , write                         ,remember          , read                          
+218,8,memorize          , write                         ,memory            , memory                        
+219,8,memorize          , write                         ,muscles           , outputs                       
+220,8,memorize          , write                         ,senses            , inputs                        
+221,8,memorize          , write                         ,mistake           , bug                           
+222,8,remember          , read                          ,memory            , memory                        
+223,8,remember          , read                          ,muscles           , outputs                       
+224,8,remember          , read                          ,senses            , inputs                        
+225,8,remember          , read                          ,mistake           , bug                           
+226,8,memory            , memory                        ,muscles           , outputs                       
+227,8,memory            , memory                        ,senses            , inputs                        
+228,8,memory            , memory                        ,mistake           , bug                           
+229,8,muscles           , outputs                       ,senses            , inputs                        
+230,8,muscles           , outputs                       ,mistake           , bug                           
+231,8,senses            , inputs                        ,mistake           , bug                           
+232,9,bacteria          , slot machines                 ,genes             , reels                         
+233,9,bacteria          , slot machines                 ,mutating          , spinning                      
+234,9,bacteria          , slot machines                 ,reproducing       , winning                       
+235,9,bacteria          , slot machines                 ,dying             , losing                        
+236,9,genes             , reels                         ,mutating          , spinning                      
+237,9,genes             , reels                         ,reproducing       , winning                       
+238,9,genes             , reels                         ,dying             , losing                        
+239,9,mutating          , spinning                      ,reproducing       , winning                       
+240,9,mutating          , spinning                      ,dying             , losing                        
+241,9,reproducing       , winning                       ,dying             , losing                        
+242,10,argument          , war                           ,debater           , soldier                       
+243,10,argument          , war                           ,refute            , destroy                       
+244,10,argument          , war                           ,arguing           , fighting                      
+245,10,argument          , war                           ,acceptance        , defeat                        
+246,10,argument          , war                           ,criticizes        , attacks                       
+247,10,argument          , war                           ,logic             , weapon                        
+248,10,debater           , soldier                       ,refute            , destroy                       
+249,10,debater           , soldier                       ,arguing           , fighting                      
+250,10,debater           , soldier                       ,acceptance        , defeat                        
+251,10,debater           , soldier                       ,criticizes        , attacks                       
+252,10,debater           , soldier                       ,logic             , weapon                        
+253,10,refute            , destroy                       ,arguing           , fighting                      
+254,10,refute            , destroy                       ,acceptance        , defeat                        
+255,10,refute            , destroy                       ,criticizes        , attacks                       
+256,10,refute            , destroy                       ,logic             , weapon                        
+257,10,arguing           , fighting                      ,acceptance        , defeat                        
+258,10,arguing           , fighting                      ,criticizes        , attacks                       
+259,10,arguing           , fighting                      ,logic             , weapon                        
+260,10,acceptance        , defeat                        ,criticizes        , attacks                       
+261,10,acceptance        , defeat                        ,logic             , weapon                        
+262,10,criticizes        , attacks                       ,logic             , weapon                        
+263,11,believer          , buyer                         ,belief            , merchandise                   
+264,11,believer          , buyer                         ,accepting         , buying                        
+265,11,believer          , buyer                         ,advocating        , selling                       
+266,11,believer          , buyer                         ,rejecting         , returning                     
+267,11,believer          , buyer                         ,true              , valuable                      
+268,11,believer          , buyer                         ,false             , worthless                     
+269,11,belief            , merchandise                   ,accepting         , buying                        
+270,11,belief            , merchandise                   ,advocating        , selling                       
+271,11,belief            , merchandise                   ,rejecting         , returning                     
+272,11,belief            , merchandise                   ,true              , valuable                      
+273,11,belief            , merchandise                   ,false             , worthless                     
+274,11,accepting         , buying                        ,advocating        , selling                       
+275,11,accepting         , buying                        ,rejecting         , returning                     
+276,11,accepting         , buying                        ,true              , valuable                      
+277,11,accepting         , buying                        ,false             , worthless                     
+278,11,advocating        , selling                       ,rejecting         , returning                     
+279,11,advocating        , selling                       ,true              , valuable                      
+280,11,advocating        , selling                       ,false             , worthless                     
+281,11,rejecting         , returning                     ,true              , valuable                      
+282,11,rejecting         , returning                     ,false             , worthless                     
+283,11,true              , valuable                      ,false             , worthless                     
+284,12,reasons           , foundations                   ,theories          , buildings                     
+285,12,reasons           , foundations                   ,confirming        , supporting                    
+286,12,reasons           , foundations                   ,rational          , solid                         
+287,12,reasons           , foundations                   ,dubious           , weak                          
+288,12,reasons           , foundations                   ,flaw              , crack                         
+289,12,theories          , buildings                     ,confirming        , supporting                    
+290,12,theories          , buildings                     ,rational          , solid                         
+291,12,theories          , buildings                     ,dubious           , weak                          
+292,12,theories          , buildings                     ,flaw              , crack                         
+293,12,confirming        , supporting                    ,rational          , solid                         
+294,12,confirming        , supporting                    ,dubious           , weak                          
+295,12,confirming        , supporting                    ,flaw              , crack                         
+296,12,rational          , solid                         ,dubious           , weak                          
+297,12,rational          , solid                         ,flaw              , crack                         
+298,12,dubious           , weak                          ,flaw              , crack                         
+299,13,difficulties      , obstructions                  ,goal              , destination                   
+300,13,difficulties      , obstructions                  ,plan              , route                         
+301,13,difficulties      , obstructions                  ,person            , traveller                     
+302,13,difficulties      , obstructions                  ,problem solving   , travelling                    
+303,13,difficulties      , obstructions                  ,partner           , companion                     
+304,13,difficulties      , obstructions                  ,succeeding        , arriving                      
+305,13,goal              , destination                   ,plan              , route                         
+306,13,goal              , destination                   ,person            , traveller                     
+307,13,goal              , destination                   ,problem solving   , travelling                    
+308,13,goal              , destination                   ,partner           , companion                     
+309,13,goal              , destination                   ,succeeding        , arriving                      
+310,13,plan              , route                         ,person            , traveller                     
+311,13,plan              , route                         ,problem solving   , travelling                    
+312,13,plan              , route                         ,partner           , companion                     
+313,13,plan              , route                         ,succeeding        , arriving                      
+314,13,person            , traveller                     ,problem solving   , travelling                    
+315,13,person            , traveller                     ,partner           , companion                     
+316,13,person            , traveller                     ,succeeding        , arriving                      
+317,13,problem solving   , travelling                    ,partner           , companion                     
+318,13,problem solving   , travelling                    ,succeeding        , arriving                      
+319,13,partner           , companion                     ,succeeding        , arriving                      
+320,14,time              , money                         ,invest            , allocate                      
+321,14,time              , money                         ,schedule          , budget                        
+322,14,time              , money                         ,efficient         , effective                     
+323,14,time              , money                         ,quick             , cheap                         
+324,14,time              , money                         ,slow              , expensive                     
+325,14,invest            , allocate                      ,schedule          , budget                        
+326,14,invest            , allocate                      ,efficient         , effective                     
+327,14,invest            , allocate                      ,quick             , cheap                         
+328,14,invest            , allocate                      ,slow              , expensive                     
+329,14,schedule          , budget                        ,efficient         , effective                     
+330,14,schedule          , budget                        ,quick             , cheap                         
+331,14,schedule          , budget                        ,slow              , expensive                     
+332,14,efficient         , effective                     ,quick             , cheap                         
+333,14,efficient         , effective                     ,slow              , expensive                     
+334,14,quick             , cheap                         ,slow              , expensive                     
+335,15,ideas             , seeds                         ,inspired          , planted                       
+336,15,ideas             , seeds                         ,productive        , fruitful                      
+337,15,ideas             , seeds                         ,product           , fruit                         
+338,15,ideas             , seeds                         ,develop           , grow                          
+339,15,ideas             , seeds                         ,fail              , wither                        
+340,15,ideas             , seeds                         ,succeed           , blossom                       
+341,15,inspired          , planted                       ,productive        , fruitful                      
+342,15,inspired          , planted                       ,product           , fruit                         
+343,15,inspired          , planted                       ,develop           , grow                          
+344,15,inspired          , planted                       ,fail              , wither                        
+345,15,inspired          , planted                       ,succeed           , blossom                       
+346,15,productive        , fruitful                      ,product           , fruit                         
+347,15,productive        , fruitful                      ,develop           , grow                          
+348,15,productive        , fruitful                      ,fail              , wither                        
+349,15,productive        , fruitful                      ,succeed           , blossom                       
+350,15,product           , fruit                         ,develop           , grow                          
+351,15,product           , fruit                         ,fail              , wither                        
+352,15,product           , fruit                         ,succeed           , blossom                       
+353,15,develop           , grow                          ,fail              , wither                        
+354,15,develop           , grow                          ,succeed           , blossom                       
+355,15,fail              , wither                        ,succeed           , blossom                       
+356,16,mind              , machine                       ,thinking          , working                       
+357,16,mind              , machine                       ,awake             , turned on                     
+358,16,mind              , machine                       ,asleep            , turned off                    
+359,16,mind              , machine                       ,confused          , broken                        
+360,16,mind              , machine                       ,intelligence      , power                         
+361,16,mind              , machine                       ,therapy           , repair                        
+362,16,thinking          , working                       ,awake             , turned on                     
+363,16,thinking          , working                       ,asleep            , turned off                    
+364,16,thinking          , working                       ,confused          , broken                        
+365,16,thinking          , working                       ,intelligence      , power                         
+366,16,thinking          , working                       ,therapy           , repair                        
+367,16,awake             , turned on                     ,asleep            , turned off                    
+368,16,awake             , turned on                     ,confused          , broken                        
+369,16,awake             , turned on                     ,intelligence      , power                         
+370,16,awake             , turned on                     ,therapy           , repair                        
+371,16,asleep            , turned off                    ,confused          , broken                        
+372,16,asleep            , turned off                    ,intelligence      , power                         
+373,16,asleep            , turned off                    ,therapy           , repair                        
+374,16,confused          , broken                        ,intelligence      , power                         
+375,16,confused          , broken                        ,therapy           , repair                        
+376,16,intelligence      , power                         ,therapy           , repair                        
+377,17,idea              , object                        ,understand        , hold                          
+378,17,idea              , object                        ,analyze           , weigh                         
+379,17,idea              , object                        ,important         , heavy                         
+380,17,idea              , object                        ,trivial           , light                         
+381,17,understand        , hold                          ,analyze           , weigh                         
+382,17,understand        , hold                          ,important         , heavy                         
+383,17,understand        , hold                          ,trivial           , light                         
+384,17,analyze           , weigh                         ,important         , heavy                         
+385,17,analyze           , weigh                         ,trivial           , light                         
+386,17,important         , heavy                         ,trivial           , light                         
+387,18,follow            , understand                    ,leader            , speaker                       
+388,18,follow            , understand                    ,path              , argument                      
+389,18,follow            , understand                    ,follower          , listener                      
+390,18,follow            , understand                    ,lost              , misunderstood                 
+391,18,follow            , understand                    ,wanders           , digresses                     
+392,18,follow            , understand                    ,twisted           , complicated                   
+393,18,follow            , understand                    ,straight          , simple                        
+394,18,leader            , speaker                       ,path              , argument                      
+395,18,leader            , speaker                       ,follower          , listener                      
+396,18,leader            , speaker                       ,lost              , misunderstood                 
+397,18,leader            , speaker                       ,wanders           , digresses                     
+398,18,leader            , speaker                       ,twisted           , complicated                   
+399,18,leader            , speaker                       ,straight          , simple                        
+400,18,path              , argument                      ,follower          , listener                      
+401,18,path              , argument                      ,lost              , misunderstood                 
+402,18,path              , argument                      ,wanders           , digresses                     
+403,18,path              , argument                      ,twisted           , complicated                   
+404,18,path              , argument                      ,straight          , simple                        
+405,18,follower          , listener                      ,lost              , misunderstood                 
+406,18,follower          , listener                      ,wanders           , digresses                     
+407,18,follower          , listener                      ,twisted           , complicated                   
+408,18,follower          , listener                      ,straight          , simple                        
+409,18,lost              , misunderstood                 ,wanders           , digresses                     
+410,18,lost              , misunderstood                 ,twisted           , complicated                   
+411,18,lost              , misunderstood                 ,straight          , simple                        
+412,18,wanders           , digresses                     ,twisted           , complicated                   
+413,18,wanders           , digresses                     ,straight          , simple                        
+414,18,twisted           , complicated                   ,straight          , simple                        
+415,19,seeing            , understanding                 ,light             , knowledge                     
+416,19,seeing            , understanding                 ,illuminating      , explaining                    
+417,19,seeing            , understanding                 ,darkness          , confusion                     
+418,19,seeing            , understanding                 ,view              , interpretation                
+419,19,seeing            , understanding                 ,hidden            , secret                        
+420,19,light             , knowledge                     ,illuminating      , explaining                    
+421,19,light             , knowledge                     ,darkness          , confusion                     
+422,19,light             , knowledge                     ,view              , interpretation                
+423,19,light             , knowledge                     ,hidden            , secret                        
+424,19,illuminating      , explaining                    ,darkness          , confusion                     
+425,19,illuminating      , explaining                    ,view              , interpretation                
+426,19,illuminating      , explaining                    ,hidden            , secret                        
+427,19,darkness          , confusion                     ,view              , interpretation                
+428,19,darkness          , confusion                     ,hidden            , secret                        
+429,19,view              , interpretation                ,hidden            , secret                        

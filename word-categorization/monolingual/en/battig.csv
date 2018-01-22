@@ -1,0 +1,5232 @@
+,category,word
+0,precious stone,diamond
+1,precious stone,ruby
+2,precious stone,emerald
+3,precious stone,sapphire
+4,precious stone,pearl
+5,precious stone,opal
+6,precious stone,jade
+7,precious stone,topaz
+8,precious stone,amethyst
+9,precious stone,onyx
+10,precious stone,garnet
+11,precious stone,turquoise
+12,precious stone,gem
+13,precious stone,aquamarine
+14,precious stone,gold
+15,precious stone,silver
+16,precious stone,zircon
+17,precious stone,quartz
+18,precious stone,moonstone
+19,precious stone,star sapphire
+20,precious stone,crystal
+21,precious stone,alexandrite
+22,precious stone,cameo
+23,precious stone,jewel
+24,precious stone,bloodstone
+25,precious stone,platinum
+26,precious stone,uranium
+27,precious stone,amherst
+28,precious stone,black pearl
+29,precious stone,coral ebony
+30,precious stone,granite
+31,precious stone,lapis lazuli
+32,precious stone,marble
+33,precious stone,peridot
+34,precious stone,rhinestone
+35,unit of time,hour
+36,unit of time,minute
+37,unit of time,second
+38,unit of time,year
+39,unit of time,day
+40,unit of time,century
+41,unit of time,month
+42,unit of time,decade
+43,unit of time,week
+44,unit of time,millisecond
+45,unit of time,eon
+46,unit of time,era
+47,unit of time,score
+48,unit of time,millenium
+49,unit of time,fortnight
+50,unit of time,half hour
+51,unit of time,age
+52,unit of time,microsecond
+53,unit of time,light-year
+54,unit of time,eternity
+55,unit of time,generation
+56,unit of time,epoch
+57,unit of time,period
+58,unit of time,night
+59,unit of time,infinity
+60,unit of time,a.d.
+61,unit of time,afternoon
+62,unit of time,b.c.
+63,unit of time,degree
+64,unit of time,lifetime
+65,unit of time,moment
+66,unit of time,quarter hour
+67,unit of time,semester
+68,unit of time,centennial
+69,unit of time,clock
+70,unit of time,moon
+71,unit of time,one-tenth second
+72,unit of time,biennium
+73,unit of time,evening
+74,unit of time,half minute
+75,unit of time,split second
+76,unit of time,ten minutes
+77,unit of time,twenty-four hours
+78,relative,aunt
+79,relative,uncle
+80,relative,father
+81,relative,mother
+82,relative,brother
+83,relative,sister
+84,relative,cousin
+85,relative,grandmother
+86,relative,grandfather
+87,relative,nephew
+88,relative,niece
+89,relative,husband
+90,relative,son
+91,relative,daughter
+92,relative,mother-in-law
+93,relative,brother-in-law
+94,relative,wife
+95,relative,great-aunt
+96,relative,sister-in-law
+97,relative,father-in-law
+98,relative,grandparents
+99,relative,second cousin
+100,relative,grandmom
+101,relative,great-uncle
+102,relative,grandpop
+103,relative,great-grandfather
+104,relative,great-grandmother
+105,relative,in-laws
+106,relative,dad
+107,relative,mom
+108,relative,children
+109,relative,grandson
+110,relative,granddaughter
+111,relative,parents
+112,relative,stepfather
+113,relative,stepsister
+114,relative,first cousin
+115,relative,godmother
+116,relative,godparents
+117,relative,half brother
+118,relative,half sister
+119,relative,stepbrother
+120,relative,stepmother
+121,relative,stepson
+122,relative,great-grandparents
+123,relative,son-in-law
+124,unit of distance,mile
+125,unit of distance,foot
+126,unit of distance,inch
+127,unit of distance,yard
+128,unit of distance,meter
+129,unit of distance,centimeter
+130,unit of distance,kilometer
+131,unit of distance,millimeter
+132,unit of distance,rod
+133,unit of distance,light-year
+134,unit of distance,decimeter
+135,unit of distance,block
+136,unit of distance,league
+137,unit of distance,acre
+138,unit of distance,fathom
+139,unit of distance,knot
+140,unit of distance,furlong
+141,unit of distance,angstrom unit
+142,unit of distance,micron
+143,unit of distance,parsec
+144,unit of distance,chain
+145,unit of distance,cubit
+146,unit of distance,micrometer
+147,unit of distance,span
+148,unit of distance,degree
+149,unit of distance,half mile
+150,unit of distance,liter
+151,unit of distance,millimicron
+152,unit of distance,pace
+153,unit of distance,square
+154,unit of distance,square yard
+155,unit of distance,step
+156,unit of distance,half inch
+157,unit of distance,kilogram
+158,unit of distance,length
+159,unit of distance,measured in time
+160,unit of distance,milligram
+161,unit of distance,nautical mile
+162,unit of distance,quarter inch
+163,unit of distance,quarter mile
+164,unit of distance,square foot
+165,unit of distance,square inch
+166,unit of distance,square mile
+167,metal,iron
+168,metal,copper
+169,metal,steel
+170,metal,gold
+171,metal,aluminum
+172,metal,silver
+173,metal,tin
+174,metal,zinc
+175,metal,brass
+176,metal,lead
+177,metal,bronze
+178,metal,magnesium
+179,metal,platinum
+180,metal,nickel
+181,metal,sodium
+182,metal,mercury
+183,metal,potassium
+184,metal,manganese
+185,metal,uranium
+186,metal,tungsten
+187,metal,cobalt
+188,metal,titanium
+189,metal,chromium
+190,metal,ore
+191,metal,cadmium
+192,metal,lithium
+193,metal,alloy
+194,metal,calcium
+195,metal,rubidium
+196,metal,beryllium
+197,metal,barium
+198,metal,chrome
+199,metal,francium
+200,metal,good conduct
+201,metal,molybdenum
+202,metal,pewter
+203,metal,bismuth
+204,metal,boron
+205,metal,cesium
+206,metal,radium
+207,metal,sulfur
+208,metal,antimony
+209,metal,argon
+210,metal,carbon
+211,metal,car
+212,metal,medal of honor
+213,metal,palladium
+214,metal,phosphorus
+215,metal,plutonium
+216,metal,purple heart
+217,metal,solder
+218,metal,zirconium
+219,type of reading material,magazine
+220,type of reading material,book
+221,type of reading material,newspaper
+222,type of reading material,pamphlet
+223,type of reading material,novel
+224,type of reading material,textbook
+225,type of reading material,paper
+226,type of reading material,comic book
+227,type of reading material,short story
+228,type of reading material,journal
+229,type of reading material,article
+230,type of reading material,letter
+231,type of reading material,play
+232,type of reading material,encyclopedia
+233,type of reading material,essay
+234,type of reading material,peiodical
+235,type of reading material,poem
+236,type of reading material,leaflet
+237,type of reading material,fiction
+238,type of reading material,paperback
+239,type of reading material,poster
+240,type of reading material,bulletin
+241,type of reading material,bible
+242,type of reading material,poetry
+243,type of reading material,brochure
+244,type of reading material,dictionary
+245,type of reading material,note
+246,type of reading material,nonfiction
+247,type of reading material,biography
+248,type of reading material,booklet
+249,type of reading material,digest
+250,type of reading material,circular
+251,type of reading material,history
+252,type of reading material,report
+253,type of reading material,thesis
+254,type of reading material,manuscript
+255,type of reading material,sign
+256,type of reading material,billboard
+257,type of reading material,playboy
+258,type of reading material,reference
+259,type of reading material,science fiction
+260,type of reading material,card
+261,type of reading material,editorials
+262,type of reading material,folder
+263,type of reading material,scroll
+264,type of reading material,story
+265,type of reading material,theme
+266,type of reading material,mystery
+267,type of reading material,advertisement
+268,type of reading material,cartoon
+269,type of reading material,label
+270,type of reading material,literature
+271,type of reading material,look
+272,type of reading material,notebook
+273,type of reading material,novelette
+274,type of reading material,prose
+275,type of reading material,scientific literat
+276,type of reading material,sheet
+277,type of reading material,telephone director
+278,type of reading material,time
+279,type of reading material,autobiography
+280,type of reading material,catalogue
+281,type of reading material,drama
+282,type of reading material,flyer
+283,type of reading material,instructions
+284,type of reading material,pocketbook
+285,type of reading material,pornography
+286,type of reading material,term paper
+287,type of reading material,almanac
+288,type of reading material,cereal box
+289,type of reading material,chronicle
+290,type of reading material,classics
+291,type of reading material,comic strip
+292,type of reading material,composition
+293,type of reading material,cookbook
+294,type of reading material,dittoed sheet
+295,type of reading material,document
+296,type of reading material,handout
+297,type of reading material,jokes
+298,type of reading material,mad
+299,type of reading material,manual
+300,type of reading material,medical journal
+301,type of reading material,microfilm
+302,type of reading material,mimeographed sheet
+303,type of reading material,music
+304,type of reading material,news
+305,type of reading material,newsweek
+306,type of reading material,notice
+307,type of reading material,novella
+308,type of reading material,postcard
+309,type of reading material,program
+310,type of reading material,racing form
+311,type of reading material,review
+312,type of reading material,script
+313,type of reading material,stock report
+314,type of reading material,tract
+315,type of reading material,travelogue
+316,type of reading material,volume
+317,military title,lieutenant
+318,military title,general
+319,military title,sergeant
+320,military title,private
+321,military title,captain
+322,military title,colonel
+323,military title,major
+324,military title,corporal
+325,military title,admiral
+326,military title,commander
+327,military title,ensign
+328,military title,lieutenant colonel
+329,military title,private first clas
+330,military title,brigadier general
+331,military title,second lieutenant
+332,military title,first lieutenant
+333,military title,major general
+334,military title,master sergeant
+335,military title,seaman
+336,military title,airman
+337,military title,commander in chief
+338,military title,sir
+339,military title,lieutenant general
+340,military title,boatswain
+341,military title,chief
+342,military title,lieutenant command
+343,military title,cadet
+344,military title,officer
+345,military title,commodore
+346,military title,staff sergeant
+347,military title,midshipman
+348,military title,military police
+349,military title,five-star general
+350,military title,lieutenant junior
+351,military title,marshal
+352,military title,petty officer
+353,military title,president
+354,military title,airman first class
+355,military title,boatswain's mate
+356,military title,buc' private
+357,military title,field marshal
+358,military title,airman second clas
+359,military title,airman third class
+360,military title,bottle
+361,military title,chief of staff
+362,military title,commandant
+363,military title,first sergeant
+364,military title,jar
+365,military title,lame corporal
+366,military title,mate
+367,military title,noncommisioned off
+368,military title,plebe
+369,military title,rear admiral
+370,military title,sailor
+371,military title,seaman first class
+372,military title,seaman second clas
+373,military title,specialist
+374,military title,technical sergeant
+375,military title,vice admiral
+376,military title,warrant officer
+377,four-footed animal,dog
+378,four-footed animal,cat
+379,four-footed animal,horse
+380,four-footed animal,cow
+381,four-footed animal,lion
+382,four-footed animal,tiger
+383,four-footed animal,elephant
+384,four-footed animal,pig
+385,four-footed animal,bear
+386,four-footed animal,mouse
+387,four-footed animal,rat
+388,four-footed animal,deer
+389,four-footed animal,sheep
+390,four-footed animal,giraffe
+391,four-footed animal,goat
+392,four-footed animal,zebra
+393,four-footed animal,squirrel
+394,four-footed animal,wolf
+395,four-footed animal,donkey
+396,four-footed animal,rabbit
+397,four-footed animal,leopard
+398,four-footed animal,mule
+399,four-footed animal,fox
+400,four-footed animal,bull
+401,four-footed animal,buffalo
+402,four-footed animal,moose
+403,four-footed animal,rhinoceros
+404,four-footed animal,camel
+405,four-footed animal,antelope
+406,four-footed animal,hippopotamus
+407,four-footed animal,lamb
+408,four-footed animal,monkey
+409,four-footed animal,raccoon
+410,four-footed animal,panther
+411,four-footed animal,llama
+412,four-footed animal,skunk
+413,four-footed animal,cheetah
+414,four-footed animal,jaguar
+415,four-footed animal,beaver
+416,four-footed animal,gazelle
+417,four-footed animal,turtle
+418,four-footed animal,elk
+419,four-footed animal,chipmunk
+420,four-footed animal,coyote
+421,four-footed animal,gnu
+422,four-footed animal,hamster
+423,four-footed animal,pony
+424,four-footed animal,anteater
+425,four-footed animal,opossum
+426,four-footed animal,puma
+427,four-footed animal,steer
+428,four-footed animal,hyena
+429,four-footed animal,ox
+430,four-footed animal,calf
+431,four-footed animal,lynx
+432,four-footed animal,rodent
+433,four-footed animal,alligator
+434,four-footed animal,ape
+435,four-footed animal,bison
+436,four-footed animal,cattle
+437,four-footed animal,dinosaur
+438,four-footed animal,groundhog
+439,four-footed animal,hog
+440,four-footed animal,lizard
+441,four-footed animal,man
+442,four-footed animal,mink
+443,four-footed animal,mountain lion
+444,four-footed animal,tapir
+445,four-footed animal,ass
+446,four-footed animal,baby
+447,four-footed animal,cougar
+448,four-footed animal,crocodile
+449,four-footed animal,frog
+450,four-footed animal,jackass
+451,four-footed animal,kangaroo
+452,four-footed animal,ocelot
+453,four-footed animal,otter
+454,four-footed animal,reindeer
+455,four-footed animal,weasel
+456,four-footed animal,aardvark
+457,four-footed animal,boar
+458,four-footed animal,bobcat
+459,four-footed animal,chimpanzee
+460,four-footed animal,gopher
+461,four-footed animal,gorilla
+462,four-footed animal,muskrat
+463,four-footed animal,platypus
+464,four-footed animal,porcupine
+465,four-footed animal,salamander
+466,four-footed animal,wild beast
+467,kind of cloth,cotton
+468,kind of cloth,wool
+469,kind of cloth,silk
+470,kind of cloth,rayon
+471,kind of cloth,nylon
+472,kind of cloth,dacron
+473,kind of cloth,linen
+474,kind of cloth,satin
+475,kind of cloth,orlon
+476,kind of cloth,madras
+477,kind of cloth,velvet
+478,kind of cloth,burlap
+479,kind of cloth,denim
+480,kind of cloth,corduroy
+481,kind of cloth,flannel
+482,kind of cloth,mohair
+483,kind of cloth,cheesecloth
+484,kind of cloth,acetate
+485,kind of cloth,terry cloth
+486,kind of cloth,broadcloth
+487,kind of cloth,muslin
+488,kind of cloth,jersey
+489,kind of cloth,tweed
+490,kind of cloth,brocade
+491,kind of cloth,seersucker
+492,kind of cloth,canvas
+493,kind of cloth,taffeta
+494,kind of cloth,acrilan
+495,kind of cloth,chiffon
+496,kind of cloth,crepe
+497,kind of cloth,felt
+498,kind of cloth,gaberdine
+499,kind of cloth,calico
+500,kind of cloth,lace
+501,kind of cloth,gingham
+502,kind of cloth,sailcloth
+503,kind of cloth,synthetics
+504,kind of cloth,arnel
+505,kind of cloth,knit
+506,kind of cloth,peau de soie
+507,kind of cloth,suede
+508,kind of cloth,tablecloth
+509,kind of cloth,cashmere
+510,kind of cloth,oxford
+511,kind of cloth,polyester
+512,kind of cloth,banlon
+513,kind of cloth,leather
+514,kind of cloth,organdy
+515,kind of cloth,percale
+516,kind of cloth,pique
+517,kind of cloth,polished cotton
+518,kind of cloth,shantung
+519,kind of cloth,sharkskin
+520,kind of cloth,wosted
+521,kind of cloth,dustcloth
+522,kind of cloth,flax
+523,kind of cloth,kodel
+524,kind of cloth,oilcloth
+525,kind of cloth,batiste
+526,kind of cloth,celanese
+527,kind of cloth,chamois
+528,kind of cloth,chintz
+529,kind of cloth,dishcloth
+530,kind of cloth,plaid
+531,kind of cloth,plastic
+532,kind of cloth,rag
+533,kind of cloth,serge
+534,kind of cloth,velveteen washclot
+535,kind of cloth,alpaca
+536,kind of cloth,antron
+537,kind of cloth,damask
+538,kind of cloth,fabric
+539,kind of cloth,fortrel
+540,kind of cloth,homespun
+541,kind of cloth,hopsacking
+542,kind of cloth,loin
+543,kind of cloth,organza
+544,kind of cloth,pelon
+545,kind of cloth,poplin
+546,kind of cloth,rough
+547,kind of cloth,sheer
+548,kind of cloth,sheet
+549,kind of cloth,soft
+550,kind of cloth,stay prest
+551,kind of cloth,surrah
+552,kind of cloth,towel
+553,kind of cloth,twill
+554,kind of cloth,whipped cream
+555,kind of cloth,yarn
+556,color,blue
+557,color,red
+558,color,green
+559,color,yellow
+560,color,orange
+561,color,black
+562,color,purple
+563,color,white
+564,color,pink
+565,color,brown
+566,color,violet
+567,color,gray
+568,color,turquoise
+569,color,gold
+570,color,indigo
+571,color,maroon
+572,color,chartreuse
+573,color,tan
+574,color,lavender
+575,color,beige
+576,color,silver
+577,color,aqua
+578,color,magenta
+579,color,olive
+580,color,rose
+581,color,mauve
+582,color,navy
+583,color,blue green
+584,color,scarlet
+585,color,burgundy
+586,color,fuchsia
+587,color,azure
+588,color,cranberry
+589,color,flesh
+590,color,crimson
+591,color,yellow green
+592,color,orchid
+593,color,peach
+594,color,amber
+595,color,aquamarine
+596,color,blond
+597,color,emerald
+598,color,ivory
+599,color,lemon
+600,color,red orange
+601,color,salmon
+602,color,auburn
+603,color,carmine
+604,color,cream
+605,color,heliotrope
+606,color,lilac
+607,color,ocher
+608,color,red violet
+609,color,ruby
+610,color,tangerine
+611,kitchen utensil,knife
+612,kitchen utensil,spoon
+613,kitchen utensil,fork
+614,kitchen utensil,pan
+615,kitchen utensil,pot
+616,kitchen utensil,spatula
+617,kitchen utensil,can opener
+618,kitchen utensil,stove
+619,kitchen utensil,bowl
+620,kitchen utensil,mixer
+621,kitchen utensil,cup
+622,kitchen utensil,dish
+623,kitchen utensil,beater
+624,kitchen utensil,measuring cup
+625,kitchen utensil,frying pan
+626,kitchen utensil,plate
+627,kitchen utensil,skillet
+628,kitchen utensil,egg beater
+629,kitchen utensil,refrigerator
+630,kitchen utensil,sink
+631,kitchen utensil,glass
+632,kitchen utensil,toaster
+633,kitchen utensil,strainer
+634,kitchen utensil,ladle
+635,kitchen utensil,measuring spoons
+636,kitchen utensil,oven
+637,kitchen utensil,saucer
+638,kitchen utensil,blender
+639,kitchen utensil,rolling pin
+640,kitchen utensil,pot holder
+641,kitchen utensil,sifter
+642,kitchen utensil,coffee pot
+643,kitchen utensil,cutting board
+644,kitchen utensil,ice box
+645,kitchen utensil,scraper
+646,kitchen utensil,colander
+647,kitchen utensil,sauce pan
+648,kitchen utensil,bottle opener
+649,kitchen utensil,knife sharpener
+650,kitchen utensil,potato peeler
+651,kitchen utensil,tongs
+652,kitchen utensil,broiler
+653,kitchen utensil,dishwasher
+654,kitchen utensil,grater
+655,kitchen utensil,kettle
+656,kitchen utensil,potato masher
+657,kitchen utensil,sieve
+658,kitchen utensil,lid
+659,kitchen utensil,mixmaster
+660,kitchen utensil,pancake turner
+661,kitchen utensil,table
+662,kitchen utensil,opener
+663,kitchen utensil,paring knife
+664,kitchen utensil,pressure cooker
+665,kitchen utensil,sponge
+666,kitchen utensil,platter
+667,kitchen utensil,salt and pepper sh
+668,kitchen utensil,cake pan
+669,kitchen utensil,carving knife
+670,kitchen utensil,dishpan
+671,kitchen utensil,grille
+672,kitchen utensil,jar
+673,kitchen utensil,roaster
+674,kitchen utensil,serving spoon
+675,kitchen utensil,thermometer
+676,kitchen utensil,towel
+677,kitchen utensil,butcher knife
+678,kitchen utensil,clock
+679,kitchen utensil,cookie sheet
+680,kitchen utensil,dipper
+681,kitchen utensil,dishrag
+682,kitchen utensil,double boiler
+683,kitchen utensil,flipper
+684,kitchen utensil,food
+685,kitchen utensil,freezer
+686,kitchen utensil,grinder
+687,kitchen utensil,hot pad
+688,kitchen utensil,osterizer
+689,kitchen utensil,salad fork
+690,kitchen utensil,scissors
+691,kitchen utensil,soup spoon
+692,kitchen utensil,tablespoon
+693,kitchen utensil,teaspoon
+694,kitchen utensil,washrag
+695,kitchen utensil,wooden board
+696,kitchen utensil,bread board
+697,kitchen utensil,bread knife
+698,kitchen utensil,broom
+699,kitchen utensil,butter knife
+700,kitchen utensil,cabinets
+701,kitchen utensil,cake knife
+702,kitchen utensil,canister
+703,kitchen utensil,casserole
+704,kitchen utensil,chopper
+705,kitchen utensil,church key
+706,kitchen utensil,cleaver
+707,kitchen utensil,coffee maker
+708,kitchen utensil,corkscrew
+709,kitchen utensil,dustpan
+710,kitchen utensil,hot holder
+711,kitchen utensil,meat cleaver
+712,kitchen utensil,mixing bowl
+713,kitchen utensil,pie pan
+714,kitchen utensil,prongs
+715,kitchen utensil,range
+716,kitchen utensil,scouring pad
+717,kitchen utensil,sheet
+718,kitchen utensil,soup ladle
+719,kitchen utensil,stirring spoon
+720,kitchen utensil,waffle iron
+721,bldg for religious servic,church
+722,bldg for religious servic,synagogue
+723,bldg for religious servic,temple
+724,bldg for religious servic,chapel
+725,bldg for religious servic,cathedral
+726,bldg for religious servic,mosque
+727,bldg for religious servic,shrine
+728,bldg for religious servic,monastery
+729,bldg for religious servic,tabernacle
+730,bldg for religious servic,pagoda
+731,bldg for religious servic,sanctuary
+732,bldg for religious servic,tent
+733,bldg for religious servic,parish
+734,bldg for religious servic,house
+735,bldg for religious servic,shul
+736,bldg for religious servic,basilica
+737,bldg for religious servic,convent
+738,bldg for religious servic,home
+739,bldg for religious servic,school
+740,bldg for religious servic,house of god
+741,bldg for religious servic,altar
+742,bldg for religious servic,hall
+743,bldg for religious servic,meetinghouse
+744,bldg for religious servic,abbey
+745,bldg for religious servic,auditorium
+746,bldg for religious servic,mission
+747,bldg for religious servic,priest
+748,bldg for religious servic,rectory
+749,bldg for religious servic,catacomb
+750,bldg for religious servic,foundation
+751,bldg for religious servic,house of worship
+752,bldg for religious servic,meeting hall
+753,bldg for religious servic,parish hall
+754,bldg for religious servic,pyramid
+755,bldg for religious servic,seminary
+756,bldg for religious servic,assembly hall
+757,bldg for religious servic,building
+758,bldg for religious servic,cross
+759,bldg for religious servic,funeral home
+760,bldg for religious servic,mass
+761,bldg for religious servic,nunnery
+762,bldg for religious servic,pews
+763,bldg for religious servic,retreat
+764,bldg for religious servic,tower
+765,part of speech,noun
+766,part of speech,adjective
+767,part of speech,pronoun
+768,part of speech,verb
+769,part of speech,adverb
+770,part of speech,conjuction
+771,part of speech,preposition
+772,part of speech,interjection
+773,part of speech,participle
+774,part of speech,gerund
+775,part of speech,words
+776,part of speech,article
+777,part of speech,subject
+778,part of speech,direct object
+779,part of speech,tongue
+780,part of speech,indirect object
+781,part of speech,sounds
+782,part of speech,sentences
+783,part of speech,vowels
+784,part of speech,infinitive
+785,part of speech,object
+786,part of speech,mouth
+787,part of speech,predicate
+788,part of speech,teeth
+789,part of speech,clause
+790,part of speech,consonant
+791,part of speech,phrases
+792,part of speech,lips
+793,part of speech,modifier
+794,part of speech,voice
+795,part of speech,vocal cords
+796,part of speech,diction
+797,part of speech,larynx
+798,part of speech,syllables
+799,part of speech,noises
+800,part of speech,talking
+801,part of speech,throat
+802,part of speech,articulation
+803,part of speech,brain
+804,part of speech,exclamation
+805,part of speech,object of preposit
+806,part of speech,predicate adjectiv
+807,part of speech,pronunciation
+808,part of speech,tone
+809,part of speech,antecedent
+810,part of speech,appositive
+811,part of speech,expletive
+812,part of speech,grammer
+813,part of speech,language
+814,part of speech,metaphor
+815,part of speech,palate
+816,part of speech,paragraph
+817,part of speech,predicate noun
+818,part of speech,proper noun
+819,part of speech,simile
+820,part of speech,uvula
+821,part of speech,verbal
+822,part of speech,vocabulary
+823,part of speech,alphabet
+824,part of speech,articulators
+825,part of speech,comma
+826,part of speech,compound
+827,part of speech,conversation
+828,part of speech,diaphragm
+829,part of speech,ear
+830,part of speech,enunciation
+831,part of speech,hearing
+832,part of speech,inflection
+833,part of speech,jaw
+834,part of speech,letters
+835,part of speech,lisp
+836,part of speech,meanings
+837,part of speech,message
+838,part of speech,movements
+839,part of speech,phoneme
+840,part of speech,pitch
+841,part of speech,predicate nominati
+842,part of speech,syntax
+843,part of speech,verb clause
+844,article of furniture,chair
+845,article of furniture,table
+846,article of furniture,bed
+847,article of furniture,sofa
+848,article of furniture,desk
+849,article of furniture,lamp
+850,article of furniture,couch
+851,article of furniture,dresser
+852,article of furniture,television
+853,article of furniture,stool
+854,article of furniture,bureau
+855,article of furniture,rug
+856,article of furniture,coffee table
+857,article of furniture,bookcase
+858,article of furniture,cabinet
+859,article of furniture,chest
+860,article of furniture,piano
+861,article of furniture,footstool
+862,article of furniture,buffet
+863,article of furniture,end table
+864,article of furniture,radio
+865,article of furniture,stereo
+866,article of furniture,hi-fi
+867,article of furniture,picture
+868,article of furniture,davenport
+869,article of furniture,love seat
+870,article of furniture,bench
+871,article of furniture,divan
+872,article of furniture,hassock
+873,article of furniture,lounge
+874,article of furniture,mirror
+875,article of furniture,refrigerator
+876,article of furniture,chest of drawers
+877,article of furniture,china closet
+878,article of furniture,night table
+879,article of furniture,rocker
+880,article of furniture,stove
+881,article of furniture,night stand
+882,article of furniture,drawers
+883,article of furniture,hutch
+884,article of furniture,lounge chair
+885,article of furniture,shelf
+886,article of furniture,vanity
+887,article of furniture,bar
+888,article of furniture,chaise lounge
+889,article of furniture,vanity table
+890,article of furniture,ashtray
+891,article of furniture,breakfront
+892,article of furniture,cupboard
+893,article of furniture,easy chair
+894,article of furniture,ottoman
+895,article of furniture,rocking chair
+896,article of furniture,drapes
+897,article of furniture,organ
+898,article of furniture,record player
+899,article of furniture,sink
+900,article of furniture,stand
+901,article of furniture,armchair
+902,article of furniture,cedar chest
+903,article of furniture,clock
+904,article of furniture,counter
+905,article of furniture,crib
+906,article of furniture,cushion
+907,article of furniture,dinette
+908,article of furniture,lights
+909,article of furniture,magazine rack
+910,article of furniture,phonograph
+911,article of furniture,settee
+912,article of furniture,sewing machine
+913,article of furniture,vase
+914,article of furniture,cadenza
+915,article of furniture,chaise
+916,article of furniture,closet
+917,article of furniture,cot
+918,article of furniture,curtains
+919,article of furniture,dining-room table
+920,article of furniture,high chair
+921,article of furniture,kitchen table
+922,article of furniture,pillow
+923,article of furniture,room divider
+924,article of furniture,round table
+925,article of furniture,secretary
+926,article of furniture,seat
+927,article of furniture,side table
+928,part of the human body,legs
+929,part of the human body,arms
+930,part of the human body,head
+931,part of the human body,eye
+932,part of the human body,foot
+933,part of the human body,nose
+934,part of the human body,finger
+935,part of the human body,ear
+936,part of the human body,hand
+937,part of the human body,toe
+938,part of the human body,mouth
+939,part of the human body,stomach
+940,part of the human body,hair
+941,part of the human body,neck
+942,part of the human body,heart
+943,part of the human body,knee
+944,part of the human body,chest
+945,part of the human body,liver
+946,part of the human body,brain
+947,part of the human body,lungs
+948,part of the human body,tooth
+949,part of the human body,elbow
+950,part of the human body,shoulders
+951,part of the human body,face
+952,part of the human body,tongue
+953,part of the human body,ankle
+954,part of the human body,throat
+955,part of the human body,back
+956,part of the human body,trunk
+957,part of the human body,nail
+958,part of the human body,intestine
+959,part of the human body,hip
+960,part of the human body,lips
+961,part of the human body,wrist
+962,part of the human body,breast
+963,part of the human body,kidney
+964,part of the human body,pancreas
+965,part of the human body,thighs
+966,part of the human body,bone
+967,part of the human body,muscles
+968,part of the human body,waist
+969,part of the human body,torso
+970,part of the human body,abdomen
+971,part of the human body,fingernail
+972,part of the human body,thumb
+973,part of the human body,chin
+974,part of the human body,skin
+975,part of the human body,gallbladder
+976,part of the human body,penis
+977,part of the human body,calves
+978,part of the human body,nerves
+979,part of the human body,blood
+980,part of the human body,ribs
+981,part of the human body,cheek
+982,part of the human body,esophagus
+983,part of the human body,organs
+984,part of the human body,pelvis
+985,part of the human body,shin
+986,part of the human body,spleen
+987,part of the human body,veins
+988,part of the human body,arteries
+989,part of the human body,eyebrow
+990,part of the human body,bladder
+991,part of the human body,genitals
+992,part of the human body,knuckles
+993,part of the human body,large intestine
+994,part of the human body,skull
+995,part of the human body,small intestine
+996,part of the human body,spinal cord
+997,part of the human body,thorax
+998,part of the human body,belly
+999,part of the human body,bicep
+1000,part of the human body,femur
+1001,part of the human body,glands
+1002,part of the human body,limbs
+1003,part of the human body,ovary
+1004,part of the human body,skeleton
+1005,part of the human body,testes
+1006,part of the human body,tibia
+1007,part of the human body,trachea
+1008,part of the human body,ulna
+1009,part of the human body,anus
+1010,part of the human body,appendix
+1011,part of the human body,blood vessels
+1012,part of the human body,body
+1013,part of the human body,clavicle
+1014,part of the human body,digits
+1015,part of the human body,fallopian tubes
+1016,part of the human body,forearm
+1017,part of the human body,gullet
+1018,part of the human body,humerus
+1019,part of the human body,ligaments
+1020,part of the human body,lymph gland
+1021,part of the human body,mind
+1022,part of the human body,navel
+1023,part of the human body,radius
+1024,part of the human body,rectum
+1025,part of the human body,scapula
+1026,part of the human body,scrotum
+1027,part of the human body,sex organs
+1028,part of the human body,toenail
+1029,part of the human body,tricep
+1030,part of the human body,vagina
+1031,fruit,apple
+1032,fruit,orange
+1033,fruit,pear
+1034,fruit,banana
+1035,fruit,peach
+1036,fruit,grape
+1037,fruit,cherry
+1038,fruit,plum
+1039,fruit,grapefruit
+1040,fruit,lemon
+1041,fruit,tangerine
+1042,fruit,apricot
+1043,fruit,pineapple
+1044,fruit,lime
+1045,fruit,tomato
+1046,fruit,strawberry
+1047,fruit,watermelon
+1048,fruit,prunes
+1049,fruit,cantalope
+1050,fruit,raspberry
+1051,fruit,pomegranate
+1052,fruit,blueberry
+1053,fruit,mango
+1054,fruit,avocado
+1055,fruit,fig
+1056,fruit,raisin
+1057,fruit,coconut
+1058,fruit,nectarine
+1059,fruit,berry
+1060,fruit,melon
+1061,fruit,kumquat
+1062,fruit,blackberry
+1063,fruit,date
+1064,fruit,papaya
+1065,fruit,honeydew
+1066,fruit,olive
+1067,fruit,parsimmon
+1068,fruit,nut
+1069,fruit,papaw
+1070,weapon,knife
+1071,weapon,gun
+1072,weapon,rifle
+1073,weapon,bomb
+1074,weapon,club
+1075,weapon,sword
+1076,weapon,bow and arrow
+1077,weapon,pistol
+1078,weapon,rope
+1079,weapon,cannon
+1080,weapon,spear
+1081,weapon,fists
+1082,weapon,stick
+1083,weapon,hand grenade
+1084,weapon,machine gun
+1085,weapon,axe
+1086,weapon,brass knuckles
+1087,weapon,tank
+1088,weapon,poison
+1089,weapon,missile
+1090,weapon,bayonet
+1091,weapon,chain
+1092,weapon,whip
+1093,weapon,hammer
+1094,weapon,rock
+1095,weapon,hand
+1096,weapon,arrow
+1097,weapon,stone
+1098,weapon,automobile
+1099,weapon,bazooka
+1100,weapon,glass
+1101,weapon,slingshot
+1102,weapon,blackjack
+1103,weapon,revolver
+1104,weapon,shotgun
+1105,weapon,pipe
+1106,weapon,a-bomb
+1107,weapon,airplane
+1108,weapon,bow
+1109,weapon,dagger
+1110,weapon,gas
+1111,weapon,ice pick
+1112,weapon,foot
+1113,weapon,hatchet
+1114,weapon,mortar
+1115,weapon,scissors
+1116,weapon,lance
+1117,weapon,switchblade
+1118,weapon,lead pipe
+1119,weapon,razor blade
+1120,weapon,rocket
+1121,weapon,bat
+1122,weapon,grenade
+1123,weapon,words
+1124,weapon,pin
+1125,weapon,torpedo
+1126,weapon,artillery
+1127,weapon,bottle
+1128,weapon,bullet
+1129,weapon,candlestick
+1130,weapon,crossbow
+1131,weapon,flamethrower
+1132,weapon,hat pin
+1133,weapon,poison dart
+1134,weapon,saber
+1135,weapon,tear gas
+1136,weapon,crowbar
+1137,weapon,dart
+1138,weapon,h-bomb
+1139,weapon,iron bar
+1140,weapon,wrench
+1141,weapon,acid
+1142,weapon,blowgun
+1143,weapon,machete
+1144,weapon,nightstick
+1145,weapon,pitchfork
+1146,weapon,scarf
+1147,weapon,tire iron
+1148,weapon,tomahawk
+1149,weapon,blade
+1150,weapon,boat
+1151,weapon,brick
+1152,weapon,chair
+1153,weapon,fighter plane
+1154,weapon,fire
+1155,weapon,fork
+1156,weapon,harpoon
+1157,weapon,howitzer
+1158,weapon,judo
+1159,weapon,letter opener
+1160,weapon,razor
+1161,weapon,recoilless rifle
+1162,weapon,screwdriver
+1163,weapon,shoes
+1164,weapon,stiletto
+1165,weapon,arm
+1166,weapon,billy club
+1167,weapon,bolo
+1168,weapon,book
+1169,weapon,can of hairspray
+1170,weapon,cane
+1171,weapon,catapult
+1172,weapon,forty-five pistol
+1173,weapon,germs
+1174,weapon,hose
+1175,weapon,javelin
+1176,weapon,kill
+1177,weapon,knuckles
+1178,weapon,laser
+1179,weapon,metal
+1180,weapon,muscles
+1181,weapon,nail
+1182,weapon,nuclear bomb
+1183,weapon,peashooter
+1184,weapon,piano wire
+1185,weapon,reason
+1186,weapon,rod
+1187,weapon,shoot
+1188,weapon,shovel
+1189,weapon,sickle
+1190,weapon,tear-gas gun
+1191,weapon,war
+1192,elective office,president
+1193,elective office,vice-president
+1194,elective office,senator
+1195,elective office,mayor
+1196,elective office,treasurer
+1197,elective office,secretary
+1198,elective office,governor
+1199,elective office,representative
+1200,elective office,congressman
+1201,elective office,councilman
+1202,elective office,chairman
+1203,elective office,sheriff
+1204,elective office,sergeant at arms
+1205,elective office,judge
+1206,elective office,alderman
+1207,elective office,secretary of state
+1208,elective office,comptroller
+1209,elective office,dogcatcher
+1210,elective office,historian
+1211,elective office,senate
+1212,elective office,social chairman
+1213,elective office,house of represent
+1214,elective office,lieutenant governo
+1215,elective office,parliamentarian
+1216,elective office,city council
+1217,elective office,attorney general
+1218,elective office,congress
+1219,elective office,recording secretar
+1220,elective office,commissioner
+1221,elective office,corresponding secr
+1222,elective office,president of the u
+1223,elective office,prime minister
+1224,elective office,cabinet member
+1225,elective office,council
+1226,elective office,legislature
+1227,elective office,school board
+1228,elective office,auditor
+1229,elective office,chief of police
+1230,elective office,delegate
+1231,elective office,manager
+1232,elective office,marshal
+1233,elective office,speaker of the hou
+1234,elective office,vice-president of
+1235,elective office,chancellor
+1236,elective office,city councilman
+1237,elective office,committee chairman
+1238,elective office,committee member
+1239,elective office,county clerk
+1240,elective office,house manager
+1241,elective office,leader
+1242,elective office,pledge trainer
+1243,elective office,reporter
+1244,elective office,secretary of defen
+1245,elective office,state attorney
+1246,elective office,superintendent
+1247,elective office,assemblyman
+1248,elective office,attorney general-s
+1249,elective office,board member
+1250,elective office,board of education
+1251,elective office,chairman of the bo
+1252,elective office,chairmanship
+1253,elective office,clerk
+1254,elective office,cochairman
+1255,elective office,commander
+1256,elective office,county commission
+1257,elective office,deputy
+1258,elective office,district attorney
+1259,elective office,house of delegates
+1260,elective office,parliament
+1261,elective office,public relations c
+1262,elective office,rush chairman
+1263,elective office,scholarship chairm
+1264,elective office,scribe
+1265,elective office,secretary of healt
+1266,elective office,education
+1267,elective office,welfare
+1268,elective office,state legislature
+1269,elective office,state senator
+1270,elective office,student council
+1271,elective office,trustee
+1272,elective office,vice-chairman
+1273,type of human dwelling,house
+1274,type of human dwelling,apartment
+1275,type of human dwelling,tent
+1276,type of human dwelling,cave
+1277,type of human dwelling,hut
+1278,type of human dwelling,hotel
+1279,type of human dwelling,trailer
+1280,type of human dwelling,home
+1281,type of human dwelling,motel
+1282,type of human dwelling,shack
+1283,type of human dwelling,mansion
+1284,type of human dwelling,cottage
+1285,type of human dwelling,dormitory
+1286,type of human dwelling,igloo
+1287,type of human dwelling,cabin
+1288,type of human dwelling,ranch house
+1289,type of human dwelling,tepee
+1290,type of human dwelling,castle
+1291,type of human dwelling,houseboat
+1292,type of human dwelling,bungalow
+1293,type of human dwelling,room
+1294,type of human dwelling,building
+1295,type of human dwelling,lean-to
+1296,type of human dwelling,tree house
+1297,type of human dwelling,split-level
+1298,type of human dwelling,boat
+1299,type of human dwelling,duplex
+1300,type of human dwelling,adobe
+1301,type of human dwelling,farmhouse
+1302,type of human dwelling,log cabin
+1303,type of human dwelling,palace
+1304,type of human dwelling,abode
+1305,type of human dwelling,row house
+1306,type of human dwelling,penthouse
+1307,type of human dwelling,rambler
+1308,type of human dwelling,barracks
+1309,type of human dwelling,pueblo
+1310,type of human dwelling,slum
+1311,type of human dwelling,tree
+1312,type of human dwelling,tenement house
+1313,type of human dwelling,barn
+1314,type of human dwelling,flat
+1315,type of human dwelling,hovel
+1316,type of human dwelling,inn
+1317,type of human dwelling,lodge
+1318,type of human dwelling,town house
+1319,type of human dwelling,cape cod
+1320,type of human dwelling,estate
+1321,type of human dwelling,office
+1322,type of human dwelling,prison
+1323,type of human dwelling,sorority house
+1324,type of human dwelling,fort
+1325,type of human dwelling,fraternity house
+1326,type of human dwelling,pad
+1327,type of human dwelling,shanty
+1328,type of human dwelling,shelter
+1329,type of human dwelling,wigwam
+1330,type of human dwelling,beach home
+1331,type of human dwelling,boarding house
+1332,type of human dwelling,car
+1333,type of human dwelling,cliff
+1334,type of human dwelling,colonial
+1335,type of human dwelling,co-op
+1336,type of human dwelling,farm
+1337,type of human dwelling,garage
+1338,type of human dwelling,hacienda
+1339,type of human dwelling,hole
+1340,type of human dwelling,hospital
+1341,type of human dwelling,mud hut
+1342,type of human dwelling,ship
+1343,type of human dwelling,two-story
+1344,type of human dwelling,villa
+1345,type of human dwelling,apartment house
+1346,type of human dwelling,basement house
+1347,type of human dwelling,bilevel
+1348,type of human dwelling,box
+1349,type of human dwelling,camper
+1350,type of human dwelling,fallout shelter
+1351,type of human dwelling,frame house
+1352,type of human dwelling,grass hut
+1353,type of human dwelling,money
+1354,type of human dwelling,open air
+1355,type of human dwelling,quonset hut
+1356,type of human dwelling,residence hall
+1357,type of human dwelling,rooming house
+1358,type of human dwelling,sampan
+1359,type of human dwelling,skyscraper
+1360,type of human dwelling,stone house
+1361,type of human dwelling,train
+1362,alcoholic beverage,beer
+1363,alcoholic beverage,whiskey
+1364,alcoholic beverage,gin
+1365,alcoholic beverage,wine
+1366,alcoholic beverage,vodka
+1367,alcoholic beverage,bourbon
+1368,alcoholic beverage,scotch
+1369,alcoholic beverage,rum
+1370,alcoholic beverage,brandy
+1371,alcoholic beverage,rye
+1372,alcoholic beverage,champagne
+1373,alcoholic beverage,vermouth
+1374,alcoholic beverage,ale
+1375,alcoholic beverage,malt liquor
+1376,alcoholic beverage,martini
+1377,alcoholic beverage,creme de menthe
+1378,alcoholic beverage,liqueur
+1379,alcoholic beverage,sherry
+1380,alcoholic beverage,highball
+1381,alcoholic beverage,tom collins
+1382,alcoholic beverage,seagrams 7
+1383,alcoholic beverage,whiskey sour
+1384,alcoholic beverage,liquor
+1385,alcoholic beverage,daquiri
+1386,alcoholic beverage,screwdriver
+1387,alcoholic beverage,sloe gin
+1388,alcoholic beverage,tequila
+1389,alcoholic beverage,manhattan
+1390,alcoholic beverage,cognac
+1391,alcoholic beverage,sake
+1392,alcoholic beverage,burgundy
+1393,alcoholic beverage,grasshopper
+1394,alcoholic beverage,old-fashioned
+1395,alcoholic beverage,port
+1396,alcoholic beverage,bloody mary
+1397,alcoholic beverage,creme de cocao
+1398,alcoholic beverage,cordial
+1399,alcoholic beverage,grain alcohol
+1400,alcoholic beverage,canadian club
+1401,alcoholic beverage,drambuie
+1402,alcoholic beverage,eggnog
+1403,alcoholic beverage,kaluah
+1404,alcoholic beverage,moonshine
+1405,alcoholic beverage,blended whiskey
+1406,alcoholic beverage,budweiser
+1407,alcoholic beverage,cherry heering
+1408,alcoholic beverage,chianti
+1409,alcoholic beverage,four roses
+1410,alcoholic beverage,gin and tonic
+1411,alcoholic beverage,mixed drinks
+1412,alcoholic beverage,ripple
+1413,alcoholic beverage,seven and seven
+1414,alcoholic beverage,soda
+1415,alcoholic beverage,vo
+1416,alcoholic beverage,white wine
+1417,alcoholic beverage,bad
+1418,alcoholic beverage,booze
+1419,alcoholic beverage,cocktails
+1420,alcoholic beverage,corn whiskey
+1421,alcoholic beverage,coventry club
+1422,alcoholic beverage,gin fizz
+1423,alcoholic beverage,jim beam
+1424,alcoholic beverage,old grandad
+1425,alcoholic beverage,pink lady
+1426,alcoholic beverage,rum coke
+1427,alcoholic beverage,schnapps
+1428,alcoholic beverage,southern comfort
+1429,alcoholic beverage,tia maria
+1430,country,france
+1431,country,united states
+1432,country,russia
+1433,country,england
+1434,country,germany
+1435,country,canada
+1436,country,italy
+1437,country,spain
+1438,country,mexico
+1439,country,china
+1440,country,japan
+1441,country,sweden
+1442,country,brazil
+1443,country,switzerland
+1444,country,ireland
+1445,country,australia
+1446,country,norway
+1447,country,india
+1448,country,argentina
+1449,country,viet nam
+1450,country,denmark
+1451,country,greece
+1452,country,america
+1453,country,poland
+1454,country,israel
+1455,country,africa
+1456,country,austria
+1457,country,scotland
+1458,country,belgium
+1459,country,cuba
+1460,country,portugal
+1461,country,egypt
+1462,country,finland
+1463,country,turkey
+1464,country,britain
+1465,country,venezuela
+1466,country,iran
+1467,country,iraq
+1468,country,holland
+1469,country,south america
+1470,country,bolivia
+1471,country,peru
+1472,country,great britain
+1473,country,iceland
+1474,country,yugoslavia
+1475,country,chile
+1476,country,rumania
+1477,country,hungary
+1478,country,colombia
+1479,country,czechoslovakia
+1480,country,greenland
+1481,country,indonesia
+1482,country,luxembourg
+1483,country,thailand
+1484,country,asia
+1485,country,laos
+1486,country,netherlands
+1487,country,new zealand
+1488,country,philippines
+1489,country,uruguay
+1490,country,belgian congo
+1491,country,europe
+1492,country,pakistan
+1493,country,panama
+1494,country,puerto rico
+1495,country,dominican republic
+1496,country,paraguay
+1497,country,south viet nam
+1498,country,albania
+1499,country,algeria
+1500,country,arabia
+1501,country,bulgaria
+1502,country,farms
+1503,country,guatemala
+1504,country,korea
+1505,country,liberia
+1506,country,nigeria
+1507,country,south africa
+1508,country,united kingdom
+1509,country,cambodia
+1510,country,red china
+1511,country,equador
+1512,country,ghana
+1513,country,government
+1514,country,jordan
+1515,country,lithuania
+1516,country,malaysia
+1517,country,tahiti
+1518,country,trees
+1519,country,air
+1520,country,animals
+1521,country,burma
+1522,country,cows
+1523,country,crete
+1524,country,ethiopia
+1525,country,flag
+1526,country,flowers
+1527,country,garden
+1528,country,grass
+1529,country,hawaii
+1530,country,homes
+1531,country,lebanon
+1532,country,monaco
+1533,country,okinawa
+1534,country,people
+1535,country,santo domingo
+1536,country,serbia
+1537,country,sudan
+1538,country,syria
+1539,country,taiwan
+1540,country,tibet
+1541,crime,murder
+1542,crime,rape
+1543,crime,robbery
+1544,crime,theft
+1545,crime,assault
+1546,crime,stealing
+1547,crime,arson
+1548,crime,burglary
+1549,crime,kidnapping
+1550,crime,larceny
+1551,crime,embezzling
+1552,crime,adultery
+1553,crime,killing
+1554,crime,battery
+1555,crime,breaking and enter
+1556,crime,felony
+1557,crime,speeding
+1558,crime,forgery
+1559,crime,treason
+1560,crime,fraud
+1561,crime,suicide
+1562,crime,perjury
+1563,crime,hit and run
+1564,crime,manslaughter
+1565,crime,blackmail
+1566,crime,homicide
+1567,crime,lying
+1568,crime,bigamy
+1569,crime,cheating
+1570,crime,beating
+1571,crime,extortion
+1572,crime,assault and batter
+1573,crime,car theft
+1574,crime,holdup
+1575,crime,incest
+1576,crime,misdemeanor
+1577,crime,bribery
+1578,crime,disturbing the pea
+1579,crime,slander
+1580,crime,stabbing
+1581,crime,vandalism
+1582,crime,abortion
+1583,crime,attack
+1584,crime,gambling
+1585,crime,libel
+1586,crime,petty larceny
+1587,crime,shoplifting
+1588,crime,sodomy
+1589,crime,assassination
+1590,crime,confidence
+1591,crime,counterfeiting mon
+1592,crime,destruction
+1593,crime,espionage
+1594,crime,income tax evasion
+1595,crime,litter-bugging
+1596,crime,matricide
+1597,crime,molesting
+1598,crime,pickpocket
+1599,crime,plagiarism
+1600,crime,smuggling
+1601,crime,looting
+1602,crime,patricide
+1603,crime,police
+1604,crime,sabotage
+1605,crime,shooting
+1606,crime,sin
+1607,crime,swindling
+1608,crime,traffic violations
+1609,crime,trespassing
+1610,crime,vagrancy
+1611,crime,attempted robbery
+1612,crime,automobile acciden
+1613,crime,bank
+1614,crime,defacing property
+1615,crime,desertion
+1616,crime,discrimination
+1617,crime,dope peddling
+1618,crime,drunken driving
+1619,crime,fighting
+1620,crime,fornication
+1621,crime,grand larceny
+1622,crime,homosexuality
+1623,crime,juvenile delinquen
+1624,crime,indecent exposure
+1625,crime,knifing
+1626,crime,lust
+1627,crime,mayhem
+1628,crime,narcotics
+1629,crime,peddling
+1630,crime,polygamy
+1631,crime,punishment
+1632,crime,rob a bank
+1633,crime,strangling
+1634,crime,war
+1635,carpenters tool,hammer
+1636,carpenters tool,saw
+1637,carpenters tool,nails
+1638,carpenters tool,screwdriver
+1639,carpenters tool,level
+1640,carpenters tool,plane
+1641,carpenters tool,chisel
+1642,carpenters tool,ruler
+1643,carpenters tool,wrench
+1644,carpenters tool,pliers
+1645,carpenters tool,drill
+1646,carpenters tool,screws
+1647,carpenters tool,t square
+1648,carpenters tool,pencil
+1649,carpenters tool,square
+1650,carpenters tool,sawhorse
+1651,carpenters tool,file
+1652,carpenters tool,lathe
+1653,carpenters tool,sandpaper
+1654,carpenters tool,awl
+1655,carpenters tool,crowbar
+1656,carpenters tool,sander
+1657,carpenters tool,wood
+1658,carpenters tool,plumb
+1659,carpenters tool,plumb line
+1660,carpenters tool,wedge
+1661,carpenters tool,axe
+1662,carpenters tool,trisquare
+1663,carpenters tool,vise
+1664,carpenters tool,knife
+1665,carpenters tool,bolts
+1666,carpenters tool,ladder
+1667,carpenters tool,bench
+1668,carpenters tool,hatchet
+1669,carpenters tool,nuts
+1670,carpenters tool,tape measure
+1671,carpenters tool,miter box
+1672,carpenters tool,board
+1673,carpenters tool,shaver
+1674,carpenters tool,yardstick
+1675,carpenters tool,glue
+1676,carpenters tool,hacksaw
+1677,carpenters tool,jigsaw
+1678,carpenters tool,lever
+1679,carpenters tool,punch
+1680,carpenters tool,rasp
+1681,carpenters tool,anvil
+1682,carpenters tool,balance
+1683,carpenters tool,blueprints
+1684,carpenters tool,chalk line
+1685,carpenters tool,leveler
+1686,carpenters tool,nail punch
+1687,carpenters tool,scissors
+1688,carpenters tool,tack
+1689,carpenters tool,tape
+1690,carpenters tool,triangle
+1691,carpenters tool,angle
+1692,carpenters tool,block
+1693,carpenters tool,brace
+1694,carpenters tool,measuring tape
+1695,carpenters tool,sledge
+1696,carpenters tool,sledgehammer
+1697,carpenters tool,stapler
+1698,carpenters tool,angle measure
+1699,carpenters tool,bit
+1700,carpenters tool,box
+1701,carpenters tool,brick
+1702,carpenters tool,cement
+1703,carpenters tool,chalk
+1704,carpenters tool,electric saw
+1705,carpenters tool,mallet
+1706,carpenters tool,measure
+1707,carpenters tool,measurer
+1708,carpenters tool,nail set
+1709,carpenters tool,ninety-degree angl
+1710,carpenters tool,planer
+1711,carpenters tool,phillips screwdriv
+1712,carpenters tool,scriber
+1713,carpenters tool,slide rule
+1714,carpenters tool,soldering iron
+1715,carpenters tool,string
+1716,carpenters tool,washer
+1717,member of the clergy,priest
+1718,member of the clergy,minister
+1719,member of the clergy,rabbi
+1720,member of the clergy,pope
+1721,member of the clergy,bishop
+1722,member of the clergy,father
+1723,member of the clergy,pastor
+1724,member of the clergy,cardinal
+1725,member of the clergy,reverend
+1726,member of the clergy,nun
+1727,member of the clergy,preacher
+1728,member of the clergy,monk
+1729,member of the clergy,brother
+1730,member of the clergy,archbishop
+1731,member of the clergy,deacon
+1732,member of the clergy,sister
+1733,member of the clergy,monsignor
+1734,member of the clergy,chaplain
+1735,member of the clergy,doctor
+1736,member of the clergy,cantor
+1737,member of the clergy,friar
+1738,member of the clergy,clergyman
+1739,member of the clergy,evangelist
+1740,member of the clergy,elder
+1741,member of the clergy,rector
+1742,member of the clergy,missionary
+1743,member of the clergy,subdeacon
+1744,member of the clergy,abbot
+1745,member of the clergy,parson
+1746,member of the clergy,deaconess
+1747,member of the clergy,layman
+1748,member of the clergy,padre
+1749,member of the clergy,vicar
+1750,member of the clergy,saint
+1751,member of the clergy,sexton
+1752,member of the clergy,catholic
+1753,member of the clergy,cleric
+1754,member of the clergy,high priest
+1755,member of the clergy,right reverend
+1756,member of the clergy,jesuit
+1757,member of the clergy,lay leader
+1758,member of the clergy,mother
+1759,member of the clergy,revivalist
+1760,substance to flavor food,salt
+1761,substance to flavor food,pepper
+1762,substance to flavor food,sugar
+1763,substance to flavor food,garlic
+1764,substance to flavor food,vanilla
+1765,substance to flavor food,cinnamon
+1766,substance to flavor food,cloves
+1767,substance to flavor food,paprika
+1768,substance to flavor food,spices
+1769,substance to flavor food,oregano
+1770,substance to flavor food,ketchup
+1771,substance to flavor food,onions
+1772,substance to flavor food,mustard
+1773,substance to flavor food,accent
+1774,substance to flavor food,chocolate
+1775,substance to flavor food,nutmeg
+1776,substance to flavor food,onion salt
+1777,substance to flavor food,vinegar
+1778,substance to flavor food,butter
+1779,substance to flavor food,lemon
+1780,substance to flavor food,thyme
+1781,substance to flavor food,parsley
+1782,substance to flavor food,bay leaves
+1783,substance to flavor food,almond
+1784,substance to flavor food,herbs
+1785,substance to flavor food,sage
+1786,substance to flavor food,worcestershire sau
+1787,substance to flavor food,tobasco sauce
+1788,substance to flavor food,a.1. sauce
+1789,substance to flavor food,chives
+1790,substance to flavor food,ginger
+1791,substance to flavor food,mint
+1792,substance to flavor food,allspice
+1793,substance to flavor food,mayonnaise
+1794,substance to flavor food,sauce
+1795,substance to flavor food,seasoning
+1796,substance to flavor food,wine
+1797,substance to flavor food,chili powder
+1798,substance to flavor food,horseradish
+1799,substance to flavor food,celery seed
+1800,substance to flavor food,oil
+1801,substance to flavor food,basil
+1802,substance to flavor food,celery salt
+1803,substance to flavor food,curry
+1804,substance to flavor food,red pepper
+1805,substance to flavor food,strawberry
+1806,substance to flavor food,syrup
+1807,substance to flavor food,anise
+1808,substance to flavor food,cheese
+1809,substance to flavor food,lime
+1810,substance to flavor food,orange
+1811,substance to flavor food,relish
+1812,substance to flavor food,rum
+1813,substance to flavor food,dressing
+1814,substance to flavor food,gravy
+1815,substance to flavor food,milk
+1816,substance to flavor food,peppermint
+1817,substance to flavor food,saccharin
+1818,substance to flavor food,salad dressing
+1819,substance to flavor food,soy sauce
+1820,substance to flavor food,steak sauce
+1821,substance to flavor food,anchovies
+1822,substance to flavor food,cherry
+1823,substance to flavor food,cream
+1824,substance to flavor food,extract
+1825,substance to flavor food,marjoram
+1826,substance to flavor food,monosodium glutama
+1827,substance to flavor food,poultry seasoning
+1828,substance to flavor food,rosemary
+1829,substance to flavor food,sesame
+1830,substance to flavor food,alcohol
+1831,substance to flavor food,artificial
+1832,substance to flavor food,butterscotch
+1833,substance to flavor food,cayenne
+1834,substance to flavor food,charcoal
+1835,substance to flavor food,eggs
+1836,substance to flavor food,food coloring
+1837,substance to flavor food,green pepper
+1838,substance to flavor food,margarine
+1839,substance to flavor food,mushroom
+1840,substance to flavor food,raspberry
+1841,substance to flavor food,tartar sauce
+1842,substance to flavor food,turmeric
+1843,substance to flavor food,vegetable oil
+1844,substance to flavor food,walnut
+1845,substance to flavor food,apple
+1846,substance to flavor food,bacon
+1847,substance to flavor food,barbecue sauce
+1848,substance to flavor food,barley
+1849,substance to flavor food,brandy
+1850,substance to flavor food,celery
+1851,substance to flavor food,coconut
+1852,substance to flavor food,coffee
+1853,substance to flavor food,dill
+1854,substance to flavor food,flour
+1855,substance to flavor food,maise
+1856,substance to flavor food,maple
+1857,substance to flavor food,meat tenderizer
+1858,substance to flavor food,pineapple
+1859,substance to flavor food,tenderizer
+1860,substance to flavor food,wintergreen
+1861,type of fuel,oil
+1862,type of fuel,gas
+1863,type of fuel,coal
+1864,type of fuel,wood
+1865,type of fuel,gasoline
+1866,type of fuel,kerosine
+1867,type of fuel,electricity
+1868,type of fuel,paper
+1869,type of fuel,petroleum
+1870,type of fuel,alcohol
+1871,type of fuel,atom
+1872,type of fuel,diesel oil
+1873,type of fuel,oxygen
+1874,type of fuel,water
+1875,type of fuel,uranium
+1876,type of fuel,charcoal
+1877,type of fuel,hydrogen
+1878,type of fuel,food
+1879,type of fuel,steam
+1880,type of fuel,butane
+1881,type of fuel,propane
+1882,type of fuel,methane
+1883,type of fuel,coke
+1884,type of fuel,natural gas
+1885,type of fuel,petrol
+1886,type of fuel,peat
+1887,type of fuel,air
+1888,type of fuel,benzene
+1889,type of fuel,lighter fluid
+1890,type of fuel,nitrogen
+1891,type of fuel,nuclear energy
+1892,type of fuel,solid fuel
+1893,type of fuel,sun
+1894,type of fuel,carbon
+1895,type of fuel,ethyl
+1896,type of fuel,liquid oxygen
+1897,type of fuel,octane
+1898,type of fuel,peat moss
+1899,type of fuel,fire
+1900,type of fuel,leaves
+1901,type of fuel,carbon chloride
+1902,type of fuel,grass
+1903,type of fuel,helium
+1904,type of fuel,liquid
+1905,type of fuel,nitrocellulose
+1906,type of fuel,nitromethane
+1907,type of fuel,peroxide
+1908,type of fuel,esso
+1909,type of fuel,heat
+1910,type of fuel,liquid nitrogen
+1911,type of fuel,lp gas
+1912,type of fuel,nitroglycerin
+1913,type of fuel,sunoco
+1914,type of fuel,tar
+1915,type of fuel,water power
+1916,type of fuel,amoco
+1917,type of fuel,anthracite
+1918,type of fuel,calories
+1919,type of fuel,coal oil
+1920,type of fuel,combustion
+1921,type of fuel,fuel oil
+1922,type of fuel,gulf
+1923,type of fuel,hydrogen peroxide
+1924,type of fuel,liquid hydrogen
+1925,type of fuel,lox
+1926,type of fuel,methylene
+1927,type of fuel,naphtha
+1928,type of fuel,pentane
+1929,type of fuel,radium
+1930,type of fuel,regular
+1931,type of fuel,rocket fuel
+1932,type of fuel,sugar
+1933,type of fuel,sunlight
+1934,type of fuel,wax
+1935,type of fuel,white gas
+1936,occupation or profession,doctor
+1937,occupation or profession,lawyer
+1938,occupation or profession,teacher
+1939,occupation or profession,dentist
+1940,occupation or profession,engineer
+1941,occupation or profession,professor
+1942,occupation or profession,carpenter
+1943,occupation or profession,salesman
+1944,occupation or profession,nurse
+1945,occupation or profession,psychologist
+1946,occupation or profession,plumber
+1947,occupation or profession,accountant
+1948,occupation or profession,businessman
+1949,occupation or profession,scientist
+1950,occupation or profession,clerk
+1951,occupation or profession,farmer
+1952,occupation or profession,laborer
+1953,occupation or profession,policeman
+1954,occupation or profession,chemist
+1955,occupation or profession,merchant
+1956,occupation or profession,banker
+1957,occupation or profession,physicist
+1958,occupation or profession,executive
+1959,occupation or profession,fireman
+1960,occupation or profession,manager
+1961,occupation or profession,electrician
+1962,occupation or profession,judge
+1963,occupation or profession,mechanic
+1964,occupation or profession,secretary
+1965,occupation or profession,bricklayer
+1966,occupation or profession,mathematician
+1967,occupation or profession,architect
+1968,occupation or profession,pharmacist
+1969,occupation or profession,president
+1970,occupation or profession,minister
+1971,occupation or profession,writer
+1972,occupation or profession,janitor
+1973,occupation or profession,reverend
+1974,occupation or profession,artist
+1975,occupation or profession,baker
+1976,occupation or profession,psychiatrist
+1977,occupation or profession,senator
+1978,occupation or profession,grocer
+1979,occupation or profession,sailor
+1980,occupation or profession,mailman
+1981,occupation or profession,garbage man
+1982,occupation or profession,machinist
+1983,occupation or profession,milkman
+1984,occupation or profession,surgeon
+1985,occupation or profession,barber
+1986,occupation or profession,cook
+1987,occupation or profession,indian chief
+1988,occupation or profession,pilot
+1989,occupation or profession,politician
+1990,occupation or profession,priest
+1991,occupation or profession,real estate
+1992,occupation or profession,butcher
+1993,occupation or profession,captain
+1994,occupation or profession,colonel
+1995,occupation or profession,ditchdigger
+1996,occupation or profession,father
+1997,occupation or profession,general
+1998,occupation or profession,major
+1999,occupation or profession,musician
+2000,occupation or profession,officer
+2001,occupation or profession,painter
+2002,occupation or profession,preacher
+2003,occupation or profession,soldier
+2004,occupation or profession,student
+2005,occupation or profession,technician
+2006,occupation or profession,actor
+2007,occupation or profession,attorney
+2008,occupation or profession,biologist
+2009,occupation or profession,bus driver
+2010,occupation or profession,druggist
+2011,occupation or profession,housewife
+2012,occupation or profession,representative
+2013,occupation or profession,clergyman
+2014,occupation or profession,economist
+2015,occupation or profession,insurance agent
+2016,occupation or profession,mason
+2017,occupation or profession,mayor
+2018,occupation or profession,physician
+2019,occupation or profession,rabbi
+2020,occupation or profession,steelworker
+2021,occupation or profession,social worker
+2022,occupation or profession,storekeeper
+2023,occupation or profession,truck driver
+2024,occupation or profession,veterinarian
+2025,occupation or profession,white-collar worke
+2026,occupation or profession,astronaut
+2027,occupation or profession,bookmaker
+2028,occupation or profession,candlestick maker
+2029,occupation or profession,chief
+2030,occupation or profession,congressman
+2031,occupation or profession,dietician
+2032,occupation or profession,editor
+2033,occupation or profession,journalist
+2034,occupation or profession,mister
+2035,occupation or profession,pediatrician
+2036,occupation or profession,sir
+2037,occupation or profession,tailor
+2038,occupation or profession,thief
+2039,occupation or profession,advertiser
+2040,occupation or profession,buyer
+2041,occupation or profession,cabdriver
+2042,occupation or profession,certified public a
+2043,occupation or profession,conductor
+2044,occupation or profession,construction worke
+2045,occupation or profession,contractor
+2046,occupation or profession,draftsman
+2047,occupation or profession,driver
+2048,occupation or profession,job
+2049,occupation or profession,jockey
+2050,occupation or profession,king
+2051,occupation or profession,lieutenant
+2052,occupation or profession,researcher
+2053,occupation or profession,sergeant
+2054,occupation or profession,sociologist
+2055,occupation or profession,speech therapist
+2056,occupation or profession,title
+2057,occupation or profession,waiter
+2058,occupation or profession,welder
+2059,occupation or profession,actress
+2060,occupation or profession,administrator
+2061,occupation or profession,announcer
+2062,occupation or profession,author
+2063,occupation or profession,baseball player
+2064,occupation or profession,blacksmith
+2065,occupation or profession,blue collar
+2066,occupation or profession,bookkeeper
+2067,occupation or profession,botanist
+2068,occupation or profession,car driver
+2069,occupation or profession,chairman
+2070,occupation or profession,chef
+2071,occupation or profession,cop
+2072,occupation or profession,cowboy
+2073,occupation or profession,dean
+2074,occupation or profession,detective
+2075,occupation or profession,director
+2076,occupation or profession,drifter
+2077,occupation or profession,factory worker
+2078,occupation or profession,financier
+2079,occupation or profession,football player
+2080,occupation or profession,foreman
+2081,occupation or profession,geologist
+2082,occupation or profession,governor
+2083,occupation or profession,instructor
+2084,occupation or profession,jeweler
+2085,occupation or profession,labor
+2086,occupation or profession,leader
+2087,occupation or profession,librarian
+2088,occupation or profession,longshoreman
+2089,occupation or profession,master
+2090,occupation or profession,military
+2091,occupation or profession,model
+2092,occupation or profession,mortician
+2093,occupation or profession,mrs.
+2094,occupation or profession,newspaperman
+2095,occupation or profession,obstetrician
+2096,occupation or profession,officer in service
+2097,occupation or profession,owner
+2098,occupation or profession,pastor
+2099,occupation or profession,pianist
+2100,occupation or profession,planner
+2101,occupation or profession,position
+2102,occupation or profession,private
+2103,occupation or profession,retailer
+2104,occupation or profession,salesclerk
+2105,occupation or profession,shoemaker
+2106,occupation or profession,singer
+2107,occupation or profession,sister
+2108,occupation or profession,statistician
+2109,occupation or profession,supervisor
+2110,occupation or profession,surveyor
+2111,occupation or profession,typist
+2112,occupation or profession,waitress
+2113,occupation or profession,work
+2114,occupation or profession,worker
+2115,occupation or profession,zoologist
+2116,natural earth formation,mountain
+2117,natural earth formation,hill
+2118,natural earth formation,valley
+2119,natural earth formation,river
+2120,natural earth formation,rock
+2121,natural earth formation,lake
+2122,natural earth formation,canyon
+2123,natural earth formation,cliff
+2124,natural earth formation,ocean
+2125,natural earth formation,cave
+2126,natural earth formation,plain
+2127,natural earth formation,volcano
+2128,natural earth formation,plateau
+2129,natural earth formation,gully
+2130,natural earth formation,stream
+2131,natural earth formation,sea
+2132,natural earth formation,desert
+2133,natural earth formation,crevice
+2134,natural earth formation,island
+2135,natural earth formation,cavern
+2136,natural earth formation,glacier
+2137,natural earth formation,stalagmite
+2138,natural earth formation,ravine
+2139,natural earth formation,ridge
+2140,natural earth formation,stalactite
+2141,natural earth formation,stone
+2142,natural earth formation,crater
+2143,natural earth formation,gorge
+2144,natural earth formation,grand canyon
+2145,natural earth formation,creek
+2146,natural earth formation,sand
+2147,natural earth formation,tree
+2148,natural earth formation,fault
+2149,natural earth formation,natural bridge
+2150,natural earth formation,peninsula
+2151,natural earth formation,pond
+2152,natural earth formation,waterfall
+2153,natural earth formation,continent
+2154,natural earth formation,crevasse
+2155,natural earth formation,delta
+2156,natural earth formation,dirt
+2157,natural earth formation,hole
+2158,natural earth formation,grass
+2159,natural earth formation,slope
+2160,natural earth formation,bay
+2161,natural earth formation,beach
+2162,natural earth formation,geyser
+2163,natural earth formation,soil
+2164,natural earth formation,bluff
+2165,natural earth formation,ditch
+2166,natural earth formation,gulch
+2167,natural earth formation,moraine
+2168,natural earth formation,sand dune
+2169,natural earth formation,boulder
+2170,natural earth formation,butte
+2171,natural earth formation,earthquake
+2172,natural earth formation,fossil
+2173,natural earth formation,land
+2174,natural earth formation,mesa
+2175,natural earth formation,mound
+2176,natural earth formation,water
+2177,natural earth formation,crest
+2178,natural earth formation,esker
+2179,natural earth formation,forest
+2180,natural earth formation,mineral
+2181,natural earth formation,peak
+2182,natural earth formation,prairie
+2183,natural earth formation,riverbed
+2184,natural earth formation,bank
+2185,natural earth formation,coal
+2186,natural earth formation,drumlin
+2187,natural earth formation,flowers
+2188,natural earth formation,gulf
+2189,natural earth formation,harbor
+2190,natural earth formation,iceberg
+2191,natural earth formation,limestone
+2192,natural earth formation,pebbles
+2193,natural earth formation,plant
+2194,natural earth formation,spring
+2195,natural earth formation,stream bed
+2196,natural earth formation,arroyo
+2197,natural earth formation,basin
+2198,natural earth formation,brook
+2199,natural earth formation,chasm
+2200,natural earth formation,chemicals
+2201,natural earth formation,clay
+2202,natural earth formation,cove
+2203,natural earth formation,cracks
+2204,natural earth formation,crag
+2205,natural earth formation,dale
+2206,natural earth formation,dike
+2207,natural earth formation,dune
+2208,natural earth formation,dust
+2209,natural earth formation,flatlands
+2210,natural earth formation,glacier deposit
+2211,natural earth formation,ground
+2212,natural earth formation,guper
+2213,natural earth formation,hollows
+2214,natural earth formation,knoll
+2215,natural earth formation,meadow
+2216,natural earth formation,outcropping
+2217,natural earth formation,pinnacle
+2218,natural earth formation,pool
+2219,natural earth formation,promontory
+2220,natural earth formation,rise
+2221,natural earth formation,rocky mountains
+2222,natural earth formation,saddle
+2223,natural earth formation,sandstone
+2224,natural earth formation,sill
+2225,natural earth formation,smoky mountains
+2226,natural earth formation,steppes
+2227,natural earth formation,swamp
+2228,sport,football
+2229,sport,baseball
+2230,sport,basketball
+2231,sport,tennis
+2232,sport,swimming
+2233,sport,soccer
+2234,sport,golf
+2235,sport,hockey
+2236,sport,track
+2237,sport,lacrosse
+2238,sport,badminton
+2239,sport,bowling
+2240,sport,wrestling
+2241,sport,volleyball
+2242,sport,archery
+2243,sport,skiing
+2244,sport,fencing
+2245,sport,ping-pong
+2246,sport,softball
+2247,sport,fishing
+2248,sport,horseback riding
+2249,sport,handball
+2250,sport,ice skating
+2251,sport,polo
+2252,sport,boxing
+2253,sport,rugby
+2254,sport,hunting
+2255,sport,water skiing
+2256,sport,gymnastics
+2257,sport,racing
+2258,sport,sailing
+2259,sport,boating
+2260,sport,pool
+2261,sport,horse racing
+2262,sport,ice hockey
+2263,sport,jai alai
+2264,sport,squash
+2265,sport,diving
+2266,sport,judo
+2267,sport,surfing
+2268,sport,chess
+2269,sport,cross-country
+2270,sport,running
+2271,sport,car racing
+2272,sport,croquet
+2273,sport,riding
+2274,sport,canoeing
+2275,sport,cricket
+2276,sport,hiking
+2277,sport,horseshoes
+2278,sport,roller skating
+2279,sport,rowing
+2280,sport,speedball
+2281,sport,tumbling
+2282,sport,skating
+2283,sport,checkers
+2284,sport,flicker ball
+2285,sport,shooting
+2286,sport,skin diving
+2287,sport,snow skiing
+2288,sport,track and field
+2289,sport,weight lifting
+2290,sport,apparatus
+2291,sport,camping
+2292,sport,cards
+2293,sport,dancing
+2294,sport,field
+2295,sport,field hockey
+2296,sport,girls
+2297,sport,pole vault
+2298,sport,shuffleboard
+2299,sport,skate boarding
+2300,sport,speedaway
+2301,sport,water polo
+2302,weather phenomenon,hurricane
+2303,weather phenomenon,tornado
+2304,weather phenomenon,rain
+2305,weather phenomenon,snow
+2306,weather phenomenon,hail
+2307,weather phenomenon,sleet
+2308,weather phenomenon,storm
+2309,weather phenomenon,wind
+2310,weather phenomenon,cyclone
+2311,weather phenomenon,clouds
+2312,weather phenomenon,sun
+2313,weather phenomenon,lightning
+2314,weather phenomenon,typhoon
+2315,weather phenomenon,thunder
+2316,weather phenomenon,cold
+2317,weather phenomenon,blizzard
+2318,weather phenomenon,fog
+2319,weather phenomenon,monsoon
+2320,weather phenomenon,thunderstorm
+2321,weather phenomenon,humidity
+2322,weather phenomenon,sunny
+2323,weather phenomenon,hot
+2324,weather phenomenon,tidal wave
+2325,weather phenomenon,hailstorm
+2326,weather phenomenon,drought
+2327,weather phenomenon,earthquake
+2328,weather phenomenon,heat
+2329,weather phenomenon,ice
+2330,weather phenomenon,rainbow
+2331,weather phenomenon,windstorm
+2332,weather phenomenon,clear
+2333,weather phenomenon,snowstorm
+2334,weather phenomenon,warm
+2335,weather phenomenon,gale
+2336,weather phenomenon,waterspout
+2337,weather phenomenon,mist
+2338,weather phenomenon,rainstorm
+2339,weather phenomenon,twister
+2340,weather phenomenon,frost
+2341,weather phenomenon,dust storm
+2342,weather phenomenon,heat wave
+2343,weather phenomenon,smog
+2344,weather phenomenon,drizzle
+2345,weather phenomenon,high pressure
+2346,weather phenomenon,dry
+2347,weather phenomenon,foggy
+2348,weather phenomenon,low pressure
+2349,weather phenomenon,rainy
+2350,weather phenomenon,temperature
+2351,weather phenomenon,whirlwind
+2352,weather phenomenon,breeze
+2353,weather phenomenon,calm
+2354,weather phenomenon,dew
+2355,weather phenomenon,fair
+2356,weather phenomenon,front
+2357,weather phenomenon,high
+2358,weather phenomenon,humid
+2359,weather phenomenon,low
+2360,weather phenomenon,mild
+2361,weather phenomenon,squall
+2362,weather phenomenon,avalanche
+2363,weather phenomenon,clear sky
+2364,weather phenomenon,cloud burst
+2365,weather phenomenon,overcast
+2366,weather phenomenon,sandstorm
+2367,weather phenomenon,tempest
+2368,weather phenomenon,thermometer
+2369,weather phenomenon,volcano eruption
+2370,weather phenomenon,weather vane
+2371,weather phenomenon,aurora borealis
+2372,weather phenomenon,barometer
+2373,weather phenomenon,cold front
+2374,weather phenomenon,cold spell
+2375,weather phenomenon,dampness
+2376,weather phenomenon,eclipse
+2377,weather phenomenon,electrical storm
+2378,weather phenomenon,glaze
+2379,weather phenomenon,haze
+2380,weather phenomenon,northern lights
+2381,weather phenomenon,pour
+2382,weather phenomenon,pressure
+2383,weather phenomenon,showers
+2384,weather phenomenon,slush
+2385,article of clothing,shirt
+2386,article of clothing,socks
+2387,article of clothing,pants
+2388,article of clothing,shoes
+2389,article of clothing,blouse
+2390,article of clothing,skirt
+2391,article of clothing,coat
+2392,article of clothing,dress
+2393,article of clothing,hat
+2394,article of clothing,sweater
+2395,article of clothing,tie
+2396,article of clothing,slip
+2397,article of clothing,jacket
+2398,article of clothing,slacks
+2399,article of clothing,gloves
+2400,article of clothing,belt
+2401,article of clothing,underwear
+2402,article of clothing,shorts
+2403,article of clothing,bra
+2404,article of clothing,scarf
+2405,article of clothing,suit
+2406,article of clothing,t-shirt
+2407,article of clothing,stockings
+2408,article of clothing,trousers
+2409,article of clothing,undershirt
+2410,article of clothing,vest
+2411,article of clothing,nylons
+2412,article of clothing,girdle
+2413,article of clothing,underpants
+2414,article of clothing,overcoat
+2415,article of clothing,bermudas
+2416,article of clothing,hose
+2417,article of clothing,raincoat
+2418,article of clothing,panties
+2419,article of clothing,jumper
+2420,article of clothing,sweat shirt
+2421,article of clothing,bathing suit
+2422,article of clothing,cap
+2423,article of clothing,boots
+2424,article of clothing,pajamas
+2425,article of clothing,rings
+2426,article of clothing,robe
+2427,article of clothing,shift
+2428,article of clothing,earmuffs
+2429,article of clothing,jock
+2430,article of clothing,shell
+2431,article of clothing,watch
+2432,article of clothing,ascot
+2433,article of clothing,cuff links
+2434,article of clothing,dickey
+2435,article of clothing,handkerchief
+2436,article of clothing,swimsuit
+2437,article of clothing,levi's
+2438,article of clothing,sports coat
+2439,article of clothing,apron
+2440,article of clothing,bracelet
+2441,article of clothing,cape
+2442,article of clothing,chemise
+2443,article of clothing,culottes
+2444,article of clothing,garter
+2445,article of clothing,hairband
+2446,article of clothing,jeans
+2447,article of clothing,jersey
+2448,article of clothing,knee socks
+2449,article of clothing,muffler
+2450,article of clothing,necktie
+2451,article of clothing,nightgown
+2452,article of clothing,parka
+2453,article of clothing,purse
+2454,article of clothing,ribbon
+2455,article of clothing,suspenders
+2456,article of clothing,topcoat
+2457,article of clothing,tuxedo
+2458,article of clothing,underclothes
+2459,article of clothing,undershorts
+2460,part of a building,window
+2461,part of a building,door
+2462,part of a building,roof
+2463,part of a building,wall
+2464,part of a building,floor
+2465,part of a building,ceiling
+2466,part of a building,room
+2467,part of a building,basement
+2468,part of a building,brick
+2469,part of a building,hall
+2470,part of a building,stair
+2471,part of a building,elevator
+2472,part of a building,chimney
+2473,part of a building,foundation
+2474,part of a building,steps
+2475,part of a building,stairway
+2476,part of a building,attic
+2477,part of a building,cement
+2478,part of a building,wood
+2479,part of a building,bathroom
+2480,part of a building,closet
+2481,part of a building,corner
+2482,part of a building,glass
+2483,part of a building,cornerstone
+2484,part of a building,beams
+2485,part of a building,kitchen
+2486,part of a building,lights
+2487,part of a building,side
+2488,part of a building,cellar
+2489,part of a building,office
+2490,part of a building,porch
+2491,part of a building,living room
+2492,part of a building,lobby
+2493,part of a building,bedroom
+2494,part of a building,wing
+2495,part of a building,entrance
+2496,part of a building,furniture
+2497,part of a building,stone
+2498,part of a building,corridor
+2499,part of a building,chairs
+2500,part of a building,doorway
+2501,part of a building,frame
+2502,part of a building,rafters
+2503,part of a building,front
+2504,part of a building,dining room
+2505,part of a building,facade
+2506,part of a building,hallway
+2507,part of a building,mortar
+2508,part of a building,siding
+2509,part of a building,desk
+2510,part of a building,gutters
+2511,part of a building,inside
+2512,part of a building,nails
+2513,part of a building,shutters
+2514,part of a building,eaves
+2515,part of a building,first floor
+2516,part of a building,girders
+2517,part of a building,ledges
+2518,part of a building,pipes
+2519,part of a building,shingle
+2520,part of a building,blackboard
+2521,part of a building,fireplace
+2522,part of a building,furnace
+2523,part of a building,lounge
+2524,part of a building,outside
+2525,part of a building,tile
+2526,part of a building,apartment
+2527,part of a building,awnings
+2528,part of a building,back
+2529,part of a building,balcony
+2530,part of a building,banister
+2531,part of a building,classrooms
+2532,part of a building,cornice
+2533,part of a building,framework
+2534,part of a building,gable
+2535,part of a building,joist
+2536,part of a building,metal
+2537,part of a building,paint
+2538,part of a building,plaster
+2539,part of a building,plumbing
+2540,part of a building,second floor
+2541,part of a building,sidewalk
+2542,part of a building,steel
+2543,part of a building,windowsill
+2544,part of a building,wiring
+2545,part of a building,annex
+2546,part of a building,boards
+2547,part of a building,concrete
+2548,part of a building,doorknob
+2549,part of a building,escalator
+2550,part of a building,fire escape
+2551,part of a building,flagpole
+2552,part of a building,insulation
+2553,part of a building,laboratory
+2554,part of a building,level
+2555,part of a building,rain gutters
+2556,part of a building,rest rooms
+2557,part of a building,shade
+2558,part of a building,stories
+2559,part of a building,structure
+2560,part of a building,towers
+2561,part of a building,washroom
+2562,part of a building,window ledge
+2563,part of a building,woodwork
+2564,part of a building,block
+2565,part of a building,boiler room
+2566,part of a building,buttress
+2567,part of a building,cable
+2568,part of a building,carpet
+2569,part of a building,cinder blocks
+2570,part of a building,den
+2571,part of a building,dome
+2572,part of a building,dormer
+2573,part of a building,drinking fountain
+2574,part of a building,entrance foyer
+2575,part of a building,exit
+2576,part of a building,flight
+2577,part of a building,ground floor
+2578,part of a building,lintel
+2579,part of a building,lock
+2580,part of a building,lumber
+2581,part of a building,main floor
+2582,part of a building,partitions
+2583,part of a building,people
+2584,part of a building,pillar
+2585,part of a building,rear
+2586,part of a building,rec room
+2587,part of a building,rod
+2588,part of a building,rug
+2589,part of a building,section
+2590,part of a building,sink
+2591,part of a building,skylight
+2592,part of a building,staircase
+2593,part of a building,stairwell
+2594,part of a building,steeple
+2595,part of a building,supports
+2596,part of a building,tap
+2597,part of a building,third floor
+2598,part of a building,toilet
+2599,part of a building,upper floors
+2600,part of a building,vestibule
+2601,chemical element,oxygen
+2602,chemical element,hydrogen
+2603,chemical element,nitrogen
+2604,chemical element,sodium
+2605,chemical element,iron
+2606,chemical element,gold
+2607,chemical element,helium
+2608,chemical element,silver
+2609,chemical element,potassium
+2610,chemical element,copper
+2611,chemical element,carbon
+2612,chemical element,sulfur
+2613,chemical element,chlorine
+2614,chemical element,zinc
+2615,chemical element,magnesium
+2616,chemical element,aluminum
+2617,chemical element,fluorine
+2618,chemical element,phosphorus
+2619,chemical element,calcium
+2620,chemical element,uranium
+2621,chemical element,lead
+2622,chemical element,argon
+2623,chemical element,neon
+2624,chemical element,mercury
+2625,chemical element,boron
+2626,chemical element,lithium
+2627,chemical element,manganese
+2628,chemical element,iodine
+2629,chemical element,tin
+2630,chemical element,acid
+2631,chemical element,bromine
+2632,chemical element,water
+2633,chemical element,radium
+2634,chemical element,krypton
+2635,chemical element,cobalt
+2636,chemical element,barium
+2637,chemical element,nickel
+2638,chemical element,platinum
+2639,chemical element,beryllium
+2640,chemical element,xenon
+2641,chemical element,plutonium
+2642,chemical element,radon
+2643,chemical element,silicon
+2644,chemical element,antimony
+2645,chemical element,bromide
+2646,chemical element,carbon dioxide
+2647,chemical element,chromium
+2648,chemical element,rubidium
+2649,chemical element,titanium
+2650,chemical element,arsenic
+2651,chemical element,astatine
+2652,chemical element,tungsten
+2653,chemical element,cadmium
+2654,chemical element,chloride
+2655,chemical element,salt
+2656,chemical element,alcohol
+2657,chemical element,base
+2658,chemical element,bismuth
+2659,chemical element,cesium
+2660,chemical element,francium
+2661,chemical element,molybdenum
+2662,chemical element,nitric acid
+2663,chemical element,sodium chloride
+2664,chemical element,sulfate
+2665,chemical element,californium
+2666,chemical element,gas
+2667,chemical element,hydrochloric acid
+2668,chemical element,tellurium
+2669,chemical element,zinc oxide
+2670,chemical element,zirconium
+2671,chemical element,alkaline
+2672,chemical element,ammonia
+2673,chemical element,carbon monoxide
+2674,chemical element,dioxide
+2675,chemical element,ferric
+2676,chemical element,freon
+2677,chemical element,glycerin
+2678,chemical element,hydrochloride
+2679,chemical element,ion
+2680,chemical element,lawrencium
+2681,chemical element,nitrate
+2682,chemical element,nitroglycerin
+2683,chemical element,oil
+2684,chemical element,peroxide
+2685,chemical element,polonium
+2686,chemical element,strontium
+2687,chemical element,sulfuric acid
+2688,musical instrument,piano
+2689,musical instrument,drum
+2690,musical instrument,trumpet
+2691,musical instrument,violin
+2692,musical instrument,clarinet
+2693,musical instrument,flute
+2694,musical instrument,guitar
+2695,musical instrument,saxophone
+2696,musical instrument,trombone
+2697,musical instrument,oboe
+2698,musical instrument,tuba
+2699,musical instrument,harp
+2700,musical instrument,cello
+2701,musical instrument,banjo
+2702,musical instrument,bass
+2703,musical instrument,organ
+2704,musical instrument,french horn
+2705,musical instrument,viola
+2706,musical instrument,horn
+2707,musical instrument,piccolo
+2708,musical instrument,cymbals
+2709,musical instrument,harmonica
+2710,musical instrument,bassoon
+2711,musical instrument,accordion
+2712,musical instrument,cornet
+2713,musical instrument,xylophone
+2714,musical instrument,fiddle
+2715,musical instrument,harpsichord
+2716,musical instrument,bass fiddle
+2717,musical instrument,bugle
+2718,musical instrument,baritone
+2719,musical instrument,ukulele
+2720,musical instrument,triangle
+2721,musical instrument,bells
+2722,musical instrument,tambourine
+2723,musical instrument,bongos
+2724,musical instrument,sousaphone
+2725,musical instrument,bass drum
+2726,musical instrument,mandolin
+2727,musical instrument,marimba
+2728,musical instrument,tympani
+2729,musical instrument,english horn
+2730,musical instrument,recorder
+2731,musical instrument,lute
+2732,musical instrument,zither
+2733,musical instrument,bass viol
+2734,musical instrument,bass viola
+2735,musical instrument,chimes
+2736,musical instrument,clavichord
+2737,musical instrument,string bass
+2738,musical instrument,vibes
+2739,musical instrument,autoharp
+2740,musical instrument,bass clarinet
+2741,musical instrument,bass violin
+2742,musical instrument,castanet
+2743,musical instrument,double bass
+2744,musical instrument,fife
+2745,musical instrument,jew's harp
+2746,musical instrument,kettledrum
+2747,musical instrument,slide trombone
+2748,kind of money,dollars
+2749,kind of money,nickels
+2750,kind of money,dimes
+2751,kind of money,quarters
+2752,kind of money,pennies
+2753,kind of money,francs
+2754,kind of money,pesos
+2755,kind of money,pounds
+2756,kind of money,half dollar
+2757,kind of money,coins
+2758,kind of money,lira
+2759,kind of money,yen
+2760,kind of money,paper money
+2761,kind of money,ruble
+2762,kind of money,silver
+2763,kind of money,mark
+2764,kind of money,cents
+2765,kind of money,shilling
+2766,kind of money,check
+2767,kind of money,gold
+2768,kind of money,silver dollar
+2769,kind of money,fifty-cent piece
+2770,kind of money,dollar bill
+2771,kind of money,ten dollars
+2772,kind of money,five
+2773,kind of money,centavo
+2774,kind of money,pence
+2775,kind of money,bill
+2776,kind of money,currency
+2777,kind of money,gold piece
+2778,kind of money,bonds
+2779,kind of money,twenty
+2780,kind of money,guinea
+2781,kind of money,six pence
+2782,kind of money,sou
+2783,kind of money,crown
+2784,kind of money,fifty
+2785,kind of money,copper
+2786,kind of money,kopeck
+2787,kind of money,hundred
+2788,kind of money,change
+2789,kind of money,peseta
+2790,kind of money,pfennig
+2791,kind of money,stocks
+2792,kind of money,american
+2793,kind of money,cash
+2794,kind of money,doubloon
+2795,kind of money,hard money
+2796,kind of money,money order
+2797,kind of money,rupee
+2798,kind of money,greenback
+2799,kind of money,note
+2800,kind of money,sen
+2801,kind of money,bolivar
+2802,kind of money,canadian
+2803,kind of money,foreign
+2804,kind of money,half penny
+2805,kind of money,mill
+2806,kind of money,seashells
+2807,kind of money,sterling
+2808,kind of money,traveler's checks
+2809,kind of money,wampum
+2810,kind of money,beads
+2811,kind of money,confederate
+2812,kind of money,dinar
+2813,kind of money,english
+2814,kind of money,farthing
+2815,kind of money,green
+2816,kind of money,krona
+2817,kind of money,mexican
+2818,kind of money,paper dollar
+2819,kind of money,savings bond
+2820,kind of money,two-dollar bill
+2821,kind of money,baht
+2822,kind of money,buck
+2823,kind of money,bullion
+2824,kind of money,centime
+2825,kind of money,counterfeit
+2826,kind of money,cruzeiro
+2827,kind of money,drachma
+2828,kind of money,federal reserve no
+2829,kind of money,fiver
+2830,kind of money,guilder
+2831,kind of money,half cent
+2832,kind of money,ious
+2833,kind of money,one thousand dolla
+2834,kind of money,paper bill
+2835,kind of money,play money
+2836,kind of money,pound sterling
+2837,kind of money,sawbuck
+2838,kind of money,script
+2839,kind of money,shekel
+2840,kind of money,silver certificate
+2841,kind of money,two bits
+2842,type of music,jazz
+2843,type of music,classical
+2844,type of music,rock'n'roll
+2845,type of music,popular
+2846,type of music,folk
+2847,type of music,symphony
+2848,type of music,opera
+2849,type of music,blues
+2850,type of music,modern
+2851,type of music,country
+2852,type of music,waltz
+2853,type of music,hillbilly
+2854,type of music,instrumental
+2855,type of music,pop
+2856,type of music,western
+2857,type of music,baroque
+2858,type of music,contemporary
+2859,type of music,concerto
+2860,type of music,dixieland
+2861,type of music,concert
+2862,type of music,semiclassical
+2863,type of music,march
+2864,type of music,rhythm and blues
+2865,type of music,romantic
+2866,type of music,sonata
+2867,type of music,swing
+2868,type of music,country and wester
+2869,type of music,religious
+2870,type of music,dance
+2871,type of music,fast
+2872,type of music,slow
+2873,type of music,chamber
+2874,type of music,spiritual
+2875,type of music,ballad
+2876,type of music,long-hair
+2877,type of music,mood
+2878,type of music,operetta
+2879,type of music,orchestral
+2880,type of music,song
+2881,type of music,band
+2882,type of music,bluegrass
+2883,type of music,bossa nova
+2884,type of music,hymns
+2885,type of music,polka
+2886,type of music,bop
+2887,type of music,show tunes
+2888,type of music,show music
+2889,type of music,vocal
+2890,type of music,beatles
+2891,type of music,broadway
+2892,type of music,calypso
+2893,type of music,musicals
+2894,type of music,soft
+2895,type of music,spanish
+2896,type of music,fugue
+2897,type of music,minuet
+2898,type of music,modern jazz
+2899,type of music,movie theme
+2900,type of music,bebop
+2901,type of music,chorus
+2902,type of music,flamenco
+2903,type of music,fox-trot
+2904,type of music,good
+2905,type of music,melody
+2906,type of music,ragtime
+2907,type of music,rumba
+2908,type of music,bach
+2909,type of music,bad
+2910,type of music,ballroom
+2911,type of music,barbershop
+2912,type of music,beethoven
+2913,type of music,broadway hit
+2914,type of music,cha-cha
+2915,type of music,choral
+2916,type of music,danceable
+2917,type of music,frug
+2918,type of music,hit tunes
+2919,type of music,madrigal
+2920,type of music,organ
+2921,type of music,piano
+2922,type of music,progressive
+2923,type of music,renaissance
+2924,type of music,solo
+2925,type of music,tango
+2926,type of music,twist
+2927,type of music,violin
+2928,type of music,background
+2929,type of music,ballet
+2930,type of music,brahms
+2931,type of music,chanson
+2932,type of music,choir
+2933,type of music,christmas
+2934,type of music,contata
+2935,type of music,contemporary jazz
+2936,type of music,current
+2937,type of music,dance band
+2938,type of music,dinner
+2939,type of music,discotheque
+2940,type of music,drums
+2941,type of music,foreign
+2942,type of music,guitar
+2943,type of music,happy
+2944,type of music,hawaiian
+2945,type of music,honky-tonk
+2946,type of music,impressionistic
+2947,type of music,jitterbug
+2948,type of music,latin american
+2949,type of music,light
+2950,type of music,lively
+2951,type of music,loud
+2952,type of music,lyric
+2953,type of music,neoclassic
+2954,type of music,offbeat
+2955,type of music,oratorio
+2956,type of music,overture
+2957,type of music,percussion
+2958,type of music,primitive
+2959,type of music,progressive jazz
+2960,type of music,quartet
+2961,type of music,record
+2962,type of music,rhapsody
+2963,type of music,rock
+2964,type of music,sad
+2965,type of music,singing
+2966,type of music,soothing
+2967,type of music,soul
+2968,type of music,sweet
+2969,type of music,themes
+2970,bird,robin
+2971,bird,sparrow
+2972,bird,cardinal
+2973,bird,blue jay
+2974,bird,eagle
+2975,bird,crow
+2976,bird,bluebird
+2977,bird,canary
+2978,bird,parrakeet
+2979,bird,hawk
+2980,bird,blackbird
+2981,bird,wren
+2982,bird,oriole
+2983,bird,parrot
+2984,bird,pigeon
+2985,bird,hummingbird
+2986,bird,starling
+2987,bird,woodpecker
+2988,bird,vulture
+2989,bird,swallow
+2990,bird,chicken
+2991,bird,dove
+2992,bird,duck
+2993,bird,owl
+2994,bird,redbird
+2995,bird,sea gull
+2996,bird,thrush
+2997,bird,falcon
+2998,bird,jay
+2999,bird,pheasant
+3000,bird,finch
+3001,bird,mockingbird
+3002,bird,buzzard
+3003,bird,ostrich
+3004,bird,flamingo
+3005,bird,lark
+3006,bird,peacock
+3007,bird,turkey
+3008,bird,penguin
+3009,bird,purple martin
+3010,bird,raven
+3011,bird,swan
+3012,bird,crane
+3013,bird,geese
+3014,bird,chickadee
+3015,bird,pelican
+3016,bird,stork
+3017,bird,warbler
+3018,bird,catbird
+3019,bird,grackle
+3020,bird,quail
+3021,bird,goldfinch
+3022,bird,meadowlark
+3023,bird,nightingale
+3024,bird,rooster
+3025,bird,kingfisher
+3026,bird,martin
+3027,bird,myna bird
+3028,bird,bobwhite
+3029,bird,egret
+3030,bird,snowbird
+3031,bird,condor
+3032,bird,emu
+3033,bird,hen
+3034,bird,heron
+3035,bird,lovebird
+3036,bird,scarlet tanager
+3037,bird,yellow-bellied sap
+3038,bird,albatross
+3039,bird,bat
+3040,bird,baltimore oriole
+3041,bird,eye
+3042,bird,morning dove
+3043,bird,redwing
+3044,bird,wing
+3045,bird,bald eagle
+3046,bird,beak
+3047,bird,bobolink
+3048,bird,chimney swift
+3049,bird,cowbird
+3050,bird,dodo
+3051,bird,feathers
+3052,bird,feet
+3053,bird,flicker
+3054,bird,go
+3055,bird,junco
+3056,bird,osprey
+3057,bird,red-headed woodpec
+3058,bird,redwing back
+3059,bird,run
+3060,bird,stop
+3061,bird,tern
+3062,bird,toucan
+3063,bird,whippoorwill
+3064,bird,wood thrush
+3065,nonalcoholic beverage,milk
+3066,nonalcoholic beverage,coke
+3067,nonalcoholic beverage,water
+3068,nonalcoholic beverage,orange drink
+3069,nonalcoholic beverage,coffee
+3070,nonalcoholic beverage,tea
+3071,nonalcoholic beverage,pepsi
+3072,nonalcoholic beverage,lemonade
+3073,nonalcoholic beverage,7up
+3074,nonalcoholic beverage,grape juice
+3075,nonalcoholic beverage,soda
+3076,nonalcoholic beverage,root beer
+3077,nonalcoholic beverage,ginger ale
+3078,nonalcoholic beverage,fruit juice
+3079,nonalcoholic beverage,juice
+3080,nonalcoholic beverage,punch
+3081,nonalcoholic beverage,tomato juice
+3082,nonalcoholic beverage,kool-aid
+3083,nonalcoholic beverage,milkshake
+3084,nonalcoholic beverage,teem
+3085,nonalcoholic beverage,orangeade
+3086,nonalcoholic beverage,pop
+3087,nonalcoholic beverage,iced tea
+3088,nonalcoholic beverage,sprite
+3089,nonalcoholic beverage,apple juice
+3090,nonalcoholic beverage,grapefruit juice
+3091,nonalcoholic beverage,cocoa
+3092,nonalcoholic beverage,limeade
+3093,nonalcoholic beverage,soft drink
+3094,nonalcoholic beverage,mountain dew
+3095,nonalcoholic beverage,pineapple juice
+3096,nonalcoholic beverage,malt
+3097,nonalcoholic beverage,cola
+3098,nonalcoholic beverage,fruit drink
+3099,nonalcoholic beverage,diet rite
+3100,nonalcoholic beverage,hawaiian punch
+3101,nonalcoholic beverage,hot chocolate
+3102,nonalcoholic beverage,soda pop
+3103,nonalcoholic beverage,eggnog
+3104,nonalcoholic beverage,squirt
+3105,nonalcoholic beverage,cider
+3106,nonalcoholic beverage,lemon
+3107,nonalcoholic beverage,prune juice
+3108,nonalcoholic beverage,carbonated drink
+3109,nonalcoholic beverage,cream soda
+3110,nonalcoholic beverage,royal crown
+3111,nonalcoholic beverage,tab
+3112,nonalcoholic beverage,upper 10
+3113,nonalcoholic beverage,chocolate milk
+3114,nonalcoholic beverage,like
+3115,nonalcoholic beverage,vegetable juice
+3116,nonalcoholic beverage,cherry
+3117,nonalcoholic beverage,coconut-juice milk
+3118,nonalcoholic beverage,dr. pepper
+3119,nonalcoholic beverage,grape soda
+3120,nonalcoholic beverage,iced coffee
+3121,nonalcoholic beverage,lemon lime
+3122,nonalcoholic beverage,lime
+3123,nonalcoholic beverage,seltzer
+3124,nonalcoholic beverage,skim milk
+3125,nonalcoholic beverage,tang
+3126,nonalcoholic beverage,v-8 juice
+3127,nonalcoholic beverage,ade
+3128,nonalcoholic beverage,ale
+3129,nonalcoholic beverage,beer
+3130,nonalcoholic beverage,bouillon
+3131,nonalcoholic beverage,bubble-up
+3132,nonalcoholic beverage,buttermilk
+3133,nonalcoholic beverage,carrot juice
+3134,nonalcoholic beverage,chocolate
+3135,nonalcoholic beverage,cream
+3136,nonalcoholic beverage,ice-cream soda
+3137,nonalcoholic beverage,phosphates
+3138,nonalcoholic beverage,soda water
+3139,nonalcoholic beverage,soup
+3140,nonalcoholic beverage,tru ade
+3141,nonalcoholic beverage,whiskey
+3142,type of vehicle,car
+3143,type of vehicle,bus
+3144,type of vehicle,airplane
+3145,type of vehicle,train
+3146,type of vehicle,truck
+3147,type of vehicle,bicycle
+3148,type of vehicle,motorcycle
+3149,type of vehicle,boat
+3150,type of vehicle,scooter
+3151,type of vehicle,wagon
+3152,type of vehicle,bike
+3153,type of vehicle,ship
+3154,type of vehicle,motor scooter
+3155,type of vehicle,tricycle
+3156,type of vehicle,tractor
+3157,type of vehicle,auto
+3158,type of vehicle,taxi
+3159,type of vehicle,cart
+3160,type of vehicle,trolley car
+3161,type of vehicle,jeep
+3162,type of vehicle,jet
+3163,type of vehicle,streetcar
+3164,type of vehicle,trailer
+3165,type of vehicle,skates
+3166,type of vehicle,cab
+3167,type of vehicle,helicopter
+3168,type of vehicle,subway
+3169,type of vehicle,motorbike
+3170,type of vehicle,tank
+3171,type of vehicle,carriage
+3172,type of vehicle,honda
+3173,type of vehicle,horse
+3174,type of vehicle,feet
+3175,type of vehicle,sled
+3176,type of vehicle,cycle
+3177,type of vehicle,rocket
+3178,type of vehicle,roller skates
+3179,type of vehicle,skate baord
+3180,type of vehicle,van
+3181,type of vehicle,ford
+3182,type of vehicle,sports car
+3183,type of vehicle,chevrolet
+3184,type of vehicle,limousine
+3185,type of vehicle,canoe
+3186,type of vehicle,go-cart
+3187,type of vehicle,station wagon
+3188,type of vehicle,submarine
+3189,type of vehicle,volkswagen
+3190,type of vehicle,buggy
+3191,type of vehicle,el
+3192,type of vehicle,unicycle
+3193,type of vehicle,balloon
+3194,type of vehicle,cadillac
+3195,type of vehicle,convertible
+3196,type of vehicle,rickshaw
+3197,type of vehicle,lawn mower
+3198,type of vehicle,monorail
+3199,type of vehicle,raft
+3200,type of vehicle,skis
+3201,type of vehicle,ambulance
+3202,type of vehicle,buick
+3203,type of vehicle,cable car
+3204,type of vehicle,corvair
+3205,type of vehicle,coupe
+3206,type of vehicle,dogsled
+3207,type of vehicle,dump truck
+3208,type of vehicle,elevator
+3209,type of vehicle,falcon
+3210,type of vehicle,fire engine
+3211,type of vehicle,golf cart
+3212,type of vehicle,hands
+3213,type of vehicle,horse and buggy
+3214,type of vehicle,jaguar
+3215,type of vehicle,mg
+3216,type of vehicle,mustang
+3217,type of vehicle,oldsmobile
+3218,type of vehicle,panel truck
+3219,type of vehicle,pontiac
+3220,type of vehicle,ride
+3221,type of vehicle,rocket ship
+3222,type of vehicle,sedan
+3223,type of vehicle,surfboard
+3224,type of vehicle,surrey
+3225,type of vehicle,tram
+3226,type of vehicle,triumph
+3227,type of vehicle,wheelbarrow
+3228,type of vehicle,yamaha
+3229,science,chemistry
+3230,science,physics
+3231,science,psychology
+3232,science,biology
+3233,science,zoology
+3234,science,botany
+3235,science,astronomy
+3236,science,mathematics
+3237,science,geology
+3238,science,microbiology
+3239,science,sociology
+3240,science,entomology
+3241,science,medicine
+3242,science,engineering
+3243,science,biochemistry
+3244,science,meteorology
+3245,science,physiology
+3246,science,anatomy
+3247,science,anthropology
+3248,science,genetics
+3249,science,philosophy
+3250,science,astrology
+3251,science,geography
+3252,science,metallurgy
+3253,science,bacteriology
+3254,science,organic chemistry
+3255,science,archaeology
+3256,science,biophysics
+3257,science,embryology
+3258,science,agriculture
+3259,science,general science
+3260,science,kinesiology
+3261,science,oceanography
+3262,science,pathology
+3263,science,agronomy
+3264,science,criminology
+3265,science,dentistry
+3266,science,history
+3267,science,pharmacology
+3268,science,aerodynamics
+3269,science,architecture
+3270,science,earth
+3271,science,electrical enginee
+3272,science,electronics
+3273,science,histology
+3274,science,nutrition
+3275,science,pharmacy
+3276,science,physical science
+3277,science,political science
+3278,science,social
+3279,science,virology
+3280,toy,doll
+3281,toy,ball
+3282,toy,car
+3283,toy,gun
+3284,toy,truck
+3285,toy,train
+3286,toy,game
+3287,toy,block
+3288,toy,bat
+3289,toy,top
+3290,toy,boat
+3291,toy,dollhouse
+3292,toy,airplane
+3293,toy,toy soldiers
+3294,toy,wagon
+3295,toy,stuffed animal
+3296,toy,bike
+3297,toy,jacks
+3298,toy,puzzle
+3299,toy,teddy bear
+3300,toy,rattle
+3301,toy,bicycle
+3302,toy,jump rope
+3303,toy,tricycle
+3304,toy,balloon
+3305,toy,rocking horse
+3306,toy,yo-yo
+3307,toy,marbles
+3308,toy,rope
+3309,toy,horse
+3310,toy,skates
+3311,toy,animals
+3312,toy,books
+3313,toy,dishes
+3314,toy,drum
+3315,toy,fire engine
+3316,toy,football
+3317,toy,cards
+3318,toy,crayons
+3319,toy,jack-in-the-box
+3320,toy,monopoly
+3321,toy,tractor
+3322,toy,baseball
+3323,toy,erector set
+3324,toy,glove
+3325,toy,swing
+3326,toy,cap guns
+3327,toy,scooter
+3328,toy,dog
+3329,toy,hammer
+3330,toy,roller skates
+3331,toy,ships
+3332,toy,tinkertoys
+3333,toy,checkers
+3334,toy,baby carriage
+3335,toy,clay
+3336,toy,house
+3337,toy,tank
+3338,toy,basketball
+3339,toy,chemistry set
+3340,toy,coloring book
+3341,toy,kite
+3342,toy,knives
+3343,toy,playhouse
+3344,toy,puppet
+3345,toy,robots
+3346,toy,sled
+3347,toy,whistle
+3348,toy,bells
+3349,toy,bow and arrow
+3350,toy,clown
+3351,toy,cutouts
+3352,toy,hammer set
+3353,toy,helmet
+3354,toy,hula hoop
+3355,toy,model
+3356,toy,model plane kit
+3357,toy,paper dolls
+3358,toy,pick-up sticks
+3359,toy,sandbox
+3360,toy,slinky
+3361,toy,squirt gun
+3362,toy,stoves
+3363,toy,water pistol
+3364,toy,army men
+3365,toy,baby doll
+3366,toy,baseball glove
+3367,toy,beads
+3368,toy,bear
+3369,toy,box
+3370,toy,buggy
+3371,toy,cat
+3372,toy,cowboy
+3373,toy,hats
+3374,toy,music box
+3375,toy,pogo stick
+3376,toy,popgun
+3377,toy,punching bag
+3378,toy,rifle
+3379,toy,telephone
+3380,toy,blackboard
+3381,toy,boots
+3382,toy,bubbles
+3383,toy,bucket
+3384,toy,cannon
+3385,toy,carriage
+3386,toy,cart
+3387,toy,chess
+3388,toy,clock
+3389,toy,doctor kit
+3390,toy,doll kitchen
+3391,toy,duck
+3392,toy,electric train
+3393,toy,engine
+3394,toy,furniture
+3395,toy,gun and holster
+3396,toy,kitchen set
+3397,toy,lincoln play logs
+3398,toy,men
+3399,toy,mister machine
+3400,toy,model planes
+3401,toy,monkey
+3402,toy,paddle ball
+3403,toy,paint set
+3404,toy,parcheesi
+3405,toy,pistol
+3406,toy,plastic
+3407,toy,plastic rings
+3408,toy,pull toy
+3409,toy,rocket
+3410,toy,sailboat
+3411,toy,sand basket
+3412,toy,scrabble game
+3413,toy,seesaw
+3414,toy,shovel
+3415,toy,silly putty
+3416,toy,skate board
+3417,toy,sliding board
+3418,toy,softball
+3419,toy,stilts
+3420,toy,string
+3421,toy,tools
+3422,toy,water toys
+3423,type of dance,waltz
+3424,type of dance,frug
+3425,type of dance,twist
+3426,type of dance,fox-trot
+3427,type of dance,cha-cha
+3428,type of dance,monkey
+3429,type of dance,jitterbug
+3430,type of dance,jerk
+3431,type of dance,rumba
+3432,type of dance,watusi
+3433,type of dance,tango
+3434,type of dance,square dance
+3435,type of dance,samba
+3436,type of dance,polka
+3437,type of dance,mambo
+3438,type of dance,minuet
+3439,type of dance,charleston
+3440,type of dance,ballet
+3441,type of dance,rock'n'roll
+3442,type of dance,folk dance
+3443,type of dance,modern
+3444,type of dance,swim
+3445,type of dance,slow
+3446,type of dance,mashed potato
+3447,type of dance,two step
+3448,type of dance,dog
+3449,type of dance,freddy
+3450,type of dance,bossa nova
+3451,type of dance,pony
+3452,type of dance,bird
+3453,type of dance,fast
+3454,type of dance,limbo
+3455,type of dance,tap
+3456,type of dance,big apple
+3457,type of dance,meringue
+3458,type of dance,slop
+3459,type of dance,black bottom
+3460,type of dance,calypso
+3461,type of dance,stroll
+3462,type of dance,ballroom
+3463,type of dance,bop
+3464,type of dance,box step
+3465,type of dance,hitchhiker
+3466,type of dance,hully gully
+3467,type of dance,jazz
+3468,type of dance,bunny hop
+3469,type of dance,fly
+3470,type of dance,fish
+3471,type of dance,social
+3472,type of dance,interpretive
+3473,type of dance,swing
+3474,type of dance,uncle willie
+3475,type of dance,belly
+3476,type of dance,bodie
+3477,type of dance,conga
+3478,type of dance,hop
+3479,type of dance,mouse
+3480,type of dance,shimmy
+3481,type of dance,stomp
+3482,type of dance,bob
+3483,type of dance,bug
+3484,type of dance,flamenco
+3485,type of dance,frog
+3486,type of dance,hora
+3487,type of dance,jack the ripper
+3488,type of dance,jig
+3489,type of dance,lindy
+3490,type of dance,mexican hat
+3491,type of dance,popular
+3492,type of dance,surf
+3493,type of dance,bomba
+3494,type of dance,chicken
+3495,type of dance,continental
+3496,type of dance,eight-one
+3497,type of dance,elephant walk
+3498,type of dance,hula
+3499,type of dance,jive
+3500,type of dance,madison
+3501,type of dance,potato
+3502,type of dance,rain dance
+3503,type of dance,russian
+3504,type of dance,shotgun
+3505,type of dance,shuffle
+3506,type of dance,siamese
+3507,type of dance,snake
+3508,type of dance,soft-shoe
+3509,type of dance,virginia reel
+3510,type of dance,walk
+3511,vegetable,carrot
+3512,vegetable,pea
+3513,vegetable,corn
+3514,vegetable,bean
+3515,vegetable,potato
+3516,vegetable,tomato
+3517,vegetable,lettuce
+3518,vegetable,spinach
+3519,vegetable,asparagus
+3520,vegetable,broccoli
+3521,vegetable,celery
+3522,vegetable,cabbage
+3523,vegetable,string beans
+3524,vegetable,cauliflower
+3525,vegetable,beets
+3526,vegetable,lima beans
+3527,vegetable,squash
+3528,vegetable,onions
+3529,vegetable,radishes
+3530,vegetable,brussels sprouts
+3531,vegetable,cucumber
+3532,vegetable,turnip
+3533,vegetable,green beans
+3534,vegetable,kale
+3535,vegetable,parsley
+3536,vegetable,peppers
+3537,vegetable,green peppers
+3538,vegetable,eggplant
+3539,vegetable,greens
+3540,vegetable,rice
+3541,vegetable,artichokes
+3542,vegetable,okra
+3543,vegetable,sauerkraut
+3544,vegetable,collards
+3545,vegetable,peanut
+3546,vegetable,rhubarb
+3547,vegetable,turnip greens
+3548,vegetable,wax beans
+3549,vegetable,yellow beans
+3550,vegetable,avocado
+3551,vegetable,baked beans
+3552,vegetable,escarole
+3553,vegetable,mushroom
+3554,vegetable,parsnips
+3555,vegetable,pear
+3556,vegetable,pickle
+3557,vegetable,pumpkin
+3558,vegetable,rutabaga
+3559,vegetable,succotash
+3560,vegetable,sweet potatoes
+3561,vegetable,watercress
+3562,vegetable,watermelon
+3563,type of footgear,shoe
+3564,type of footgear,boots
+3565,type of footgear,sandals
+3566,type of footgear,socks
+3567,type of footgear,slippers
+3568,type of footgear,loafers
+3569,type of footgear,tennis shoes
+3570,type of footgear,rubbers
+3571,type of footgear,moccasins
+3572,type of footgear,snowshoes
+3573,type of footgear,high heels
+3574,type of footgear,stockings
+3575,type of footgear,thongs
+3576,type of footgear,flats
+3577,type of footgear,skis
+3578,type of footgear,galoshes
+3579,type of footgear,sneakers
+3580,type of footgear,heels
+3581,type of footgear,oxfords
+3582,type of footgear,skates
+3583,type of footgear,pumps
+3584,type of footgear,ice-skates
+3585,type of footgear,cleats
+3586,type of footgear,gym shoes
+3587,type of footgear,nylons
+3588,type of footgear,spikes
+3589,type of footgear,track shoes
+3590,type of footgear,clogs
+3591,type of footgear,saddle shoes
+3592,type of footgear,bedroom slippers
+3593,type of footgear,ski boots
+3594,type of footgear,weejuns
+3595,type of footgear,combat boots
+3596,type of footgear,roller skates
+3597,type of footgear,water skis
+3598,type of footgear,flippers
+3599,type of footgear,football shoes
+3600,type of footgear,hose
+3601,type of footgear,overshoes
+3602,type of footgear,spike shoes
+3603,type of footgear,bowling shoe
+3604,type of footgear,cowboy boot
+3605,type of footgear,flip-flops
+3606,type of footgear,peds
+3607,type of footgear,stacked heels
+3608,type of footgear,swim fins
+3609,type of footgear,brake
+3610,type of footgear,dress shoes
+3611,type of footgear,golf shoes
+3612,type of footgear,house slipper
+3613,type of footgear,mukluk
+3614,type of footgear,bootie
+3615,type of footgear,brace
+3616,type of footgear,climbing spikes
+3617,type of footgear,clutch
+3618,type of footgear,knee boot
+3619,type of footgear,scuffs
+3620,type of footgear,shoelace
+3621,type of footgear,slings
+3622,type of footgear,snow skis
+3623,type of footgear,zori
+3624,type of footgear,anklet
+3625,type of footgear,ballet slippers
+3626,type of footgear,barefoot
+3627,type of footgear,baseball shoes
+3628,type of footgear,baseball spikes
+3629,type of footgear,cast
+3630,type of footgear,desert boots
+3631,type of footgear,dress cordovans
+3632,type of footgear,engineer boots
+3633,type of footgear,gas
+3634,type of footgear,hosiery
+3635,type of footgear,leather
+3636,type of footgear,leotards
+3637,type of footgear,pedal
+3638,type of footgear,rain boots
+3639,type of footgear,riding boots
+3640,type of footgear,shoestring
+3641,type of footgear,shower shoes
+3642,type of footgear,walking shoes
+3643,type of footgear,wooden shoes
+3644,insect,fly
+3645,insect,ant
+3646,insect,bee
+3647,insect,mosquito
+3648,insect,spider
+3649,insect,beetle
+3650,insect,roach
+3651,insect,wasp
+3652,insect,grasshopper
+3653,insect,ladybug
+3654,insect,gnat
+3655,insect,moth
+3656,insect,flea
+3657,insect,butterfly
+3658,insect,bug
+3659,insect,praying mantis
+3660,insect,cockroach
+3661,insect,termite
+3662,insect,hornet
+3663,insect,cricket
+3664,insect,caterpillar
+3665,insect,tick
+3666,insect,lightning bug
+3667,insect,water bug
+3668,insect,centipede
+3669,insect,dragonfly
+3670,insect,silverfish
+3671,insect,worm
+3672,insect,june bug
+3673,insect,louse
+3674,insect,locust
+3675,insect,horsefly
+3676,insect,aphid
+3677,insect,fruit fly
+3678,insect,mite
+3679,insect,thousand-legger
+3680,insect,tsetse fly
+3681,insect,yellow jacket
+3682,insect,bedbug
+3683,insect,cicada
+3684,insect,stinkbug
+3685,insect,tarantula
+3686,insect,bumblebee
+3687,insect,chigger
+3688,insect,potato bug
+3689,insect,scorpion
+3690,insect,daddy longlegs
+3691,insect,japanese beetle
+3692,insect,katydid
+3693,insect,leech
+3694,insect,black widow
+3695,insect,boll weevil
+3696,insect,deerfly
+3697,insect,firefly
+3698,insect,honeybee
+3699,insect,larvae
+3700,insect,pill bug
+3701,insect,rodent
+3702,insect,silver bug
+3703,insect,silverfork
+3704,insect,slug
+3705,girls first name,mary
+3706,girls first name,sue
+3707,girls first name,ann
+3708,girls first name,jane
+3709,girls first name,judy
+3710,girls first name,carol
+3711,girls first name,barbara
+3712,girls first name,cathy
+3713,girls first name,linda
+3714,girls first name,joan
+3715,girls first name,nancy
+3716,girls first name,betty
+3717,girls first name,jean
+3718,girls first name,susan
+3719,girls first name,karen
+3720,girls first name,pat
+3721,girls first name,joyce
+3722,girls first name,diane
+3723,girls first name,sally
+3724,girls first name,sharon
+3725,girls first name,alice
+3726,girls first name,lynn
+3727,girls first name,sandy
+3728,girls first name,ellen
+3729,girls first name,helen
+3730,girls first name,ruth
+3731,girls first name,margaret
+3732,girls first name,janet
+3733,girls first name,pam
+3734,girls first name,caroline
+3735,girls first name,gail
+3736,girls first name,jill
+3737,girls first name,june
+3738,girls first name,joanne
+3739,girls first name,marie
+3740,girls first name,bonnie
+3741,girls first name,debbie
+3742,girls first name,donna
+3743,girls first name,janice
+3744,girls first name,louise
+3745,girls first name,beth
+3746,girls first name,elaine
+3747,girls first name,martha
+3748,girls first name,marcia
+3749,girls first name,sara
+3750,girls first name,sherry
+3751,girls first name,elizabeth
+3752,girls first name,marilyn
+3753,girls first name,terry
+3754,girls first name,barb
+3755,girls first name,peggy
+3756,girls first name,jackie
+3757,girls first name,julie
+3758,girls first name,rita
+3759,girls first name,sandra
+3760,girls first name,eileen
+3761,girls first name,frances
+3762,girls first name,virginia
+3763,girls first name,beverly
+3764,girls first name,cheryl
+3765,girls first name,leslie
+3766,girls first name,harriet
+3767,girls first name,laura
+3768,girls first name,phyllis
+3769,girls first name,susie
+3770,girls first name,cindy
+3771,girls first name,betsy
+3772,girls first name,chris
+3773,girls first name,diana
+3774,girls first name,lisa
+3775,girls first name,lois
+3776,girls first name,shirley
+3777,girls first name,vicki
+3778,girls first name,bobbie
+3779,girls first name,fran
+3780,girls first name,joy
+3781,girls first name,kay
+3782,girls first name,michele
+3783,girls first name,paula
+3784,girls first name,arlene
+3785,girls first name,brenda
+3786,girls first name,connie
+3787,girls first name,doris
+3788,girls first name,dorothy
+3789,girls first name,gloria
+3790,girls first name,irene
+3791,girls first name,jan
+3792,girls first name,liz
+3793,girls first name,marge
+3794,girls first name,margo
+3795,girls first name,patricia
+3796,girls first name,suzanne
+3797,girls first name,gerry
+3798,girls first name,ginny
+3799,girls first name,jenny
+3800,girls first name,jo
+3801,girls first name,margie
+3802,girls first name,patty
+3803,girls first name,sheila
+3804,girls first name,wendy
+3805,girls first name,charlotte
+3806,girls first name,christine
+3807,girls first name,grace
+3808,girls first name,lee
+3809,girls first name,marian
+3810,girls first name,molly
+3811,girls first name,rose
+3812,girls first name,theresa
+3813,girls first name,dottie
+3814,girls first name,georgia
+3815,girls first name,gertrude
+3816,girls first name,laurie
+3817,girls first name,may
+3818,girls first name,paulette
+3819,girls first name,penny
+3820,girls first name,sylvia
+3821,girls first name,amy
+3822,girls first name,annette
+3823,girls first name,charlene
+3824,girls first name,ethel
+3825,girls first name,evelyn
+3826,girls first name,florence
+3827,girls first name,iris
+3828,girls first name,julia
+3829,girls first name,kim
+3830,girls first name,lucy
+3831,girls first name,rhonda
+3832,girls first name,shelly
+3833,girls first name,anna
+3834,girls first name,april
+3835,girls first name,candy
+3836,girls first name,carla
+3837,girls first name,catherine
+3838,girls first name,claire
+3839,girls first name,delores
+3840,girls first name,lorraine
+3841,girls first name,maria
+3842,girls first name,marlene
+3843,girls first name,mary ann
+3844,girls first name,rebecca
+3845,girls first name,robin
+3846,girls first name,rosemary
+3847,girls first name,tina
+3848,girls first name,tony
+3849,girls first name,andrea
+3850,girls first name,anita
+3851,girls first name,audrey
+3852,girls first name,becky
+3853,girls first name,dale
+3854,girls first name,darlene
+3855,girls first name,dawn
+3856,girls first name,denise
+3857,girls first name,ella
+3858,girls first name,emily
+3859,girls first name,esther
+3860,girls first name,jeanette
+3861,girls first name,kitty
+3862,girls first name,madelyn
+3863,girls first name,maggie
+3864,girls first name,mildred
+3865,girls first name,monica
+3866,girls first name,natalie
+3867,girls first name,patsy
+3868,girls first name,rene
+3869,girls first name,roberta
+3870,girls first name,samantha
+3871,girls first name,trudy
+3872,girls first name,vivian
+3873,girls first name,wanda
+3874,girls first name,wilma
+3875,girls first name,agnes
+3876,girls first name,billie
+3877,girls first name,carmen
+3878,girls first name,cynthia
+3879,girls first name,deanna
+3880,girls first name,debra
+3881,girls first name,deedee
+3882,girls first name,dodie
+3883,girls first name,doreen
+3884,girls first name,edith
+3885,girls first name,edna
+3886,girls first name,eleanor
+3887,girls first name,emma
+3888,girls first name,eve
+3889,girls first name,faith
+3890,girls first name,gay
+3891,girls first name,heather
+3892,girls first name,holly
+3893,girls first name,jacqueline
+3894,girls first name,jennifer
+3895,girls first name,josephine
+3896,girls first name,kathleen
+3897,girls first name,katie
+3898,girls first name,loretta
+3899,girls first name,marty
+3900,girls first name,mary ellen
+3901,girls first name,mary lou
+3902,girls first name,matilda
+3903,girls first name,maxine
+3904,girls first name,melanie
+3905,girls first name,melinda
+3906,girls first name,melissa
+3907,girls first name,millie
+3908,girls first name,nina
+3909,girls first name,norma
+3910,girls first name,polly
+3911,girls first name,renee
+3912,girls first name,rochelle
+3913,girls first name,stephanie
+3914,girls first name,suzy
+3915,girls first name,tammy
+3916,girls first name,tricia
+3917,girls first name,veronica
+3918,girls first name,abby
+3919,girls first name,abigail
+3920,girls first name,adrienne
+3921,girls first name,angela
+3922,girls first name,angie
+3923,girls first name,annie
+3924,girls first name,babs
+3925,girls first name,bev
+3926,girls first name,bridgette
+3927,girls first name,camile
+3928,girls first name,cassandra
+3929,girls first name,cherie
+3930,girls first name,coreen
+3931,girls first name,dana
+3932,girls first name,danine
+3933,girls first name,deena
+3934,girls first name,desi
+3935,girls first name,dora
+3936,girls first name,elsea
+3937,girls first name,elsie
+3938,girls first name,elvira
+3939,girls first name,enid
+3940,girls first name,faye
+3941,girls first name,frieda
+3942,girls first name,georgette
+3943,girls first name,geraldine
+3944,girls first name,ginger
+3945,girls first name,gladys
+3946,girls first name,gretchen
+3947,girls first name,hilda
+3948,girls first name,hope
+3949,girls first name,ingrid
+3950,girls first name,isabelle
+3951,girls first name,janette
+3952,girls first name,janie
+3953,girls first name,jeannine
+3954,girls first name,johanna
+3955,girls first name,kimberly
+3956,girls first name,lana
+3957,girls first name,lauren
+3958,girls first name,libby
+3959,girls first name,lil
+3960,girls first name,lillian
+3961,girls first name,lily
+3962,girls first name,lucile
+3963,girls first name,lynnette
+3964,girls first name,mara
+3965,girls first name,maureen
+3966,girls first name,merle
+3967,girls first name,mona
+3968,girls first name,myra
+3969,girls first name,olivia
+3970,girls first name,pauline
+3971,girls first name,pearl
+3972,girls first name,rachel
+3973,girls first name,resa
+3974,girls first name,ronnie
+3975,girls first name,rozzy
+3976,girls first name,ruby
+3977,girls first name,saundra
+3978,girls first name,selene
+3979,girls first name,shan
+3980,girls first name,sonia
+3981,girls first name,sonny
+3982,girls first name,stella
+3983,girls first name,teddy
+3984,girls first name,thomasina
+3985,males first name,john
+3986,males first name,bob
+3987,males first name,bill
+3988,males first name,jim
+3989,males first name,tom
+3990,males first name,joe
+3991,males first name,dick
+3992,males first name,mike
+3993,males first name,george
+3994,males first name,jack
+3995,males first name,harry
+3996,males first name,steve
+3997,males first name,larry
+3998,males first name,frank
+3999,males first name,paul
+4000,males first name,sam
+4001,males first name,richard
+4002,males first name,dave
+4003,males first name,fred
+4004,males first name,mark
+4005,males first name,charles
+4006,males first name,jerry
+4007,males first name,ed
+4008,males first name,pete
+4009,males first name,rick
+4010,males first name,robert
+4011,males first name,don
+4012,males first name,david
+4013,males first name,bruce
+4014,males first name,gary
+4015,males first name,carl
+4016,males first name,henry
+4017,males first name,james
+4018,males first name,ron
+4019,males first name,ken
+4020,males first name,michael
+4021,males first name,al
+4022,males first name,chuck
+4023,males first name,jeff
+4024,males first name,ralph
+4025,males first name,terry
+4026,males first name,alan
+4027,males first name,dan
+4028,males first name,peter
+4029,males first name,ted
+4030,males first name,tony
+4031,males first name,ray
+4032,males first name,brian
+4033,males first name,tim
+4034,males first name,wayne
+4035,males first name,william
+4036,males first name,doug
+4037,males first name,phil
+4038,males first name,roger
+4039,males first name,harvey
+4040,males first name,howard
+4041,males first name,barry
+4042,males first name,andy
+4043,males first name,joseph
+4044,males first name,roy
+4045,males first name,edward
+4046,males first name,gene
+4047,males first name,lee
+4048,males first name,dennis
+4049,males first name,thomas
+4050,males first name,pat
+4051,males first name,dale
+4052,males first name,allen
+4053,males first name,arthur
+4054,males first name,greg
+4055,males first name,kevin
+4056,males first name,rich
+4057,males first name,vince
+4058,males first name,albert
+4059,males first name,earl
+4060,males first name,glenn
+4061,males first name,harold
+4062,males first name,jay
+4063,males first name,marty
+4064,males first name,stephen
+4065,males first name,walt
+4066,males first name,donald
+4067,males first name,hank
+4068,males first name,herman
+4069,males first name,luke
+4070,males first name,neil
+4071,males first name,nick
+4072,males first name,philip
+4073,males first name,russell
+4074,males first name,tod
+4075,males first name,warren
+4076,males first name,ben
+4077,males first name,chris
+4078,males first name,lenny
+4079,males first name,lou
+4080,males first name,alex
+4081,males first name,art
+4082,males first name,charlie
+4083,males first name,danny
+4084,males first name,denny
+4085,males first name,elmer
+4086,males first name,kenneth
+4087,males first name,matthew
+4088,males first name,max
+4089,males first name,ronald
+4090,males first name,skip
+4091,males first name,stan
+4092,males first name,stuart
+4093,males first name,craig
+4094,males first name,eric
+4095,males first name,keith
+4096,males first name,lloyd
+4097,males first name,louis
+4098,males first name,randy
+4099,males first name,russ
+4100,males first name,alfred
+4101,males first name,arnold
+4102,males first name,burt
+4103,males first name,clyde
+4104,males first name,curt
+4105,males first name,dean
+4106,males first name,kenny
+4107,males first name,mac
+4108,males first name,sid
+4109,males first name,sidney
+4110,males first name,walter
+4111,males first name,abe
+4112,males first name,brad
+4113,males first name,brent
+4114,males first name,daniel
+4115,males first name,eliot
+4116,males first name,joel
+4117,males first name,matt
+4118,males first name,mel
+4119,males first name,norman
+4120,males first name,scott
+4121,males first name,stanley
+4122,males first name,timothy
+4123,males first name,adam
+4124,males first name,alvin
+4125,males first name,benjamin
+4126,males first name,bernie
+4127,males first name,butch
+4128,males first name,ernie
+4129,males first name,francis
+4130,males first name,gordan
+4131,males first name,herb
+4132,males first name,ira
+4133,males first name,jacob
+4134,males first name,jeffrey
+4135,males first name,kent
+4136,males first name,lawrence
+4137,males first name,len
+4138,males first name,leonard
+4139,males first name,marvin
+4140,males first name,rob
+4141,males first name,ronnie
+4142,males first name,ross
+4143,males first name,sonny
+4144,males first name,vic
+4145,males first name,victor
+4146,males first name,aaron
+4147,males first name,andrew
+4148,males first name,benny
+4149,males first name,bernard
+4150,males first name,bud
+4151,males first name,calvin
+4152,males first name,chip
+4153,males first name,darryl
+4154,males first name,duane
+4155,males first name,ernest
+4156,males first name,erwin
+4157,males first name,gus
+4158,males first name,guy
+4159,males first name,gregory
+4160,males first name,homer
+4161,males first name,horace
+4162,males first name,johnny
+4163,males first name,leo
+4164,males first name,leon
+4165,males first name,les
+4166,males first name,louie
+4167,males first name,lyle
+4168,males first name,martin
+4169,males first name,maurice
+4170,males first name,mickey
+4171,males first name,mitchell
+4172,males first name,patrick
+4173,males first name,ricky
+4174,males first name,rodney
+4175,males first name,terrance
+4176,males first name,timmy
+4177,males first name,vernon
+4178,males first name,wally
+4179,males first name,will
+4180,males first name,willy
+4181,males first name,adolf
+4182,males first name,anthony
+4183,males first name,brooks
+4184,males first name,buddy
+4185,males first name,cal
+4186,males first name,cary
+4187,males first name,cecil
+4188,males first name,christopher
+4189,males first name,everette
+4190,males first name,fritz
+4191,males first name,gerald
+4192,males first name,gill
+4193,males first name,hal
+4194,males first name,harris
+4195,males first name,herbert
+4196,males first name,howie
+4197,males first name,hugh
+4198,males first name,irving
+4199,males first name,jason
+4200,males first name,jeb
+4201,males first name,jimmy
+4202,males first name,julius
+4203,males first name,kim
+4204,males first name,lance
+4205,males first name,lem
+4206,males first name,leslie
+4207,males first name,lonny
+4208,males first name,lynn
+4209,males first name,manny
+4210,males first name,melvin
+4211,males first name,mick
+4212,males first name,moe
+4213,males first name,nat
+4214,males first name,nicholas
+4215,males first name,norm
+4216,males first name,norris
+4217,males first name,oscar
+4218,males first name,randolf
+4219,males first name,richie
+4220,males first name,ringo
+4221,males first name,roland
+4222,males first name,sammy
+4223,males first name,sean
+4224,males first name,simon
+4225,males first name,sylvester
+4226,males first name,theodore
+4227,males first name,tommy
+4228,males first name,vincent
+4229,males first name,zeke
+4230,flower,rose
+4231,flower,tulip
+4232,flower,carnation
+4233,flower,daisy
+4234,flower,violet
+4235,flower,orchid
+4236,flower,chrysanthemum
+4237,flower,lily
+4238,flower,pansy
+4239,flower,petunia
+4240,flower,gardenia
+4241,flower,daffodil
+4242,flower,dandelion
+4243,flower,iris
+4244,flower,lilac
+4245,flower,geranium
+4246,flower,peony
+4247,flower,sunflower
+4248,flower,azalea
+4249,flower,gladiola
+4250,flower,lily-of-the-valley
+4251,flower,snapdragon
+4252,flower,poppy
+4253,flower,black-eyed susan
+4254,flower,zinnia
+4255,flower,jonquil
+4256,flower,buttercup
+4257,flower,marigold
+4258,flower,sweet pea
+4259,flower,morning glory
+4260,flower,magnolia
+4261,flower,aster
+4262,flower,hyacinth
+4263,flower,camellia
+4264,flower,begonia
+4265,flower,poinsetta
+4266,flower,bachelor's button
+4267,flower,crocus
+4268,flower,posy
+4269,flower,bluebell
+4270,flower,dogwood
+4271,flower,bleeding heart
+4272,flower,cherry blossom
+4273,flower,tiger lily
+4274,flower,water lily
+4275,flower,african violet
+4276,flower,apple blossom
+4277,flower,dahlia
+4278,flower,flag
+4279,flower,four-o'clock
+4280,flower,narcissus
+4281,flower,orange blossom
+4282,flower,sweet william
+4283,flower,fleur-de-lis
+4284,flower,forget-me-not
+4285,flower,forsythia
+4286,flower,hollyhock
+4287,flower,wild
+4288,flower,bloom
+4289,flower,bridal wreath
+4290,flower,clover
+4291,flower,garden
+4292,flower,goldenrod
+4293,flower,hibiscus
+4294,flower,honeysuckle
+4295,flower,nasturtium
+4296,flower,petal
+4297,flower,phlox
+4298,flower,pink
+4299,flower,pretty
+4300,flower,rhododendron
+4301,flower,snowball
+4302,disease,cancer
+4303,disease,tuberculosis
+4304,disease,measles
+4305,disease,heart disease
+4306,disease,polio
+4307,disease,chicken pox
+4308,disease,mumps
+4309,disease,cold
+4310,disease,smallpox
+4311,disease,leukemia
+4312,disease,mononucleosis
+4313,disease,malaria
+4314,disease,syphilis
+4315,disease,pneumonia
+4316,disease,flu
+4317,disease,leprosy
+4318,disease,typhoid
+4319,disease,scarlet fever
+4320,disease,diphtheria
+4321,disease,venereal disease
+4322,disease,diabetes
+4323,disease,gonorrhea
+4324,disease,yellow fever
+4325,disease,arthritis
+4326,disease,multiple sclerosis
+4327,disease,rheumatic fever
+4328,disease,muscular dystrophy
+4329,disease,whooping cough
+4330,disease,cholera
+4331,disease,hepatitus
+4332,disease,parkinson's diseas
+4333,disease,alcoholism
+4334,disease,beriberi
+4335,disease,rickets
+4336,disease,virus
+4337,disease,rabies
+4338,disease,mental illness
+4339,disease,tetanus
+4340,disease,arteriosclerosis
+4341,disease,athlete's foot
+4342,disease,cerebral palsy
+4343,disease,dysentery
+4344,disease,emphysema
+4345,disease,encephalitis
+4346,disease,hemophilia
+4347,disease,influenza
+4348,disease,pick's disease
+4349,disease,plague
+4350,disease,scurvy
+4351,disease,yellow jaundice
+4352,disease,typhus
+4353,disease,asthma
+4354,disease,bronchitis
+4355,disease,sleeping sickness
+4356,disease,tonsilitis
+4357,disease,brucellosis
+4358,disease,bubonic plague
+4359,disease,coronary
+4360,disease,epilepsy
+4361,disease,hay fever
+4362,disease,hodgkin's disease
+4363,disease,palsy
+4364,disease,stroke
+4365,disease,trench mouth
+4366,disease,addison's disease
+4367,disease,black plague
+4368,disease,botulism
+4369,disease,coronary thrombosi
+4370,disease,cough
+4371,disease,diarrhea
+4372,disease,elephantiasis
+4373,disease,fungus
+4374,disease,kidney disease
+4375,disease,meningitis
+4376,disease,rheumatism
+4377,disease,strep throat
+4378,disease,tumors
+4379,disease,allergy
+4380,disease,anthrax
+4381,disease,bad
+4382,disease,cirrhosis of the l
+4383,disease,consumption
+4384,disease,fever
+4385,disease,food poisoning
+4386,disease,gangrene
+4387,disease,glaucoma
+4388,disease,infantile paralysi
+4389,disease,jaundice
+4390,disease,liver
+4391,disease,lockjaw
+4392,disease,lung
+4393,disease,neurosis
+4394,disease,paralysis
+4395,disease,psoriasis
+4396,disease,rocky mountain spo
+4397,disease,roseola
+4398,disease,schizophrenia
+4399,disease,sore throat
+4400,disease,spinal meningitis
+4401,disease,thyroid
+4402,disease,varicose veins
+4403,tree,oak
+4404,tree,maple
+4405,tree,pine
+4406,tree,elm
+4407,tree,apple
+4408,tree,birch
+4409,tree,cherry
+4410,tree,dogwood
+4411,tree,spruce
+4412,tree,redwood
+4413,tree,peach
+4414,tree,weeping willow
+4415,tree,walnut
+4416,tree,fir
+4417,tree,hickory
+4418,tree,pear
+4419,tree,sycamore
+4420,tree,ash
+4421,tree,poplar
+4422,tree,willow
+4423,tree,chestnut
+4424,tree,cedar
+4425,tree,evergreen
+4426,tree,palm
+4427,tree,beech
+4428,tree,orange
+4429,tree,magnolia
+4430,tree,tulip
+4431,tree,locust
+4432,tree,plum
+4433,tree,cottonwood
+4434,tree,gingo
+4435,tree,sequoia
+4436,tree,christmas
+4437,tree,holly
+4438,tree,mimosa
+4439,tree,cypress
+4440,tree,lemon
+4441,tree,mulberry
+4442,tree,fern
+4443,tree,fig
+4444,tree,mahogany
+4445,tree,redbud
+4446,tree,catalpa
+4447,tree,eucalyptus
+4448,tree,fruit
+4449,tree,gum
+4450,tree,hemlock
+4451,tree,sassafras
+4452,tree,acorn
+4453,tree,aspen
+4454,tree,crab apple
+4455,tree,white pine
+4456,tree,balsam
+4457,tree,pussy willow
+4458,tree,rubber
+4459,tree,teak
+4460,tree,white oak
+4461,tree,balsa
+4462,tree,banana
+4463,tree,chinese elm
+4464,tree,coconut
+4465,tree,deciduous
+4466,tree,honey locust
+4467,tree,linden
+4468,tree,pin oak
+4469,tree,red maple
+4470,tree,sugar maple
+4471,tree,tulip poplar
+4472,tree,white birch
+4473,tree,yew
+4474,tree,apricot
+4475,tree,box elder
+4476,tree,cherry blossom
+4477,tree,hawthorn
+4478,tree,huckleberry
+4479,tree,pecan
+4480,tree,sumac
+4481,tree,silver maple
+4482,tree,sweet gum
+4483,tree,bark
+4484,tree,basswood
+4485,tree,beechwood
+4486,tree,black gum
+4487,tree,black oak
+4488,tree,blue spruce
+4489,tree,branch
+4490,tree,coniferous
+4491,tree,grapefruit
+4492,tree,green
+4493,tree,honeysuckle
+4494,tree,horse chestnut
+4495,tree,ironwood
+4496,tree,juniper
+4497,tree,olive
+4498,tree,persimmon
+4499,tree,sapling
+4500,tree,scottish pine
+4501,tree,shade
+4502,tree,tree of heaven
+4503,tree,versailles
+4504,type of ship,sailboat
+4505,type of ship,destroyer
+4506,type of ship,battle
+4507,type of ship,cruiser
+4508,type of ship,submarine
+4509,type of ship,ocean liner
+4510,type of ship,rowboat
+4511,type of ship,aircraft carrier
+4512,type of ship,yacht
+4513,type of ship,canoe
+4514,type of ship,freighter
+4515,type of ship,tugboat
+4516,type of ship,steamship
+4517,type of ship,p t boat
+4518,type of ship,schooner
+4519,type of ship,liner
+4520,type of ship,motorboat
+4521,type of ship,passenger
+4522,type of ship,cargo
+4523,type of ship,steamer
+4524,type of ship,tanker
+4525,type of ship,boat
+4526,type of ship,clipper
+4527,type of ship,barge
+4528,type of ship,sloop
+4529,type of ship,steamboat
+4530,type of ship,carrier
+4531,type of ship,speedboat
+4532,type of ship,dinghy
+4533,type of ship,cabin cruiser
+4534,type of ship,fishing
+4535,type of ship,steam liner
+4536,type of ship,raft
+4537,type of ship,runabout
+4538,type of ship,warship
+4539,type of ship,ferry
+4540,type of ship,frigate
+4541,type of ship,oil
+4542,type of ship,luxury liner
+4543,type of ship,outboard
+4544,type of ship,transport
+4545,type of ship,cutter
+4546,type of ship,vessel
+4547,type of ship,whaling
+4548,type of ship,yawl
+4549,type of ship,flatboat
+4550,type of ship,inboard
+4551,type of ship,skiff
+4552,type of ship,landing ship tank
+4553,type of ship,launch
+4554,type of ship,sailing ship
+4555,type of ship,banana boat
+4556,type of ship,catamaran
+4557,type of ship,junk
+4558,type of ship,kayak
+4559,type of ship,ketch
+4560,type of ship,minesweeper
+4561,type of ship,pleasure
+4562,type of ship,scow
+4563,type of ship,tender
+4564,type of ship,airplane
+4565,type of ship,brig
+4566,type of ship,flag
+4567,type of ship,galleon
+4568,type of ship,gunboat
+4569,type of ship,houseboat
+4570,type of ship,icebreaker
+4571,type of ship,merchant
+4572,type of ship,naval
+4573,type of ship,private
+4574,type of ship,repair
+4575,type of ship,rocket ship
+4576,type of ship,torpedo boat
+4577,type of ship,trawler
+4578,type of ship,u-boat
+4579,type of ship,water
+4580,type of ship,air
+4581,type of ship,atomic
+4582,type of ship,bark
+4583,type of ship,destroyer escort
+4584,type of ship,diesel
+4585,type of ship,dredge
+4586,type of ship,fireboat
+4587,type of ship,friend
+4588,type of ship,ironsides
+4589,type of ship,longship
+4590,type of ship,man-of-war
+4591,type of ship,navy
+4592,type of ship,nuclear ship
+4593,type of ship,outrigger
+4594,type of ship,pleasure cruiser
+4595,type of ship,pirate ship
+4596,type of ship,queen mary
+4597,type of ship,riverboat
+4598,type of ship,sampan
+4599,type of ship,ship
+4600,type of ship,ship of state
+4601,type of ship,spaceship
+4602,type of ship,supply
+4603,type of ship,tramp steamer
+4604,type of ship,tub
+4605,type of ship,u.s.s. constitutio
+4606,type of ship,windjammer
+4607,fish,trout
+4608,fish,bass
+4609,fish,shark
+4610,fish,herring
+4611,fish,catfish
+4612,fish,perch
+4613,fish,salmon
+4614,fish,tuna
+4615,fish,goldfish
+4616,fish,swordfish
+4617,fish,sunfish
+4618,fish,whale
+4619,fish,rock
+4620,fish,cod
+4621,fish,bluegill
+4622,fish,carp
+4623,fish,pike
+4624,fish,minnow
+4625,fish,guppy
+4626,fish,flounder
+4627,fish,marlin
+4628,fish,shrimp
+4629,fish,barracuda
+4630,fish,bluefish
+4631,fish,mackerel
+4632,fish,sailfish
+4633,fish,porpoise
+4634,fish,shad
+4635,fish,spot
+4636,fish,lobster
+4637,fish,haddock
+4638,fish,muskie
+4639,fish,crappie
+4640,fish,angel
+4641,fish,crab
+4642,fish,halibut
+4643,fish,white
+4644,fish,sardine
+4645,fish,blowfish
+4646,fish,eel
+4647,fish,oyster
+4648,fish,walleye
+4649,fish,clam
+4650,fish,red snapper
+4651,fish,whiting
+4652,fish,dolphin
+4653,fish,piranha
+4654,fish,sturgeon
+4655,fish,garfish
+4656,fish,jellyfish
+4657,fish,squid
+4658,fish,starfish
+4659,fish,dogfish
+4660,fish,pickerel
+4661,fish,bullhead
+4662,fish,sucker
+4663,fish,tarpon
+4664,fish,bonefish
+4665,fish,butterfish
+4666,fish,crayfish
+4667,fish,flying
+4668,fish,grouper
+4669,fish,king
+4670,fish,octopus
+4671,fish,tropical
+4672,fish,black mollie
+4673,fish,bluefin
+4674,fish,hammerhead
+4675,fish,northern
+4676,fish,ray
+4677,fish,sole
+4678,fish,stingray
+4679,fish,tiger
+4680,fish,toadfish
+4681,fish,bullfish
+4682,fish,hardhead
+4683,fish,lox
+4684,fish,porgy
+4685,fish,rainbow trout
+4686,fish,scallop
+4687,fish,sea horse
+4688,fish,snapper
+4689,fish,swordtail
+4690,fish,yellow perch
+4691,fish,zebra
+4692,fish,angler
+4693,fish,billy gar
+4694,fish,black bass
+4695,fish,bonito
+4696,fish,crossopterygian
+4697,fish,gefillte
+4698,fish,large-mouth bass
+4699,fish,puffer
+4700,fish,rainbow
+4701,fish,salamander
+4702,fish,sawfish
+4703,fish,small-mouth bass
+4704,fish,smoked fish
+4705,fish,steak
+4706,fish,tadpole
+4707,fish,weak fish
+4708,fish,white marlin
+4709,snake,rattle
+4710,snake,black
+4711,snake,cobra
+4712,snake,copperhead
+4713,snake,garter
+4714,snake,water moccasin
+4715,snake,garden
+4716,snake,python
+4717,snake,poison
+4718,snake,coral
+4719,snake,boa
+4720,snake,boa constrictor
+4721,snake,cottonmouth
+4722,snake,green
+4723,snake,king
+4724,snake,grass
+4725,snake,diamondback
+4726,snake,blue racer
+4727,snake,water
+4728,snake,bull
+4729,snake,moccasin
+4730,snake,milk
+4731,snake,asp
+4732,snake,black jacket
+4733,snake,anaconda
+4734,snake,viper
+4735,snake,sidewinder
+4736,snake,diamond head
+4737,snake,eel
+4738,snake,pit viper
+4739,snake,worm
+4740,snake,reptile
+4741,snake,long
+4742,snake,adder
+4743,snake,constrictor
+4744,snake,nonpoisonous
+4745,snake,tiger
+4746,snake,venom
+4747,snake,bite
+4748,snake,black panther
+4749,snake,bushmaster
+4750,snake,corn
+4751,snake,cow
+4752,snake,hognose
+4753,snake,lizard
+4754,snake,ring
+4755,snake,serpent
+4756,snake,brown
+4757,snake,coil
+4758,snake,crawl
+4759,snake,dangerous
+4760,snake,diamond
+4761,snake,indigo
+4762,snake,king cobra
+4763,snake,rat
+4764,snake,rock
+4765,snake,timber rattler
+4766,snake,ugly
+4767,snake,venomous
+4768,snake,vine
+4769,snake,yellowbelly
+4770,city,new york
+4771,city,chicago
+4772,city,los angeles
+4773,city,washington
+4774,city,san francisco
+4775,city,baltimore
+4776,city,london
+4777,city,paris
+4778,city,miami
+4779,city,boston
+4780,city,philadelphia
+4781,city,detroit
+4782,city,dallas
+4783,city,champaign
+4784,city,st. louis
+4785,city,new orleans
+4786,city,rome
+4787,city,urbana
+4788,city,cleveland
+4789,city,pittsburg
+4790,city,denver
+4791,city,houston
+4792,city,college park
+4793,city,yokyo
+4794,city,silver spring
+4795,city,springfield
+4796,city,moscow
+4797,city,atlanta
+4798,city,berlin
+4799,city,tampa
+4800,city,annapolis
+4801,city,las vegas
+4802,city,peoria
+4803,city,bethesda
+4804,city,seattle
+4805,city,reno
+4806,city,san diego
+4807,city,columbus
+4808,city,kansas city
+4809,city,minneapolis
+4810,city,decatur
+4811,city,madrid
+4812,city,milwaukee
+4813,city,richmond
+4814,city,rockville
+4815,city,fort lauderdale
+4816,city,memphis
+4817,city,buffalo
+4818,city,hong kong
+4819,city,jacksonville
+4820,city,charleston
+4821,city,indianapolis
+4822,city,newark
+4823,city,sacramento
+4824,city,buildings
+4825,city,cincinnati
+4826,city,des moines
+4827,city,wheaton
+4828,city,austin
+4829,city,baton rouge
+4830,city,harrisburg
+4831,city,honolulu
+4832,city,hyattsville
+4833,city,ocean city
+4834,city,orlando
+4835,city,salt lake city
+4836,city,st. petersburg
+4837,city,wilmington
+4838,city,albany
+4839,city,alexandria
+4840,city,bombay
+4841,city,cinti
+4842,city,copenhagen
+4843,city,hartford
+4844,city,madison
+4845,city,miami beach
+4846,city,naples
+4847,city,nashville
+4848,city,phoenix
+4849,city,tulsa
+4850,city,bloomington
+4851,city,bonn
+4852,city,brussels
+4853,city,cambridge
+4854,city,cars
+4855,city,columbia
+4856,city,frederick
+4857,city,hagerstown
+4858,city,hollywood
+4859,city,kensington
+4860,city,lansing
+4861,city,louisville
+4862,city,salisbury
+4863,city,st. paul
+4864,city,takomark
+4865,city,tallahassee
+4866,city,towson
+4867,city,venice
+4868,city,york
+4869,city,athens
+4870,city,aurora
+4871,city,binghamton
+4872,city,birmingham
+4873,city,dayton
+4874,city,fort worth
+4875,city,greenbelt
+4876,city,hotel
+4877,city,houses
+4878,city,long beach
+4879,city,lucerne
+4880,city,mattoon
+4881,city,mobile
+4882,city,montreal
+4883,city,norfolk
+4884,city,oklahoma city
+4885,city,oslo
+4886,city,portland
+4887,city,prague
+4888,city,raleigh
+4889,city,riverdale
+4890,city,roanoke
+4891,city,rockford
+4892,city,salem
+4893,city,san jose
+4894,city,savannah
+4895,city,scranton
+4896,city,streets
+4897,city,toledo
+4898,city,topeka
+4899,city,tucson
+4900,city,vienna
+4901,city,albuquerque
+4902,city,arlington
+4903,city,aspen
+4904,city,bangkok
+4905,city,bars
+4906,city,battle creek
+4907,city,belleville
+4908,city,berkeley
+4909,city,boise
+4910,city,boulder
+4911,city,brooklyn
+4912,city,buenos aires
+4913,city,buses
+4914,city,calcutta
+4915,city,carbondale
+4916,city,charlotte
+4917,city,charlottesville
+4918,city,cheyenne
+4919,city,country
+4920,city,crowded
+4921,city,cumberland
+4922,city,cyor
+4923,city,falls church
+4924,city,florence
+4925,city,freeport
+4926,city,gary
+4927,city,glenburn
+4928,city,greenville
+4929,city,helena
+4930,city,hot
+4931,city,joliet
+4932,city,kalamazoo
+4933,city,lake forest
+4934,city,lancaster
+4935,city,la platte
+4936,city,laurel
+4937,city,luceine
+4938,city,mexico city
+4939,city,morton grove
+4940,city,new brunswick
+4941,city,new haven
+4942,city,new jersey
+4943,city,newport
+4944,city,pasadena
+4945,city,pensacola
+4946,city,portland
+4947,city,rantoul
+4948,city,restaurant
+4949,city,rio de janeiro
+4950,city,rotterdam
+4951,city,saigon
+4952,city,san antonio
+4953,city,sidewalks
+4954,city,slums
+4955,city,south bend
+4956,city,state
+4957,city,steator
+4958,city,stores
+4959,city,streets
+4960,city,toronto
+4961,city,traffic
+4962,city,wilkes-barre
+4963,city,youngstown
+4964,state,new york
+4965,state,california
+4966,state,maryland
+4967,state,florida
+4968,state,illinois
+4969,state,texas
+4970,state,virginia
+4971,state,pennsylvania
+4972,state,maine
+4973,state,new jersey
+4974,state,ohio
+4975,state,indiana
+4976,state,wisconsin
+4977,state,alabama
+4978,state,washington
+4979,state,iowa
+4980,state,georgia
+4981,state,north carolina
+4982,state,oregon
+4983,state,massachusetts
+4984,state,south carolina
+4985,state,delaware
+4986,state,michigan
+4987,state,vermont
+4988,state,new mexico
+4989,state,new hampshire
+4990,state,mississippi
+4991,state,alaska
+4992,state,colorado
+4993,state,hawaii
+4994,state,louisiana
+4995,state,rhode island
+4996,state,kentucky
+4997,state,missouri
+4998,state,utah
+4999,state,west virginia
+5000,state,arizona
+5001,state,tennessee
+5002,state,north dakota
+5003,state,neveda
+5004,state,montana
+5005,state,connecticut
+5006,state,south dakota
+5007,state,arkansas
+5008,state,minnisota
+5009,state,wyoming
+5010,state,idaho
+5011,state,kansas
+5012,state,nebraska
+5013,state,oklahoma
+5014,state,confusion
+5015,state,happiness
+5016,state,new orleans
+5017,college or university,u.maryland
+5018,college or university,u.illinois
+5019,college or university,harvard
+5020,college or university,yale
+5021,college or university,ucla
+5022,college or university,princeton
+5023,college or university,u.michigan
+5024,college or university,duke
+5025,college or university,penn state
+5026,college or university,northwestern
+5027,college or university,u.wisconsin
+5028,college or university,mit
+5029,college or university,new york u.
+5030,college or university,u.virginia
+5031,college or university,purdue
+5032,college or university,southern illinois
+5033,college or university,cornell
+5034,college or university,indiana u.
+5035,college or university,u.chicago
+5036,college or university,american u.
+5037,college or university,dartmouth
+5038,college or university,ohio state
+5039,college or university,u.california
+5040,college or university,columbia
+5041,college or university,stanford
+5042,college or university,u.iowa
+5043,college or university,u.north carolina
+5044,college or university,georgetown u.
+5045,college or university,george washington
+5046,college or university,northern illinois
+5047,college or university,u.miami
+5048,college or university,michigan state
+5049,college or university,north carolina sta
+5050,college or university,rutgers
+5051,college or university,u.florida
+5052,college or university,u.pennsylvania
+5053,college or university,vassar
+5054,college or university,oxford
+5055,college or university,bradley
+5056,college or university,notre dame
+5057,college or university,u.s. naval academy
+5058,college or university,u.minnesota
+5059,college or university,u.south carolina
+5060,college or university,u.washington
+5061,college or university,brown u.
+5062,college or university,clemson
+5063,college or university,western illinois
+5064,college or university,berkeley
+5065,college or university,cal tech
+5066,college or university,radcliffe
+5067,college or university,johns hopkins
+5068,college or university,u.so. california
+5069,college or university,eastern illinois
+5070,college or university,illinois institute
+5071,college or university,u.pittsburg
+5072,college or university,u.texas
+5073,college or university,bucknell
+5074,college or university,tulane
+5075,college or university,western maryland
+5076,college or university,catholic u.
+5077,college or university,georgia tech
+5078,college or university,goucher
+5079,college or university,loyola
+5080,college or university,maryland jr.c.
+5081,college or university,u.baltimore
+5082,college or university,william and mary
+5083,college or university,boston u.
+5084,college or university,cambridge
+5085,college or university,millikin
+5086,college or university,syracuse u.
+5087,college or university,towson
+5088,college or university,u.colorado
+5089,college or university,u.west virginia
+5090,college or university,wake forest
+5091,college or university,brandeis
+5092,college or university,frostburg
+5093,college or university,miami u.
+5094,college or university,normal
+5095,college or university,ohio u.
+5096,college or university,u. delaware
+5097,college or university,texas a.&m.
+5098,college or university,drake
+5099,college or university,gettysburg c.
+5100,college or university,louisiana state u.
+5101,college or university,trinity c.
+5102,college or university,u. oklahoma
+5103,college or university,wellesley
+5104,college or university,colgate
+5105,college or university,de paul
+5106,college or university,drexel institute o
+5107,college or university,iowa state u.
+5108,college or university,mount saint mary's
+5109,college or university,smith
+5110,college or university,u. alabama
+5111,college or university,west point
+5112,college or university,howard u.
+5113,college or university,illinois state
+5114,college or university,knox
+5115,college or university,new york city c.
+5116,college or university,salisbury state
+5117,college or university,south carolina sta
+5118,college or university,temple
+5119,college or university,u. cincinnati
+5120,college or university,u. denver
+5121,college or university,u. georgia
+5122,college or university,u. kentucky
+5123,college or university,u. mississippi
+5124,college or university,u. south florida
+5125,college or university,virginia tech.
+5126,college or university,virginia military
+5127,college or university,wesleyan
+5128,college or university,western michigan
+5129,college or university,arizona state
+5130,college or university,arts and science
+5131,college or university,barnard
+5132,college or university,education
+5133,college or university,florida state
+5134,college or university,franklin and marsh
+5135,college or university,hood
+5136,college or university,monmouth
+5137,college or university,oberlin
+5138,college or university,pgcc
+5139,college or university,queens
+5140,college or university,sorbonne
+5141,college or university,st. joseph's
+5142,college or university,swarthmore
+5143,college or university,u. arizona
+5144,college or university,u. hawaii
+5145,college or university,u. kansas
+5146,college or university,u. massachusetts
+5147,college or university,virginia polytechn
+5148,college or university,washington and lee
+5149,college or university,amherst
+5150,college or university,augustana
+5151,college or university,baltimore jr. c.
+5152,college or university,depauw
+5153,college or university,emory
+5154,college or university,kansas state
+5155,college or university,learning
+5156,college or university,lehigh
+5157,college or university,macmurray
+5158,college or university,morgan state
+5159,college or university,north central
+5160,college or university,parsons
+5161,college or university,randolf-macon
+5162,college or university,rockford
+5163,college or university,sarah lawrence
+5164,college or university,school
+5165,college or university,southern methodist
+5166,college or university,strayer
+5167,college or university,sweet briar
+5168,college or university,u. arkansaw
+5169,college or university,u. st. louis
+5170,college or university,u.s. air force aca
+5171,college or university,u.s. military acad
+5172,college or university,villanova
+5173,college or university,allegheny
+5174,college or university,antioch
+5175,college or university,aurora
+5176,college or university,bennington
+5177,college or university,blackburn
+5178,college or university,brooklyn
+5179,college or university,bryn mawr
+5180,college or university,carnegie institute
+5181,college or university,central michigan
+5182,college or university,chatham
+5183,college or university,chicago teacher's
+5184,college or university,classes
+5185,college or university,colby
+5186,college or university,danville jr. c.
+5187,college or university,denison
+5188,college or university,dickinson c.
+5189,college or university,dunbarton
+5190,college or university,fordham
+5191,college or university,furman
+5192,college or university,grinnell
+5193,college or university,hollins
+5194,college or university,holy cross
+5195,college or university,lewis
+5196,college or university,marietta
+5197,college or university,marjorie webster
+5198,college or university,marymount
+5199,college or university,middlebury
+5200,college or university,murray state
+5201,college or university,pembroke
+5202,college or university,phys. ed.
+5203,college or university,potomac state
+5204,college or university,rice institute
+5205,college or university,ripon
+5206,college or university,rochester
+5207,college or university,roosevelt
+5208,college or university,seton hall u.
+5209,college or university,shepherd
+5210,college or university,st. francis
+5211,college or university,st. mary's seminar
+5212,college or university,study
+5213,college or university,thurman
+5214,college or university,tufts
+5215,college or university,u. connecticut
+5216,college or university,u. detroit
+5217,college or university,u. missouri
+5218,college or university,u. montana
+5219,college or university,u. new mexico
+5220,college or university,u. oregon
+5221,college or university,u. tennessee
+5222,college or university,u. utah
+5223,college or university,u. vermont
+5224,college or university,upper iowa
+5225,college or university,u.s. coast guard a
+5226,college or university,wesley
+5227,college or university,western reserve
+5228,college or university,wheaton
+5229,college or university,williams
+5230,college or university,work
