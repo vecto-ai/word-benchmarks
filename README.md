@@ -1,6 +1,6 @@
 # Benchmarks for intrinsic evaluation word embeddings
 
-## All publicly available datasets in a unified format in one place.
+## **THE DEVELOPMENT STOPPED, PROJECT TRANSFERRED TO [VECTO](https://github.com/vecto-ai)**
 
 ### 1. Word semantic similarity ####
 
